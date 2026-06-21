@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-06-20",
+  "rules": "Only high-confidence exact matches are public.",
+  "summary": {
+    "total_reviewed": 66,
+    "published_high_confidence": 7,
+    "placeholders": 59,
+    "manual_review": 59
+  },
+  "products": [
+    {
+      "product_id": "famall-001",
+      "name": "BERCLEAN Моющее средство для мытья посуды",
+      "image_path": "assets/images/products/famall-001-taplink.jpg",
+      "source_url": "https://famall-ufa.taplink.ws/o/c6a42f/",
+      "source_file": null,
+      "confidence": "high",
+      "reason": "Taplink FAMALL: BERCLEAN, средство для мытья посуды, упаковка 1 кг совпадают."
+    },
+    {
+      "product_id": "famall-002",
+      "name": "BERCLEAN Моющее средство для мытья посуды с экстрактом лимона",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-003",
+      "name": "BERCLEAN Моющее средство для мытья посуды с экстрактом апельсина",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-004",
+      "name": "BERCLEAN Жидкость для мытья посуды с экстрактом бамбука",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": "https://ledyanna.ru/product/gel-dlya-mytya-posudy-i-life/",
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Источник является сторонним магазином; изображение не публикуется."
+    },
+    {
+      "product_id": "famall-005",
+      "name": "Многофункциональные одноразовые салфетки из бамбука",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-006",
+      "name": "Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-007",
+      "name": "Набор салфеток для мытья посуды и уборки р-р 25*25, 3 штуки",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-008",
+      "name": "OKFAD Набор для очищения",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-009",
+      "name": "Сжатое полотенце из хлопка 22 штуки в наборе",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-011",
+      "name": "MIAOROU Влажные салфетки для кухнир-р 20*25",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-012",
+      "name": "Очиститель барабана стиральной машины 3 шт *",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": "https://global.green-leaf.shop/",
+      "source_file": null,
+      "confidence": "medium",
+      "reason": "Товар похож и объем совпадает, но официальный статус источника и упаковка не подтверждены."
+    },
+    {
+      "product_id": "famall-013",
+      "name": "BERCLEAN Шарики для защиты цвета, аромат природы",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-014",
+      "name": "BERCLEAN Шарики для защиты цвета, аромат сакуры",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-015",
+      "name": "BERCLEAN Шарики для защиты цвета, аромат цветов",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-016",
+      "name": "BERCLEAN Жидкость для стирки/ автомат",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-017",
+      "name": "BERCLEAN Жидкость для стирки/ ручная стирка/ машинная",
+      "image_path": "assets/images/products/famall-017-famallnetwork.jpg",
+      "source_url": "https://famallnetwork.su/product/zhidkost-dlya-stirki-mnogofuktsionalnaya-berclean-1000-ml-kupit-po-vygodnoy-tsene/",
+      "source_file": null,
+      "confidence": "high",
+      "reason": "Каталог FAMALL: BERCLEAN, жидкость для стирки и объем 1000 мл совпадают."
+    },
+    {
+      "product_id": "famall-018",
+      "name": "Miubaby специальное средство для стирки детских вещей",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": "https://famall-ufa.taplink.ws/o/c6506d/",
+      "source_file": null,
+      "confidence": "medium",
+      "reason": "Бренд и назначение совпадают, но объем 1000 мл в Taplink не указан."
+    },
+    {
+      "product_id": "famall-020",
+      "name": "Быстродействующий гель для чистки унитазав(усиленный)",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-021",
+      "name": "Средство для чистки унитаза \"Утенок\"",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-022",
+      "name": "YIJIAN COOL Холодная водорослевая зубная паста без фтора со вкусом Лунцзин и мяты",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-029",
+      "name": "Miubaby ДЕТСКАЯ Уход за деснами, зубами, профилактическая зубная паста",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-030",
+      "name": "YIJIAN Травянная зубная паста",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": "https://global.green-leaf.shop/",
+      "source_file": null,
+      "confidence": "medium",
+      "reason": "Название и объем совпадают, но официальный статус источника и упаковка не подтверждены."
+    },
+    {
+      "product_id": "famall-032",
+      "name": "OKFAD Зубная щетка для глубокой чистки зубов 2 штуки в наборе",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": "https://global.green-leaf.shop/",
+      "source_file": null,
+      "confidence": "medium",
+      "reason": "Название и количество совпадают, но официальный статус источника и упаковка не подтверждены."
+    },
+    {
+      "product_id": "famall-033",
+      "name": "LIMANCY Антисептическая массажная жидкость с китайской травами",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-035",
+      "name": "LIMANCY Крем для рук (фруктовый микс/спокойствие)",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-036",
+      "name": "LIMANCY Антиперспирант шариковый",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-038",
+      "name": "LIMANCY Эссенция для ухода за кожей",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-040",
+      "name": "PREDAWN пластыри для стоп с травами",
+      "image_path": "assets/images/products/famall-040-famallnetwork.jpg",
+      "source_url": "https://famallnetwork.su/product/naturalnye-plastyri-dlya-stop-predawn-20sht-kupit-po-vygodnoy-tsene/",
+      "source_file": null,
+      "confidence": "high",
+      "reason": "Каталог FAMALL: PREDAWN, пластыри для стоп и количество 20 шт. совпадают."
+    },
+    {
+      "product_id": "famall-045",
+      "name": "LIMANCY Разглаживающий шампунь против перхоти с женьшенем и оливковым маслом",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-046",
+      "name": "LIMANCY Шампунь от перхоти с желтым имбирем",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-048",
+      "name": "LIMANCY Шампунь Против Выпадения Волос",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-052",
+      "name": "LIMANCY Эфирное масло для ухода против сухости волос",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-053",
+      "name": "LIMANCY Освежающий солнцезащитный крем SPF50/50g",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": "https://famallnetwork.su/",
+      "source_file": null,
+      "confidence": "low",
+      "reason": "На найденной упаковке указан бренд TA, а в карточке LIMANCY."
+    },
+    {
+      "product_id": "famall-054",
+      "name": "LIMANCY Лосьон для тела с экстрактом полыни",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-057",
+      "name": "LIMANCY кондиционердля волос с полынью",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-058",
+      "name": "LIMANCY Питательный и увлажняющий гель для душа из серии \"с шелком\"",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-061",
+      "name": "LIMANCY Укрепляющая и осветляющая маска для лица с женьшенем",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-064",
+      "name": "LIMANCY Увлажняющая маска для лица с огуречным соком",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-065",
+      "name": "LIMANCY тоник с гиалуроновой кислотой №1",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-066",
+      "name": "LIMANCY гидрогель с гиалуроновой кислотой №2",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-067",
+      "name": "LIMANCY сыворотка с гиалуроновой кислотой №3",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-070",
+      "name": "BERCLEAN Жидкое мыло для рук с экстрактом ромашки",
+      "image_path": "assets/images/products/famall-070-famallnetwork.jpg",
+      "source_url": "https://famallnetwork.su/product/mylo-zhidkoe-dlya-ruk-s-ekstraktom-romashki-berclean-500-ml-kupit-po-vygodnoy-tsene/",
+      "source_file": null,
+      "confidence": "high",
+      "reason": "Каталог FAMALL: BERCLEAN, жидкое мыло с ромашкой и объем 500 мл совпадают."
+    },
+    {
+      "product_id": "famall-076",
+      "name": "LIMANCY Увлажняющее очищающее средство с Алоэ",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-077",
+      "name": "LIMANCY увлажняющий гель для душа с экстрактом молока",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-078",
+      "name": "LIMANCY Мужские духи 50 мл",
+      "image_path": "assets/images/products/famall-078-famallnetwork.jpg",
+      "source_url": "https://famallnetwork.su/product/duhi-muzhskie-limancy-50-ml/",
+      "source_file": null,
+      "confidence": "high",
+      "reason": "Каталог FAMALL: LIMANCY, мужские духи и объем 50 мл совпадают."
+    },
+    {
+      "product_id": "famall-079",
+      "name": "LIMANCY №1 Духи/Parfum",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-080",
+      "name": "LIMANCY Женские духи/Diva Parfum",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-081",
+      "name": "BOCARE мужской спрей для задержки/ стойкость мужской силы",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-083",
+      "name": "SUTING Гигиенические прокладки - ночные+ удлиненные 360 мм. Ультра",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-087",
+      "name": "BOCARE Ухаживающие вкладыши для мужин",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-088",
+      "name": "Miaorou Детские очищающие салфетки 180*200/",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-090",
+      "name": "Miubaby специальное средство для стирки детских вещей",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": "https://famall-ufa.taplink.ws/o/c6506d/",
+      "source_file": null,
+      "confidence": "medium",
+      "reason": "Бренд и назначение совпадают, но объем 1000 мл в Taplink не указан."
+    },
+    {
+      "product_id": "famall-091",
+      "name": "Miubaby детский шампунь и гель для душа",
+      "image_path": "assets/images/products/famall-091-taplink.png",
+      "source_url": "https://famall-ufa.taplink.ws/o/c65081/",
+      "source_file": null,
+      "confidence": "high",
+      "reason": "Taplink FAMALL: Miubaby, детский шампунь-гель и объем 300 мл совпадают."
+    },
+    {
+      "product_id": "famall-092",
+      "name": "YIJIAN Мягкая детская зубная щётка с защитой зубов",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-093",
+      "name": "BERCLEAN Детское мыло без вреда коже",
+      "image_path": "assets/images/products/famall-093-taplink.png",
+      "source_url": "https://famall-ufa.taplink.ws/o/c584ed/",
+      "source_file": null,
+      "confidence": "high",
+      "reason": "Taplink FAMALL: BERCLEAN, детское мыло и вес 80 г совпадают."
+    },
+    {
+      "product_id": "famall-095",
+      "name": "LIMANCY Увлажняющий воздушный кушон (натурального цвета 002) CC- кушон с запасным блоком",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-096",
+      "name": "LIMANCY Крем для тела и ненакрашенного лица ( выравнивает текстуру кожи)",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-097",
+      "name": "LIMANCY Увлажняющий бальзам для губ с легким оттенком (светло-розовый）",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-098",
+      "name": "LIMANCY Увлажняющий бальзам для губ с Алоэ",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-099",
+      "name": "MOREFUTURE пробиотический напиток с шиповником и овощами",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-100",
+      "name": "MOREFUTURE Кофе с женьшенем, кордицепсом и ганодермой",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-101",
+      "name": "MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-102",
+      "name": "MOREFUTURE Чай из кукурузных рылец",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-103",
+      "name": "Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": "https://famall-ufa.taplink.ws/o/c65060/",
+      "source_file": null,
+      "confidence": "medium",
+      "reason": "Товар и упаковка 10 рулонов совпадают, но вес 1400 г в Taplink не подтвержден."
+    },
+    {
+      "product_id": "famall-104",
+      "name": "Miao Rou Детские влажные салфетки80 шт. (180ммх200мм)",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    },
+    {
+      "product_id": "famall-105",
+      "name": "Miao Rou Бамбуковые носовые платочки 10 х",
+      "image_path": "assets/images/products/placeholder.svg",
+      "source_url": null,
+      "source_file": null,
+      "confidence": "low",
+      "reason": "Точное изображение из разрешенных источников не найдено; сохранена заглушка."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /pages/account/
+Disallow: /data/import-cache/
+Disallow: /data/import-report.json
+Disallow: /data/import-review.json
+Disallow: /data/import-unmatched.json
+Disallow: /data/missing-images-report.json
+
+Sitemap: /sitemap.xml

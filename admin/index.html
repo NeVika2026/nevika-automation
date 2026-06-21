@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Админ-панель - FAMALL</title>
+    <meta name="description" content="Техническая админ-страница FAMALL для будущей загрузки каталога, прайса, изображений и новостей.">
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="icon" href="../assets/images/famall-logo.png?v=20260607">
+    <link rel="manifest" href="../site.webmanifest">
+    <meta name="theme-color" content="#ff2942">
+    <link rel="stylesheet" href="../assets/css/base/reset.css">
+    <link rel="stylesheet" href="../assets/css/base/tokens.css">
+    <link rel="stylesheet" href="../assets/css/base/global.css">
+    <link rel="stylesheet" href="../assets/css/components/header.css">
+    <link rel="stylesheet" href="../assets/css/pages/store.css">
+    <script type="module" src="../assets/js/core/app.js"></script>
+  </head>
+  <body data-page="admin">
+    <header data-component="site-header"></header>
+    <main>
+      <section class="page-shell">
+        <header class="page-head">
+          <p class="page-head__eyebrow">FAMALL Admin MVP</p>
+          <h1 class="page-head__title">Обновление контента</h1>
+          <p class="page-head__text">Минимальный сценарий: загрузить каталог FAMALL, загрузить прайс России и нажать одну кнопку обновления.</p>
+        </header>
+        <div class="admin-stack" data-admin-actions>
+          <section class="admin-card admin-card--wide">
+            <h2>Обновить каталог сайта</h2>
+            <p>После нажатия система должна сама создать новые карточки, обновить цены, скрыть отсутствующие товары, обновить категории и публичный каталог.</p>
+            <div class="admin-upload-grid">
+              <label class="upload-box">
+                <span>1. Полный каталог FAMALL</span>
+                <input type="file" accept=".xlsx,.xls,.csv,.json,.zip" data-admin-file="catalog">
+              </label>
+              <label class="upload-box">
+                <span>2. Прайс России</span>
+                <input type="file" accept=".xlsx,.xls,.csv,.json" data-admin-file="price">
+              </label>
+            </div>
+            <button class="button button--primary admin-main-action" type="button" data-admin-action="Обновить каталог">Обновить каталог</button>
+          </section>
+          <section class="admin-card admin-card--wide">
+            <h2>Что система сделает автоматически</h2>
+            <ol class="automation-list">
+              <li>Сопоставит товары из каталога и прайса по артикулу, затем по названию.</li>
+              <li>Создаст карточки для новых товаров.</li>
+              <li>Обновит розничные и партнерские цены.</li>
+              <li>Скроет товары, которых больше нет в прайсе или наличии.</li>
+              <li>Обновит категории и витрину каталога.</li>
+            </ol>
+          </section>
+          <section class="admin-card">
+            <h2>Ошибки и предупреждения</h2>
+            <ul class="warning-list" data-admin-log>
+              <li>Обработка файлов пока не подключена: сейчас это UX-MVP.</li>
+              <li>После backend-этапа отчет покажет только товары, которые требуют внимания.</li>
+            </ul>
+          </section>
+          <section class="admin-card">
+            <h2>Новости</h2>
+            <p>Простая форма публикации новости. В MVP показывает интерфейс, запись в JSON подключим следующим шагом.</p>
+            <form class="admin-form" data-news-form>
+              <label>
+                <span>Заголовок</span>
+                <input type="text" name="title" placeholder="Например: FAMALL запускает новые товары">
+              </label>
+              <label>
+                <span>Текст</span>
+                <textarea name="text" rows="5" placeholder="Текст новости"></textarea>
+              </label>
+              <label>
+                <span>Фото</span>
+                <input type="file" name="image" accept="image/*">
+              </label>
+              <button class="button button--primary" type="submit">Опубликовать</button>
+            </form>
+          </section>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

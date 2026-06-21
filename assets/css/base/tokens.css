@@ -1,0 +1,10 @@
+:root {
+  --container-width: 1180px;
+  --page-gutter: 20px;
+  --color-brand-red: #ff2942;
+  --color-graphite: #202124;
+  --color-soft-graphite: #5f6368;
+  --color-line: #e6e8ec;
+  --color-surface: #f7f8fa;
+  --color-white: #ffffff;
+}

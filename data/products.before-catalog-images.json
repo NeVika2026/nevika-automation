@@ -1,0 +1,7156 @@
+[
+  {
+    "id": "famall-001",
+    "sku": "FAMALL-001",
+    "slug": "1-berclean-moyuschee-sredstvo-dlya-mytya-posudy",
+    "name": "BERCLEAN Моющее средство для мытья посуды",
+    "brand": "Berclean",
+    "category": "КУХНЯ",
+    "volume": "1000 мл",
+    "description": "BERCLEAN. Твердое средство для чистки труб. Средства по уходу за домом",
+    "retailPrice": 480,
+    "partnerPrice": 264,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholder.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholder.svg",
+        "alt": "BERCLEAN Моющее средство для мытья посуды"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-001"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "КУХНЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "1000 мл"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale",
+      "hits"
+    ],
+    "badges": [
+      "Акция",
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.863,
+      "sourceName": "BERCLEAN. Твердое средство для чистки труб",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 1,
+      "sourceLine": "BERCLEAN Моющее средство для мытья посуды 1000 мл. 264 480 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-002",
+    "sku": "FAMALL-002",
+    "slug": "2-berclean-moyuschee-sredstvo-dlya-mytya-posudy-s-ekstraktom-limona",
+    "name": "BERCLEAN Моющее средство для мытья посуды с экстрактом лимона",
+    "brand": "Berclean",
+    "category": "КУХНЯ",
+    "volume": "1100",
+    "description": "BERCLEAN Моющее средство для мытья посуды с экстрактом лимона. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 840,
+    "partnerPrice": 462,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholders/2-berclean-moyuschee-sredstvo-dlya-mytya-posudy-s-ekstraktom-limona.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/2-berclean-moyuschee-sredstvo-dlya-mytya-posudy-s-ekstraktom-limona.svg",
+        "alt": "BERCLEAN Моющее средство для мытья посуды с экстрактом лимона"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-002"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "КУХНЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "1100"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.729,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 2,
+      "sourceLine": "BERCLEAN Моющее средство для мытья посуды с экстрактом лимона 1100 462 840 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-003",
+    "sku": "FAMALL-003",
+    "slug": "3-berclean-moyuschee-sredstvo-dlya-mytya-posudy-s-ekstraktom-apelsina",
+    "name": "BERCLEAN Моющее средство для мытья посуды с экстрактом апельсина",
+    "brand": "Berclean",
+    "category": "КУХНЯ",
+    "volume": "1500",
+    "description": "BERCLEAN Моющее средство для мытья посуды с экстрактом апельсина. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 690,
+    "partnerPrice": 380,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholders/3-berclean-moyuschee-sredstvo-dlya-mytya-posudy-s-ekstraktom-apelsina.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/3-berclean-moyuschee-sredstvo-dlya-mytya-posudy-s-ekstraktom-apelsina.svg",
+        "alt": "BERCLEAN Моющее средство для мытья посуды с экстрактом апельсина"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-003"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "КУХНЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "1500"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.713,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 3,
+      "sourceLine": "BERCLEAN Моющее средство для мытья посуды с экстрактом апельсина 1500 380 690 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-004",
+    "sku": "FAMALL-004",
+    "slug": "4-berclean-zhidkost-dlya-mytya-posudy-s-ekstraktom-bambuka",
+    "name": "BERCLEAN Жидкость для мытья посуды с экстрактом бамбука",
+    "brand": "Berclean",
+    "category": "КУХНЯ",
+    "volume": "1100",
+    "description": "BERCLEAN Жидкость для мытья посуды с экстрактом бамбука. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 840,
+    "partnerPrice": 462,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholders/4-berclean-zhidkost-dlya-mytya-posudy-s-ekstraktom-bambuka.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/4-berclean-zhidkost-dlya-mytya-posudy-s-ekstraktom-bambuka.svg",
+        "alt": "BERCLEAN Жидкость для мытья посуды с экстрактом бамбука"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-004"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "КУХНЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "1100"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.0,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 4,
+      "sourceLine": "BERCLEAN Жидкость для мытья посуды с экстрактом бамбука 1100 462 840 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-005",
+    "sku": "FAMALL-005",
+    "slug": "5-mnogofunkcionalnye-odnorazovye-salfetki-iz-bambuka",
+    "name": "Многофункциональные одноразовые салфетки из бамбука",
+    "brand": "FAMALL",
+    "category": "КУХНЯ",
+    "volume": "2 рулона",
+    "description": "Многофункциональные одноразовые салфетки из бамбука. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 680,
+    "partnerPrice": 374,
+    "pv": 0.2,
+    "image": "assets/images/products/placeholders/5-mnogofunkcionalnye-odnorazovye-salfetki-iz-bambuka.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/5-mnogofunkcionalnye-odnorazovye-salfetki-iz-bambuka.svg",
+        "alt": "Многофункциональные одноразовые салфетки из бамбука"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-005"
+      },
+      {
+        "label": "Бренд",
+        "value": "FAMALL"
+      },
+      {
+        "label": "Категория",
+        "value": "КУХНЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "2 рулона"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.386,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 5,
+      "sourceLine": "Многофункциональные одноразовые салфетки из бамбука 2 рулона 374 680 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-006",
+    "sku": "FAMALL-006",
+    "slug": "6-uplotnennye-pischevye-pakety-dlya-hraneniya-produktov-r-r-25-35",
+    "name": "Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/",
+    "brand": "FAMALL",
+    "category": "КУХНЯ",
+    "volume": "100 штук",
+    "description": "Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 340,
+    "partnerPrice": 187,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholders/6-uplotnennye-pischevye-pakety-dlya-hraneniya-produktov-r-r-25-35.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/6-uplotnennye-pischevye-pakety-dlya-hraneniya-produktov-r-r-25-35.svg",
+        "alt": "Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-006"
+      },
+      {
+        "label": "Бренд",
+        "value": "FAMALL"
+      },
+      {
+        "label": "Категория",
+        "value": "КУХНЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "100 штук"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.325,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 6,
+      "sourceLine": "Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/ 100 штук 187 340 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-007",
+    "sku": "FAMALL-007",
+    "slug": "7-nabor-salfetok-dlya-mytya-posudy-i-uborki-r-r-25-25-3-shtuki",
+    "name": "Набор салфеток для мытья посуды и уборки р-р 25*25, 3 штуки",
+    "brand": "FAMALL",
+    "category": "КУХНЯ",
+    "volume": "",
+    "description": "Набор салфеток для мытья посуды и уборки р-р 25*25, 3 штуки. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 460,
+    "partnerPrice": 253,
+    "pv": 0.2,
+    "image": "assets/images/products/placeholders/7-nabor-salfetok-dlya-mytya-posudy-i-uborki-r-r-25-25-3-shtuki.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/7-nabor-salfetok-dlya-mytya-posudy-i-uborki-r-r-25-25-3-shtuki.svg",
+        "alt": "Набор салфеток для мытья посуды и уборки р-р 25*25, 3 штуки"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-007"
+      },
+      {
+        "label": "Бренд",
+        "value": "FAMALL"
+      },
+      {
+        "label": "Категория",
+        "value": "КУХНЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "уточняется"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.339,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 7,
+      "sourceLine": "Набор салфеток для мытья посуды и уборки р-р 25*25, 3 штуки 253 460 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-008",
+    "sku": "FAMALL-008",
+    "slug": "8-okfad-nabor-dlya-ochischeniya",
+    "name": "OKFAD Набор для очищения",
+    "brand": "OKFAD",
+    "category": "КУХНЯ",
+    "volume": "13 предметов",
+    "description": "OKFAD Набор для очищения. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 440,
+    "partnerPrice": 242,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholders/8-okfad-nabor-dlya-ochischeniya.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/8-okfad-nabor-dlya-ochischeniya.svg",
+        "alt": "OKFAD Набор для очищения"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-008"
+      },
+      {
+        "label": "Бренд",
+        "value": "OKFAD"
+      },
+      {
+        "label": "Категория",
+        "value": "КУХНЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "13 предметов"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.753,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 8,
+      "sourceLine": "OKFAD Набор для очищения 13 предметов 242 440 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-009",
+    "sku": "FAMALL-009",
+    "slug": "9-szhatoe-polotence-iz-hlopka-22-shtuki-v-nabore",
+    "name": "Сжатое полотенце из хлопка 22 штуки в наборе",
+    "brand": "FAMALL",
+    "category": "КУХНЯ",
+    "volume": "",
+    "description": "Сжатое полотенце из хлопка 22 штуки в наборе. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 620,
+    "partnerPrice": 340,
+    "pv": 0.2,
+    "image": "assets/images/products/placeholders/9-szhatoe-polotence-iz-hlopka-22-shtuki-v-nabore.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/9-szhatoe-polotence-iz-hlopka-22-shtuki-v-nabore.svg",
+        "alt": "Сжатое полотенце из хлопка 22 штуки в наборе"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-009"
+      },
+      {
+        "label": "Бренд",
+        "value": "FAMALL"
+      },
+      {
+        "label": "Категория",
+        "value": "КУХНЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "уточняется"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.308,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 9,
+      "sourceLine": "Сжатое полотенце из хлопка 22 штуки в наборе 340 620 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-010",
+    "sku": "FAMALL-010",
+    "slug": "10-miaorou-detskie-vlazhnye-salfetki",
+    "name": "MIAOROU Детские влажные салфетки",
+    "brand": "Miaorou",
+    "category": "КУХНЯ",
+    "volume": "80 штук",
+    "description": "MiaoRou Детские влажные салфетки. Товары для детей",
+    "retailPrice": 420,
+    "partnerPrice": 308,
+    "pv": 0.1,
+    "image": "assets/images/products/10-miaorou-detskie-vlazhnye-salfetki.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/10-miaorou-detskie-vlazhnye-salfetki.png",
+        "alt": "MIAOROU Детские влажные салфетки"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-010"
+      },
+      {
+        "label": "Бренд",
+        "value": "Miaorou"
+      },
+      {
+        "label": "Категория",
+        "value": "КУХНЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "80 штук"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 27,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "exact_name",
+      "score": 1.0,
+      "sourceName": "MiaoRou Детские влажные салфетки",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 10,
+      "sourceLine": "MIAOROU Детские влажные салфетки 80 штук 308 420 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-011",
+    "sku": "FAMALL-011",
+    "slug": "11-miaorou-vlazhnye-salfetki-dlya-kuhnir-r-20-25",
+    "name": "MIAOROU Влажные салфетки для кухнир-р 20*25",
+    "brand": "Miaorou",
+    "category": "КУХНЯ",
+    "volume": "40листов",
+    "description": "MiaoRou Детские влажные салфетки. Товары для детей",
+    "retailPrice": 560,
+    "partnerPrice": 308,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholders/11-miaorou-vlazhnye-salfetki-dlya-kuhnir-r-20-25.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/11-miaorou-vlazhnye-salfetki-dlya-kuhnir-r-20-25.svg",
+        "alt": "MIAOROU Влажные салфетки для кухнир-р 20*25"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-011"
+      },
+      {
+        "label": "Бренд",
+        "value": "Miaorou"
+      },
+      {
+        "label": "Категория",
+        "value": "КУХНЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "40листов"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.825,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 11,
+      "sourceLine": "MIAOROU Влажные салфетки для кухнир-р 20*25 40листов 308 560 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-012",
+    "sku": "FAMALL-012",
+    "slug": "12-ochistitel-barabana-stiralnoy-mashiny-3-sht",
+    "name": "Очиститель барабана стиральной машины 3 шт *",
+    "brand": "FAMALL",
+    "category": "СТИРКА  БЕЛЬЯ",
+    "volume": "125 гр",
+    "description": "Очиститель барабана стиральной машины 3 шт *. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 370,
+    "partnerPrice": 205,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholders/12-ochistitel-barabana-stiralnoy-mashiny-3-sht.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/12-ochistitel-barabana-stiralnoy-mashiny-3-sht.svg",
+        "alt": "Очиститель барабана стиральной машины 3 шт *"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-012"
+      },
+      {
+        "label": "Бренд",
+        "value": "FAMALL"
+      },
+      {
+        "label": "Категория",
+        "value": "СТИРКА  БЕЛЬЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "125 гр"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.75,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 12,
+      "sourceLine": "Очиститель барабана стиральной машины 3 шт * 125 гр. 205 370 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-013",
+    "sku": "FAMALL-013",
+    "slug": "13-berclean-shariki-dlya-zaschity-cveta-aromat-prirody",
+    "name": "BERCLEAN Шарики для защиты цвета, аромат природы",
+    "brand": "Berclean",
+    "category": "СТИРКА  БЕЛЬЯ",
+    "volume": "640 гр",
+    "description": "BERCLEAN Шарики для защиты цвета, аромат природы. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1600,
+    "partnerPrice": 880,
+    "pv": 0.2,
+    "image": "assets/images/products/placeholders/13-berclean-shariki-dlya-zaschity-cveta-aromat-prirody.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/13-berclean-shariki-dlya-zaschity-cveta-aromat-prirody.svg",
+        "alt": "BERCLEAN Шарики для защиты цвета, аромат природы"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-013"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "СТИРКА  БЕЛЬЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "640 гр"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.635,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 13,
+      "sourceLine": "BERCLEAN Шарики для защиты цвета, аромат природы 640 гр 880 1600 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-014",
+    "sku": "FAMALL-014",
+    "slug": "14-berclean-shariki-dlya-zaschity-cveta-aromat-sakury",
+    "name": "BERCLEAN Шарики для защиты цвета, аромат сакуры",
+    "brand": "Berclean",
+    "category": "СТИРКА  БЕЛЬЯ",
+    "volume": "640 гр",
+    "description": "BERCLEAN Шарики для защиты цвета, аромат сакуры. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1600,
+    "partnerPrice": 880,
+    "pv": 0.2,
+    "image": "assets/images/products/placeholders/14-berclean-shariki-dlya-zaschity-cveta-aromat-sakury.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/14-berclean-shariki-dlya-zaschity-cveta-aromat-sakury.svg",
+        "alt": "BERCLEAN Шарики для защиты цвета, аромат сакуры"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-014"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "СТИРКА  БЕЛЬЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "640 гр"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.663,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 14,
+      "sourceLine": "BERCLEAN Шарики для защиты цвета, аромат сакуры 640 гр 880 1600 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-015",
+    "sku": "FAMALL-015",
+    "slug": "15-berclean-shariki-dlya-zaschity-cveta-aromat-cvetov",
+    "name": "BERCLEAN Шарики для защиты цвета, аромат цветов",
+    "brand": "Berclean",
+    "category": "СТИРКА  БЕЛЬЯ",
+    "volume": "640 гр",
+    "description": "BERCLEAN Шарики для защиты цвета, аромат цветов. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1600,
+    "partnerPrice": 880,
+    "pv": 0.2,
+    "image": "assets/images/products/placeholders/15-berclean-shariki-dlya-zaschity-cveta-aromat-cvetov.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/15-berclean-shariki-dlya-zaschity-cveta-aromat-cvetov.svg",
+        "alt": "BERCLEAN Шарики для защиты цвета, аромат цветов"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-015"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "СТИРКА  БЕЛЬЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "640 гр"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.64,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 15,
+      "sourceLine": "BERCLEAN Шарики для защиты цвета, аромат цветов 640 гр 880 1600 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-016",
+    "sku": "FAMALL-016",
+    "slug": "16-berclean-zhidkost-dlya-stirki-avtomat",
+    "name": "BERCLEAN Жидкость для стирки/ автомат",
+    "brand": "Berclean",
+    "category": "СТИРКА  БЕЛЬЯ",
+    "volume": "2100",
+    "description": "BERCLEAN Жидкость для стирки/ автомат. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1120,
+    "partnerPrice": 615,
+    "pv": 0.6,
+    "image": "assets/images/products/placeholders/16-berclean-zhidkost-dlya-stirki-avtomat.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/16-berclean-zhidkost-dlya-stirki-avtomat.svg",
+        "alt": "BERCLEAN Жидкость для стирки/ автомат"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-016"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "СТИРКА  БЕЛЬЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "2100"
+      },
+      {
+        "label": "PV",
+        "value": "0,6"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.0,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 16,
+      "sourceLine": "BERCLEAN Жидкость для стирки/ автомат 2100 615 1120 0,6",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-017",
+    "sku": "FAMALL-017",
+    "slug": "17-berclean-zhidkost-dlya-stirki-ruchnaya-stirka-mashinnaya",
+    "name": "BERCLEAN Жидкость для стирки/ ручная стирка/ машинная",
+    "brand": "Berclean",
+    "category": "СТИРКА  БЕЛЬЯ",
+    "volume": "1000",
+    "description": "BERCLEAN Жидкость для стирки/ ручная стирка/ машинная. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 540,
+    "partnerPrice": 297,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholders/17-berclean-zhidkost-dlya-stirki-ruchnaya-stirka-mashinnaya.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/17-berclean-zhidkost-dlya-stirki-ruchnaya-stirka-mashinnaya.svg",
+        "alt": "BERCLEAN Жидкость для стирки/ ручная стирка/ машинная"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-017"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "СТИРКА  БЕЛЬЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "1000"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.794,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 17,
+      "sourceLine": "BERCLEAN Жидкость для стирки/ ручная стирка/ машинная 1000 297 540 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-018",
+    "sku": "FAMALL-018",
+    "slug": "18-miubaby-specialnoe-sredstvo-dlya-stirki-detskih-veschey",
+    "name": "Miubaby специальное средство для стирки детских вещей",
+    "brand": "Miubaby",
+    "category": "СТИРКА  БЕЛЬЯ",
+    "volume": "1000",
+    "description": "Miubaby специальное средство для стирки детских вещей. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 840,
+    "partnerPrice": 462,
+    "pv": 0.6,
+    "image": "assets/images/products/placeholders/18-miubaby-specialnoe-sredstvo-dlya-stirki-detskih-veschey.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/18-miubaby-specialnoe-sredstvo-dlya-stirki-detskih-veschey.svg",
+        "alt": "Miubaby специальное средство для стирки детских вещей"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-018"
+      },
+      {
+        "label": "Бренд",
+        "value": "Miubaby"
+      },
+      {
+        "label": "Категория",
+        "value": "СТИРКА  БЕЛЬЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "1000"
+      },
+      {
+        "label": "PV",
+        "value": "0,6"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.51,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 18,
+      "sourceLine": "Miubaby специальное средство для стирки детских вещей 1000 462 840 0,6",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-019",
+    "sku": "FAMALL-019",
+    "slug": "19-granuly-dlya-ochistki-trub-s-silnoy-prochischayuschey-sposobnostyu",
+    "name": "Гранулы для очистки труб с сильной прочищающей способностью",
+    "brand": "FAMALL",
+    "category": "СТИРКА  БЕЛЬЯ",
+    "volume": "268 гр",
+    "description": "Гранулы Berclean предназначены для очистки труб и удаления засоров, связанных с волосами, жиром и органическими загрязнениями. Средство подходит для раковины, ванной и кухонного слива, а также для профилактического ухода за трубами. Используйте согласно инструкции: засыпьте средство в слив, добавьте тёплую или горячую воду и выдержите необходимое время. Храните в недоступном для детей месте и избегайте контакта с глазами и кожей.",
+    "retailPrice": 500,
+    "partnerPrice": 275,
+    "pv": 0.1,
+    "image": "assets/images/products/19-granuly-dlya-ochistki-trub-s-silnoy-prochischayuschey-sposobnostyu.jpg",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/19-granuly-dlya-ochistki-trub-s-silnoy-prochischayuschey-sposobnostyu.jpg",
+        "alt": "Гранулы для очистки труб с сильной прочищающей способностью"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-019"
+      },
+      {
+        "label": "Бренд",
+        "value": "FAMALL"
+      },
+      {
+        "label": "Категория",
+        "value": "СТИРКА  БЕЛЬЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "268 гр"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "type_volume",
+      "score": 0.88,
+      "sourceName": "Твердое средство для чистки труб Berclean , 268 г.",
+      "source": "famallnetwork"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 19,
+      "sourceLine": "Гранулы для очистки труб с сильной прочищающей способностью 268 гр. 275 500 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-020",
+    "sku": "FAMALL-020",
+    "slug": "20-bystrodeystvuyuschiy-gel-dlya-chistki-unitazav-usilennyy",
+    "name": "Быстродействующий гель для чистки унитазав(усиленный)",
+    "brand": "FAMALL",
+    "category": "СТИРКА  БЕЛЬЯ",
+    "volume": "500",
+    "description": "Быстродействующий гель для чистки унитазав(усиленный). Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 434,
+    "partnerPrice": 240,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholders/20-bystrodeystvuyuschiy-gel-dlya-chistki-unitazav-usilennyy.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/20-bystrodeystvuyuschiy-gel-dlya-chistki-unitazav-usilennyy.svg",
+        "alt": "Быстродействующий гель для чистки унитазав(усиленный)"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-020"
+      },
+      {
+        "label": "Бренд",
+        "value": "FAMALL"
+      },
+      {
+        "label": "Категория",
+        "value": "СТИРКА  БЕЛЬЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "500"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.409,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 20,
+      "sourceLine": "Быстродействующий гель для чистки унитазав(усиленный) 500 240 434 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-021",
+    "sku": "FAMALL-021",
+    "slug": "21-sredstvo-dlya-chistki-unitaza-utenok",
+    "name": "Средство для чистки унитаза \"Утенок\"",
+    "brand": "FAMALL",
+    "category": "СТИРКА  БЕЛЬЯ",
+    "volume": "500",
+    "description": "Средство для чистки унитаза \"Утенок\". Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 330,
+    "partnerPrice": 185,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholders/21-sredstvo-dlya-chistki-unitaza-utenok.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/21-sredstvo-dlya-chistki-unitaza-utenok.svg",
+        "alt": "Средство для чистки унитаза \"Утенок\""
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-021"
+      },
+      {
+        "label": "Бренд",
+        "value": "FAMALL"
+      },
+      {
+        "label": "Категория",
+        "value": "СТИРКА  БЕЛЬЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "500"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 44,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.56,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 21,
+      "sourceLine": "Средство для чистки унитаза \"Утенок\"500 185 330 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-022",
+    "sku": "FAMALL-022",
+    "slug": "22-yijian-cool-holodnaya-vodoroslevaya-zubnaya-pasta-bez-ftora-so-vkusom-lunczin-i-myaty",
+    "name": "YIJIAN COOL Холодная водорослевая зубная паста без фтора со вкусом Лунцзин и мяты",
+    "brand": "Yijian",
+    "category": "ДЛЯ ПОЛОСТИ РТА",
+    "volume": "180 мг",
+    "description": "YIJIAN COOL Холодная водорослевая зубная паста без фтора со вкусом Лунцзин и мяты. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 380,
+    "partnerPrice": 210,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholders/22-yijian-cool-holodnaya-vodoroslevaya-zubnaya-pasta-bez-ftora-so-vkusom-lunczin-i-myaty.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/22-yijian-cool-holodnaya-vodoroslevaya-zubnaya-pasta-bez-ftora-so-vkusom-lunczin-i-myaty.svg",
+        "alt": "YIJIAN COOL Холодная водорослевая зубная паста без фтора со вкусом Лунцзин и мяты"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-022"
+      },
+      {
+        "label": "Бренд",
+        "value": "Yijian"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЛЯ ПОЛОСТИ РТА"
+      },
+      {
+        "label": "Объём",
+        "value": "180 мг"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale"
+    ],
+    "badges": [
+      "Акция"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.623,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 22,
+      "sourceLine": "YIJIAN COOL Холодная водорослевая зубная паста без фтора со вкусом Лунцзин и мяты 180 мг 210 380 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-023",
+    "sku": "FAMALL-023",
+    "slug": "23-yijian-zubnaya-pasta-s-gimalayskoy-rozovoy-solyu",
+    "name": "YIJIAN Зубная паста с гималайской розовой солью",
+    "brand": "Yijian",
+    "category": "ДЛЯ ПОЛОСТИ РТА",
+    "volume": "120 мг",
+    "description": "YIJIAN Зубная паста с гималайской розовой солью 120гр. Гигиена полости рта",
+    "retailPrice": 360,
+    "partnerPrice": 200,
+    "pv": 0.3,
+    "image": "assets/images/products/23-yijian-zubnaya-pasta-s-gimalayskoy-rozovoy-solyu.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/23-yijian-zubnaya-pasta-s-gimalayskoy-rozovoy-solyu.png",
+        "alt": "YIJIAN Зубная паста с гималайской розовой солью"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-023"
+      },
+      {
+        "label": "Бренд",
+        "value": "Yijian"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЛЯ ПОЛОСТИ РТА"
+      },
+      {
+        "label": "Объём",
+        "value": "120 мг"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 44,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "YIJIAN Зубная паста с гималайской розовой солью 120гр",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 23,
+      "sourceLine": "YIJIAN Зубная паста с гималайской розовой солью 120 мг 200 360 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-024",
+    "sku": "FAMALL-024",
+    "slug": "24-yijian-naturalnaya-zubnaya-pasta-na-osnove-vodorosley",
+    "name": "YIJIAN Натуральная зубная паста на основе водорослей",
+    "brand": "Yijian",
+    "category": "ДЛЯ ПОЛОСТИ РТА",
+    "volume": "120 мг",
+    "description": "YIJIAN Натуральная зубная паста на основе водорослей（120 г）. Гигиена полости рта",
+    "retailPrice": 360,
+    "partnerPrice": 200,
+    "pv": 0.3,
+    "image": "assets/images/products/24-yijian-naturalnaya-zubnaya-pasta-na-osnove-vodorosley.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/24-yijian-naturalnaya-zubnaya-pasta-na-osnove-vodorosley.png",
+        "alt": "YIJIAN Натуральная зубная паста на основе водорослей"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-024"
+      },
+      {
+        "label": "Бренд",
+        "value": "Yijian"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЛЯ ПОЛОСТИ РТА"
+      },
+      {
+        "label": "Объём",
+        "value": "120 мг"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 44,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "YIJIAN Натуральная зубная паста на основе водорослей（120 г）",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 24,
+      "sourceLine": "YIJIAN Натуральная зубная паста на основе водорослей 120 мг 200 360 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-025",
+    "sku": "FAMALL-025",
+    "slug": "25-yijian-zubnaya-pasta-so-vkusom-zelenogo-chaya",
+    "name": "YIJIAN зубная паста со вкусом зеленого чая",
+    "brand": "Yijian",
+    "category": "ДЛЯ ПОЛОСТИ РТА",
+    "volume": "120 мг",
+    "description": "YIJIAN зубная паста со вкусом зеленого чая 120г. Гигиена полости рта",
+    "retailPrice": 356,
+    "partnerPrice": 195,
+    "pv": 0.3,
+    "image": "assets/images/products/25-yijian-zubnaya-pasta-so-vkusom-zelenogo-chaya.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/25-yijian-zubnaya-pasta-so-vkusom-zelenogo-chaya.png",
+        "alt": "YIJIAN зубная паста со вкусом зеленого чая"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-025"
+      },
+      {
+        "label": "Бренд",
+        "value": "Yijian"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЛЯ ПОЛОСТИ РТА"
+      },
+      {
+        "label": "Объём",
+        "value": "120 мг"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale",
+      "hits"
+    ],
+    "badges": [
+      "Акция",
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "YIJIAN зубная паста со вкусом зеленого чая 120г",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 25,
+      "sourceLine": "YIJIAN зубная паста со вкусом зеленого чая 120 мг 195 356 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-026",
+    "sku": "FAMALL-026",
+    "slug": "26-yijian-otbelivayuschaya-zubnaya-pasta",
+    "name": "YIJIAN Отбеливающая зубная паста",
+    "brand": "Yijian",
+    "category": "ДЛЯ ПОЛОСТИ РТА",
+    "volume": "120 мг",
+    "description": "YIJIAN Отбеливающая зубная паста 120g. Гигиена полости рта",
+    "retailPrice": 390,
+    "partnerPrice": 215,
+    "pv": 0.2,
+    "image": "assets/images/products/26-yijian-otbelivayuschaya-zubnaya-pasta.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/26-yijian-otbelivayuschaya-zubnaya-pasta.png",
+        "alt": "YIJIAN Отбеливающая зубная паста"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-026"
+      },
+      {
+        "label": "Бренд",
+        "value": "Yijian"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЛЯ ПОЛОСТИ РТА"
+      },
+      {
+        "label": "Объём",
+        "value": "120 мг"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale",
+      "hits"
+    ],
+    "badges": [
+      "Акция",
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "YIJIAN Отбеливающая зубная паста 120g",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 26,
+      "sourceLine": "YIJIAN Отбеливающая зубная паста120 мг 215 390 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-027",
+    "sku": "FAMALL-027",
+    "slug": "27-yijian-probioticheskaya-zubnaya",
+    "name": "YIJIAN Пробиотическая зубная",
+    "brand": "Yijian",
+    "category": "ДЛЯ ПОЛОСТИ РТА",
+    "volume": "100 мг",
+    "description": "YIJIAN Пробиотическая зубная паста 100 г. Гигиена полости рта",
+    "retailPrice": 640,
+    "partnerPrice": 352,
+    "pv": 1.5,
+    "image": "assets/images/products/27-yijian-probioticheskaya-zubnaya.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/27-yijian-probioticheskaya-zubnaya.png",
+        "alt": "YIJIAN Пробиотическая зубная"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-027"
+      },
+      {
+        "label": "Бренд",
+        "value": "Yijian"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЛЯ ПОЛОСТИ РТА"
+      },
+      {
+        "label": "Объём",
+        "value": "100 мг"
+      },
+      {
+        "label": "PV",
+        "value": "1,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "sale",
+      "hits"
+    ],
+    "badges": [
+      "Акция",
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "YIJIAN Пробиотическая зубная паста 100 г",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 27,
+      "sourceLine": "YIJIAN Пробиотическая зубная 100 мг 352 640 1,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-028",
+    "sku": "FAMALL-028",
+    "slug": "28-yijian-fermentnaya-zubnaya-pasta-dlya-zaschity-desen",
+    "name": "YIJIAN Ферментная зубная паста для защиты десен",
+    "brand": "Yijian",
+    "category": "ДЛЯ ПОЛОСТИ РТА",
+    "volume": "120",
+    "description": "YIJIAN Ферментная зубная паста для защиты десен 120г. Гигиена полости рта",
+    "retailPrice": 400,
+    "partnerPrice": 220,
+    "pv": 0.3,
+    "image": "assets/images/products/28-yijian-fermentnaya-zubnaya-pasta-dlya-zaschity-desen.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/28-yijian-fermentnaya-zubnaya-pasta-dlya-zaschity-desen.png",
+        "alt": "YIJIAN Ферментная зубная паста для защиты десен"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-028"
+      },
+      {
+        "label": "Бренд",
+        "value": "Yijian"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЛЯ ПОЛОСТИ РТА"
+      },
+      {
+        "label": "Объём",
+        "value": "120"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "YIJIAN Ферментная зубная паста для защиты десен 120г",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 28,
+      "sourceLine": "YIJIAN Ферментная зубная паста для защиты десен 120 220 400 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-029",
+    "sku": "FAMALL-029",
+    "slug": "29-miubaby-detskaya-uhod-za-desnami-zubami-profilakticheskaya-zubnaya-pasta",
+    "name": "Miubaby ДЕТСКАЯ Уход за деснами, зубами, профилактическая зубная паста",
+    "brand": "Miubaby",
+    "category": "ДЛЯ ПОЛОСТИ РТА",
+    "volume": "80",
+    "description": "Miubaby ДЕТСКАЯ Уход за деснами, зубами, профилактическая зубная паста. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 300,
+    "partnerPrice": 165,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholders/29-miubaby-detskaya-uhod-za-desnami-zubami-profilakticheskaya-zubnaya-pasta.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/29-miubaby-detskaya-uhod-za-desnami-zubami-profilakticheskaya-zubnaya-pasta.svg",
+        "alt": "Miubaby ДЕТСКАЯ Уход за деснами, зубами, профилактическая зубная паста"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-029"
+      },
+      {
+        "label": "Бренд",
+        "value": "Miubaby"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЛЯ ПОЛОСТИ РТА"
+      },
+      {
+        "label": "Объём",
+        "value": "80"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.734,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 29,
+      "sourceLine": "Miubaby ДЕТСКАЯ Уход за деснами, зубами, профилактическая зубная паста. 80 165 300 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-030",
+    "sku": "FAMALL-030",
+    "slug": "30-yijian-travyannaya-zubnaya-pasta",
+    "name": "YIJIAN Травянная зубная паста",
+    "brand": "Yijian",
+    "category": "ДЛЯ ПОЛОСТИ РТА",
+    "volume": "150",
+    "description": "YIJIAN зубная паста с экстрактами трав  (150 г). Гигиена полости рта",
+    "retailPrice": 480,
+    "partnerPrice": 264,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholder.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholder.svg",
+        "alt": "YIJIAN Травянная зубная паста"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-030"
+      },
+      {
+        "label": "Бренд",
+        "value": "Yijian"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЛЯ ПОЛОСТИ РТА"
+      },
+      {
+        "label": "Объём",
+        "value": "150"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.825,
+      "sourceName": "YIJIAN зубная паста с экстрактами трав  (150 г)",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 30,
+      "sourceLine": "YIJIAN Травянная зубная паста 150 264 480 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-031",
+    "sku": "FAMALL-031",
+    "slug": "31-yijian-myagkaya-detskaya-zubnaya-schetka-s-zaschitoy-zubov",
+    "name": "YIJIAN Мягкая детская зубная щетка с защитой зубов",
+    "brand": "Yijian",
+    "category": "ДЛЯ ПОЛОСТИ РТА",
+    "volume": "1",
+    "description": "YIJIAN Мягкая детская зубная щётка с защитой зубов. Товары для детей",
+    "retailPrice": 160,
+    "partnerPrice": 88,
+    "pv": 0.1,
+    "image": "assets/images/products/31-yijian-myagkaya-detskaya-zubnaya-schetka-s-zaschitoy-zubov.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/31-yijian-myagkaya-detskaya-zubnaya-schetka-s-zaschitoy-zubov.png",
+        "alt": "YIJIAN Мягкая детская зубная щетка с защитой зубов"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-031"
+      },
+      {
+        "label": "Бренд",
+        "value": "Yijian"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЛЯ ПОЛОСТИ РТА"
+      },
+      {
+        "label": "Объём",
+        "value": "1"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "exact_name",
+      "score": 1.0,
+      "sourceName": "YIJIAN Мягкая детская зубная щётка с защитой зубов",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 31,
+      "sourceLine": "YIJIAN Мягкая детская зубная щетка с защитой зубов 1 88 160 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-032",
+    "sku": "FAMALL-032",
+    "slug": "32-okfad-zubnaya-schetka-dlya-glubokoy-chistki-zubov-2-shtuki-v-nabore",
+    "name": "OKFAD Зубная щетка для глубокой чистки зубов 2 штуки в наборе",
+    "brand": "OKFAD",
+    "category": "ДЛЯ ПОЛОСТИ РТА",
+    "volume": "",
+    "description": "OKFAD Зубная щетка со спиральными щетинками для глубокой чистки зубов 2шт. Гигиена полости рта",
+    "retailPrice": 440,
+    "partnerPrice": 242,
+    "pv": 0.6,
+    "image": "assets/images/products/placeholder.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholder.svg",
+        "alt": "OKFAD Зубная щетка для глубокой чистки зубов 2 штуки в наборе"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-032"
+      },
+      {
+        "label": "Бренд",
+        "value": "OKFAD"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЛЯ ПОЛОСТИ РТА"
+      },
+      {
+        "label": "Объём",
+        "value": "уточняется"
+      },
+      {
+        "label": "PV",
+        "value": "0,6"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.896,
+      "sourceName": "OKFAD Зубная щетка со спиральными щетинками для глубокой чистки зубов 2шт",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 32,
+      "sourceLine": "OKFAD Зубная щетка для глубокой чистки зубов 2 штуки в наборе 242 440 0,6",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-033",
+    "sku": "FAMALL-033",
+    "slug": "33-limancy-antisepticheskaya-massazhnaya-zhidkost-s-kitayskoy-travami",
+    "name": "LIMANCY Антисептическая массажная жидкость с китайской травами",
+    "brand": "Limancy",
+    "category": "УХОД ЗА ТЕЛОМ",
+    "volume": "50",
+    "description": "LIMANCY Антисептическая массажная жидкость с китайской травами. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1900,
+    "partnerPrice": 1045,
+    "pv": 5.0,
+    "image": "assets/images/products/placeholders/33-limancy-antisepticheskaya-massazhnaya-zhidkost-s-kitayskoy-travami.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/33-limancy-antisepticheskaya-massazhnaya-zhidkost-s-kitayskoy-travami.svg",
+        "alt": "LIMANCY Антисептическая массажная жидкость с китайской травами"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-033"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОД ЗА ТЕЛОМ"
+      },
+      {
+        "label": "Объём",
+        "value": "50"
+      },
+      {
+        "label": "PV",
+        "value": "5,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.642,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 33,
+      "sourceLine": "LIMANCY Антисептическая массажная жидкость с китайской травами 50 1045 1900 5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-034",
+    "sku": "FAMALL-034",
+    "slug": "34-limancy-krem-dlya-ruk-fruktovyy-miks",
+    "name": "LIMANCY Крем для рук фруктовый микс",
+    "brand": "Limancy",
+    "category": "УХОД ЗА ТЕЛОМ",
+    "volume": "50",
+    "description": "LIMANCY Крем для рук фруктовый микс 50г. Средства по уходу за телом",
+    "retailPrice": 200,
+    "partnerPrice": 110,
+    "pv": 0.2,
+    "image": "assets/images/products/34-limancy-krem-dlya-ruk-fruktovyy-miks.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/34-limancy-krem-dlya-ruk-fruktovyy-miks.png",
+        "alt": "LIMANCY Крем для рук фруктовый микс"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-034"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОД ЗА ТЕЛОМ"
+      },
+      {
+        "label": "Объём",
+        "value": "50"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Крем для рук фруктовый микс 50г",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 34,
+      "sourceLine": "LIMANCY Крем для рук фруктовый микс50 110 200 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-035",
+    "sku": "FAMALL-035",
+    "slug": "35-limancy-krem-dlya-ruk-fruktovyy-miks-spokoystvie",
+    "name": "LIMANCY Крем для рук (фруктовый микс/спокойствие)",
+    "brand": "Limancy",
+    "category": "УХОД ЗА ТЕЛОМ",
+    "volume": "50",
+    "description": "LIMANCY Крем для рук фруктовый микс 50г. Средства по уходу за телом",
+    "retailPrice": 200,
+    "partnerPrice": 110,
+    "pv": 0.2,
+    "image": "assets/images/products/placeholders/35-limancy-krem-dlya-ruk-fruktovyy-miks-spokoystvie.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/35-limancy-krem-dlya-ruk-fruktovyy-miks-spokoystvie.svg",
+        "alt": "LIMANCY Крем для рук (фруктовый микс/спокойствие)"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-035"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОД ЗА ТЕЛОМ"
+      },
+      {
+        "label": "Объём",
+        "value": "50"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.99,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 35,
+      "sourceLine": "LIMANCY Крем для рук (фруктовый микс/спокойствие) 50 110 200 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-036",
+    "sku": "FAMALL-036",
+    "slug": "36-limancy-antiperspirant-sharikovyy",
+    "name": "LIMANCY Антиперспирант шариковый",
+    "brand": "Limancy",
+    "category": "УХОД ЗА ТЕЛОМ",
+    "volume": "50",
+    "description": "LIMANCY Антиперспирант 50мл. Средства личной гигиены",
+    "retailPrice": 700,
+    "partnerPrice": 358,
+    "pv": 2.0,
+    "image": "assets/images/products/placeholder.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholder.svg",
+        "alt": "LIMANCY Антиперспирант шариковый"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-036"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОД ЗА ТЕЛОМ"
+      },
+      {
+        "label": "Объём",
+        "value": "50"
+      },
+      {
+        "label": "PV",
+        "value": "2,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 49,
+    "collections": [
+      "sale",
+      "hits"
+    ],
+    "badges": [
+      "Акция",
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.96,
+      "sourceName": "LIMANCY Антиперспирант 50мл",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 36,
+      "sourceLine": "LIMANCY Антиперспирант шариковый50 358 700 2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-037",
+    "sku": "FAMALL-037",
+    "slug": "37-limancy-krem-s-antioksidantami-sod",
+    "name": "LIMANCY Крем с антиоксидантами SOD",
+    "brand": "Limancy",
+    "category": "УХОД ЗА ТЕЛОМ",
+    "volume": "100",
+    "description": "LIMANCY Крем SOD с антиоксидантами 100ml. Уходовая косметика для лица",
+    "retailPrice": 250,
+    "partnerPrice": 138,
+    "pv": 0.1,
+    "image": "assets/images/products/37-limancy-krem-s-antioksidantami-sod.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/37-limancy-krem-s-antioksidantami-sod.png",
+        "alt": "LIMANCY Крем с антиоксидантами SOD"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-037"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОД ЗА ТЕЛОМ"
+      },
+      {
+        "label": "Объём",
+        "value": "100"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Крем SOD с антиоксидантами 100ml",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 37,
+      "sourceLine": "LIMANCY Крем с антиоксидантами SOD100 138 250 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-038",
+    "sku": "FAMALL-038",
+    "slug": "38-limancy-essenciya-dlya-uhoda-za-kozhey",
+    "name": "LIMANCY Эссенция для ухода за кожей",
+    "brand": "Limancy",
+    "category": "УХОД ЗА ТЕЛОМ",
+    "volume": "100",
+    "description": "LIMANCY Эссенция для ухода за кожей. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 476,
+    "partnerPrice": 262,
+    "pv": 0.6,
+    "image": "assets/images/products/placeholders/38-limancy-essenciya-dlya-uhoda-za-kozhey.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/38-limancy-essenciya-dlya-uhoda-za-kozhey.svg",
+        "alt": "LIMANCY Эссенция для ухода за кожей"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-038"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОД ЗА ТЕЛОМ"
+      },
+      {
+        "label": "Объём",
+        "value": "100"
+      },
+      {
+        "label": "PV",
+        "value": "0,6"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.706,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 38,
+      "sourceLine": "LIMANCY Эссенция для ухода за кожей100 262 476 0,6",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-039",
+    "sku": "FAMALL-039",
+    "slug": "39-limancy-g-el-piling",
+    "name": "LIMANCY Г ель-пилинг",
+    "brand": "Limancy",
+    "category": "УХОД ЗА ТЕЛОМ",
+    "volume": "300",
+    "description": "LIMANCY Гель-пилинг 300 мл. Средства по уходу за телом",
+    "retailPrice": 1000,
+    "partnerPrice": 550,
+    "pv": 2.0,
+    "image": "assets/images/products/39-limancy-g-el-piling.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/39-limancy-g-el-piling.png",
+        "alt": "LIMANCY Г ель-пилинг"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-039"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОД ЗА ТЕЛОМ"
+      },
+      {
+        "label": "Объём",
+        "value": "300"
+      },
+      {
+        "label": "PV",
+        "value": "2,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Гель-пилинг 300 мл",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 39,
+      "sourceLine": "LIMANCY Г ель-пилинг 300 550 1000 2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-040",
+    "sku": "FAMALL-040",
+    "slug": "40-predawn-plastyri-dlya-stop-s-travami",
+    "name": "PREDAWN пластыри для стоп с травами",
+    "brand": "Predawn",
+    "category": "УХОД ЗА ТЕЛОМ",
+    "volume": "20",
+    "description": "PREDAWN пластыри для стоп с травами. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1100,
+    "partnerPrice": 605,
+    "pv": 1.0,
+    "image": "assets/images/products/placeholders/40-predawn-plastyri-dlya-stop-s-travami.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/40-predawn-plastyri-dlya-stop-s-travami.svg",
+        "alt": "PREDAWN пластыри для стоп с травами"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-040"
+      },
+      {
+        "label": "Бренд",
+        "value": "Predawn"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОД ЗА ТЕЛОМ"
+      },
+      {
+        "label": "Объём",
+        "value": "20"
+      },
+      {
+        "label": "PV",
+        "value": "1,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.77,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 40,
+      "sourceLine": "PREDAWN пластыри для стоп с травами20 605 1100 1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-041",
+    "sku": "FAMALL-041",
+    "slug": "41-limancy-otbelivayuschiy-i-uvlazhnyayuschiy-loson-dlya-tela",
+    "name": "LIMANCY Отбеливающий и увлажняющий лосьон для тела",
+    "brand": "Limancy",
+    "category": "УХОД ЗА ТЕЛОМ",
+    "volume": "210",
+    "description": "LIMANCY отбеливающий увлажняющий лосьон для тела 210мл. Средства по уходу за телом",
+    "retailPrice": 840,
+    "partnerPrice": 462,
+    "pv": 1.5,
+    "image": "assets/images/products/41-limancy-otbelivayuschiy-i-uvlazhnyayuschiy-loson-dlya-tela.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/41-limancy-otbelivayuschiy-i-uvlazhnyayuschiy-loson-dlya-tela.png",
+        "alt": "LIMANCY Отбеливающий и увлажняющий лосьон для тела"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-041"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОД ЗА ТЕЛОМ"
+      },
+      {
+        "label": "Объём",
+        "value": "210"
+      },
+      {
+        "label": "PV",
+        "value": "1,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY отбеливающий увлажняющий лосьон для тела 210мл",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 41,
+      "sourceLine": "LIMANCY Отбеливающий и увлажняющий лосьон для тела 210 462 840 1,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-042",
+    "sku": "FAMALL-042",
+    "slug": "42-limancy-shampun-osvezhayuschiy",
+    "name": "LIMANCY Шампунь освежающий",
+    "brand": "Limancy",
+    "category": "УХОДОВЫЕ ШАМПУНИ",
+    "volume": "400",
+    "description": "LIMANCY Шампунь освежающий 400мл. Средства по уходу за волосами",
+    "retailPrice": 750,
+    "partnerPrice": 413,
+    "pv": 0.6,
+    "image": "assets/images/products/42-limancy-shampun-osvezhayuschiy.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/42-limancy-shampun-osvezhayuschiy.png",
+        "alt": "LIMANCY Шампунь освежающий"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-042"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОДОВЫЕ ШАМПУНИ"
+      },
+      {
+        "label": "Объём",
+        "value": "400"
+      },
+      {
+        "label": "PV",
+        "value": "0,6"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Шампунь освежающий 400мл",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 42,
+      "sourceLine": "LIMANCY Шампунь освежающий 400 413 750 0,6",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-043",
+    "sku": "FAMALL-043",
+    "slug": "43-limancy-shampun-vosstanavlivayuschiy",
+    "name": "LIMANCY Шампунь восстанавливающий",
+    "brand": "Limancy",
+    "category": "УХОДОВЫЕ ШАМПУНИ",
+    "volume": "400",
+    "description": "LIMANCY Шампунь восстанавливающий. Средства по уходу за волосами",
+    "retailPrice": 750,
+    "partnerPrice": 413,
+    "pv": 0.6,
+    "image": "assets/images/products/43-limancy-shampun-vosstanavlivayuschiy.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/43-limancy-shampun-vosstanavlivayuschiy.png",
+        "alt": "LIMANCY Шампунь восстанавливающий"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-043"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОДОВЫЕ ШАМПУНИ"
+      },
+      {
+        "label": "Объём",
+        "value": "400"
+      },
+      {
+        "label": "PV",
+        "value": "0,6"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "exact_name",
+      "score": 1.0,
+      "sourceName": "LIMANCY Шампунь восстанавливающий",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 43,
+      "sourceLine": "LIMANCY Шампунь восстанавливающий400 413 750 0,6",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-044",
+    "sku": "FAMALL-044",
+    "slug": "44-limancy-shampun-protiv-zhirnosti",
+    "name": "LIMANCY Шампунь против жирности",
+    "brand": "Limancy",
+    "category": "УХОДОВЫЕ ШАМПУНИ",
+    "volume": "400",
+    "description": "LIMANCY Шампунь против жирности 400мл. Средства по уходу за волосами",
+    "retailPrice": 750,
+    "partnerPrice": 413,
+    "pv": 0.6,
+    "image": "assets/images/products/44-limancy-shampun-protiv-zhirnosti.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/44-limancy-shampun-protiv-zhirnosti.png",
+        "alt": "LIMANCY Шампунь против жирности"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-044"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОДОВЫЕ ШАМПУНИ"
+      },
+      {
+        "label": "Объём",
+        "value": "400"
+      },
+      {
+        "label": "PV",
+        "value": "0,6"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Шампунь против жирности 400мл",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 44,
+      "sourceLine": "LIMANCY Шампунь против жирности 400 413 750 0,6",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-045",
+    "sku": "FAMALL-045",
+    "slug": "45-limancy-razglazhivayuschiy-shampun-protiv-perhoti-s-zhenshenem-i-olivkovym-maslom",
+    "name": "LIMANCY Разглаживающий шампунь против перхоти с женьшенем и оливковым маслом",
+    "brand": "Limancy",
+    "category": "УХОДОВЫЕ ШАМПУНИ",
+    "volume": "400",
+    "description": "LIMANCY Разглаживающий шампунь против перхоти с женьшенем и оливковым маслом. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1100,
+    "partnerPrice": 605,
+    "pv": 3.0,
+    "image": "assets/images/products/placeholders/45-limancy-razglazhivayuschiy-shampun-protiv-perhoti-s-zhenshenem-i-olivkovym-maslom.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/45-limancy-razglazhivayuschiy-shampun-protiv-perhoti-s-zhenshenem-i-olivkovym-maslom.svg",
+        "alt": "LIMANCY Разглаживающий шампунь против перхоти с женьшенем и оливковым маслом"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-045"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОДОВЫЕ ШАМПУНИ"
+      },
+      {
+        "label": "Объём",
+        "value": "400"
+      },
+      {
+        "label": "PV",
+        "value": "3,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.711,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 45,
+      "sourceLine": "LIMANCY Разглаживающий шампунь против перхоти с женьшенем и оливковым маслом 400 605 1100 3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-046",
+    "sku": "FAMALL-046",
+    "slug": "46-limancy-shampun-ot-perhoti-s-zheltym-imbirem",
+    "name": "LIMANCY Шампунь от перхоти с желтым имбирем",
+    "brand": "Limancy",
+    "category": "УХОДОВЫЕ ШАМПУНИ",
+    "volume": "400",
+    "description": "LIMANCY Шампунь против жирности 400мл. Средства по уходу за волосами",
+    "retailPrice": 570,
+    "partnerPrice": 315,
+    "pv": 1.0,
+    "image": "assets/images/products/placeholders/46-limancy-shampun-ot-perhoti-s-zheltym-imbirem.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/46-limancy-shampun-ot-perhoti-s-zheltym-imbirem.svg",
+        "alt": "LIMANCY Шампунь от перхоти с желтым имбирем"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-046"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОДОВЫЕ ШАМПУНИ"
+      },
+      {
+        "label": "Объём",
+        "value": "400"
+      },
+      {
+        "label": "PV",
+        "value": "1,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.83,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 46,
+      "sourceLine": "LIMANCY Шампунь от перхоти с желтым имбирем 400 315 570 1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-047",
+    "sku": "FAMALL-047",
+    "slug": "47-limancy-myagkiy-pitatelnyy-shampun-s-shelkom",
+    "name": "LIMANCY Мягкий питательный шампунь с шелком",
+    "brand": "Limancy",
+    "category": "УХОДОВЫЕ ШАМПУНИ",
+    "volume": "500",
+    "description": "LIMANCY Мягкий питательный шампунь. Средства по уходу за волосами",
+    "retailPrice": 600,
+    "partnerPrice": 330,
+    "pv": 0.1,
+    "image": "assets/images/products/47-limancy-myagkiy-pitatelnyy-shampun-s-shelkom.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/47-limancy-myagkiy-pitatelnyy-shampun-s-shelkom.png",
+        "alt": "LIMANCY Мягкий питательный шампунь с шелком"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-047"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОДОВЫЕ ШАМПУНИ"
+      },
+      {
+        "label": "Объём",
+        "value": "500"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Мягкий питательный шампунь",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 47,
+      "sourceLine": "LIMANCY Мягкий питательный шампунь с шелком 500 330 600 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-048",
+    "sku": "FAMALL-048",
+    "slug": "48-limancy-shampun-protiv-vypadeniya-volos",
+    "name": "LIMANCY Шампунь Против Выпадения Волос",
+    "brand": "Limancy",
+    "category": "УХОДОВЫЕ ШАМПУНИ",
+    "volume": "350",
+    "description": "LIMANCY Шампунь Против Выпадения Волос. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 900,
+    "partnerPrice": 495,
+    "pv": 1.5,
+    "image": "assets/images/products/placeholders/48-limancy-shampun-protiv-vypadeniya-volos.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/48-limancy-shampun-protiv-vypadeniya-volos.svg",
+        "alt": "LIMANCY Шампунь Против Выпадения Волос"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-048"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОДОВЫЕ ШАМПУНИ"
+      },
+      {
+        "label": "Объём",
+        "value": "350"
+      },
+      {
+        "label": "PV",
+        "value": "1,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.8,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 48,
+      "sourceLine": "LIMANCY Шампунь Против Выпадения Волос 350 495 900 1,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-049",
+    "sku": "FAMALL-049",
+    "slug": "49-han-travyanoy-shampun-s-essenciey-imbirya",
+    "name": "ХАН Травяной шампунь с эссенцией имбиря",
+    "brand": "Хан",
+    "category": "УХОДОВЫЕ ШАМПУНИ",
+    "volume": "760",
+    "description": "ХАН Травяной шампунь с эссенцией имбиря 760ml. Средства по уходу за волосами",
+    "retailPrice": 1300,
+    "partnerPrice": 715,
+    "pv": 1.0,
+    "image": "assets/images/products/49-han-travyanoy-shampun-s-essenciey-imbirya.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/49-han-travyanoy-shampun-s-essenciey-imbirya.png",
+        "alt": "ХАН Травяной шампунь с эссенцией имбиря"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-049"
+      },
+      {
+        "label": "Бренд",
+        "value": "Хан"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОДОВЫЕ ШАМПУНИ"
+      },
+      {
+        "label": "Объём",
+        "value": "760"
+      },
+      {
+        "label": "PV",
+        "value": "1,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "ХАН Травяной шампунь с эссенцией имбиря 760ml",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 49,
+      "sourceLine": "ХАН Травяной шампунь с эссенцией имбиря 760 715 1300 1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-050",
+    "sku": "FAMALL-050",
+    "slug": "50-han-travyanoy-shampun-s-essenciey-zhenshenya",
+    "name": "ХАН Травяной шампунь с эссенцией женьшеня",
+    "brand": "Хан",
+    "category": "УХОДОВЫЕ ШАМПУНИ",
+    "volume": "760",
+    "description": "ХАН Травяной шампунь с эссенцией женьшеня 760мл. Средства по уходу за волосами",
+    "retailPrice": 1300,
+    "partnerPrice": 715,
+    "pv": 1.0,
+    "image": "assets/images/products/50-han-travyanoy-shampun-s-essenciey-zhenshenya.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/50-han-travyanoy-shampun-s-essenciey-zhenshenya.png",
+        "alt": "ХАН Травяной шампунь с эссенцией женьшеня"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-050"
+      },
+      {
+        "label": "Бренд",
+        "value": "Хан"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОДОВЫЕ ШАМПУНИ"
+      },
+      {
+        "label": "Объём",
+        "value": "760"
+      },
+      {
+        "label": "PV",
+        "value": "1,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "ХАН Травяной шампунь с эссенцией женьшеня 760мл",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 50,
+      "sourceLine": "ХАН Травяной шампунь с эссенцией женьшеня 760 715 1300 1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-051",
+    "sku": "FAMALL-051",
+    "slug": "51-miubaby-detskiy-shampun-i-gel-dlya-dusha",
+    "name": "Miubaby детский шампунь и гель для душа",
+    "brand": "Miubaby",
+    "category": "УХОДОВЫЕ ШАМПУНИ",
+    "volume": "300",
+    "description": "Miubaby Детский шампунь и гель для душа 300мл. Товары для детей",
+    "retailPrice": 666,
+    "partnerPrice": 366,
+    "pv": 0.6,
+    "image": "assets/images/products/51-miubaby-detskiy-shampun-i-gel-dlya-dusha.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/51-miubaby-detskiy-shampun-i-gel-dlya-dusha.png",
+        "alt": "Miubaby детский шампунь и гель для душа"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-051"
+      },
+      {
+        "label": "Бренд",
+        "value": "Miubaby"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОДОВЫЕ ШАМПУНИ"
+      },
+      {
+        "label": "Объём",
+        "value": "300"
+      },
+      {
+        "label": "PV",
+        "value": "0,6"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "Miubaby Детский шампунь и гель для душа 300мл",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 51,
+      "sourceLine": "Miubaby детский шампунь и гель для душа 300 366 666 0,6",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-052",
+    "sku": "FAMALL-052",
+    "slug": "52-limancy-efirnoe-maslo-dlya-uhoda-protiv-suhosti-volos",
+    "name": "LIMANCY Эфирное масло для ухода против сухости волос",
+    "brand": "Limancy",
+    "category": "УХОДОВЫЕ ШАМПУНИ",
+    "volume": "80",
+    "description": "LIMANCY Эфирное масло для ухода за волосами 80мл. Средства по уходу за волосами",
+    "retailPrice": 1130,
+    "partnerPrice": 622,
+    "pv": 1.0,
+    "image": "assets/images/products/placeholder.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholder.svg",
+        "alt": "LIMANCY Эфирное масло для ухода против сухости волос"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-052"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОДОВЫЕ ШАМПУНИ"
+      },
+      {
+        "label": "Объём",
+        "value": "80"
+      },
+      {
+        "label": "PV",
+        "value": "1,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "hits"
+    ],
+    "badges": [
+      "Хит"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.94,
+      "sourceName": "LIMANCY Эфирное масло для ухода за волосами 80мл",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 52,
+      "sourceLine": "LIMANCY Эфирное масло для ухода против сухости волос 80 622 1130 1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-053",
+    "sku": "FAMALL-053",
+    "slug": "53-limancy-osvezhayuschiy-solncezaschitnyy-krem-spf50-50g",
+    "name": "LIMANCY Освежающий солнцезащитный крем SPF50/50g",
+    "brand": "Limancy",
+    "category": "УХОДОВЫЕ ШАМПУНИ",
+    "volume": "50",
+    "description": "LIMANCY Освежающий солнцезащитный крем SPF50/50g. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 760,
+    "partnerPrice": 418,
+    "pv": 0.4,
+    "image": "assets/images/products/placeholders/53-limancy-osvezhayuschiy-solncezaschitnyy-krem-spf50-50g.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/53-limancy-osvezhayuschiy-solncezaschitnyy-krem-spf50-50g.svg",
+        "alt": "LIMANCY Освежающий солнцезащитный крем SPF50/50g"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-053"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "УХОДОВЫЕ ШАМПУНИ"
+      },
+      {
+        "label": "Объём",
+        "value": "50"
+      },
+      {
+        "label": "PV",
+        "value": "0,4"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.707,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 53,
+      "sourceLine": "LIMANCY Освежающий солнцезащитный крем SPF50/50g 50 418 760 0,4",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-054",
+    "sku": "FAMALL-054",
+    "slug": "54-limancy-loson-dlya-tela-s-ekstraktom-polyni",
+    "name": "LIMANCY Лосьон для тела с экстрактом полыни",
+    "brand": "Limancy",
+    "category": "С ПОЛЫНЬЮ",
+    "volume": "240",
+    "description": "LIMANCY Лосьон для тела с полынью 240мл. Средства по уходу за телом",
+    "retailPrice": 720,
+    "partnerPrice": 396,
+    "pv": 1.5,
+    "image": "assets/images/products/placeholder.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholder.svg",
+        "alt": "LIMANCY Лосьон для тела с экстрактом полыни"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-054"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "С ПОЛЫНЬЮ"
+      },
+      {
+        "label": "Объём",
+        "value": "240"
+      },
+      {
+        "label": "PV",
+        "value": "1,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.936,
+      "sourceName": "LIMANCY Лосьон для тела с полынью 240мл",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 54,
+      "sourceLine": "LIMANCY Лосьон для тела с экстрактом полыни 240 396 720 1,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-055",
+    "sku": "FAMALL-055",
+    "slug": "55-limancy-gel-dlya-dusha-s-polynyu",
+    "name": "LIMANCY гель для душа с полынью",
+    "brand": "Limancy",
+    "category": "С ПОЛЫНЬЮ",
+    "volume": "450",
+    "description": "LIMANCY гель для душа с полынью 450ml. Средства по уходу за телом",
+    "retailPrice": 840,
+    "partnerPrice": 462,
+    "pv": 1.5,
+    "image": "assets/images/products/55-limancy-gel-dlya-dusha-s-polynyu.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/55-limancy-gel-dlya-dusha-s-polynyu.png",
+        "alt": "LIMANCY гель для душа с полынью"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-055"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "С ПОЛЫНЬЮ"
+      },
+      {
+        "label": "Объём",
+        "value": "450"
+      },
+      {
+        "label": "PV",
+        "value": "1,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY гель для душа с полынью 450ml",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 55,
+      "sourceLine": "LIMANCY гель для душа с полынью 450 462 840 1,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-056",
+    "sku": "FAMALL-056",
+    "slug": "56-limancy-shampun-s-polynyu",
+    "name": "LIMANCY Шампунь с полынью",
+    "brand": "Limancy",
+    "category": "С ПОЛЫНЬЮ",
+    "volume": "450",
+    "description": "LIMANCY Шампунь с полынью 450ml. Средства по уходу за волосами",
+    "retailPrice": 960,
+    "partnerPrice": 528,
+    "pv": 1.5,
+    "image": "assets/images/products/56-limancy-shampun-s-polynyu.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/56-limancy-shampun-s-polynyu.png",
+        "alt": "LIMANCY Шампунь с полынью"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-056"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "С ПОЛЫНЬЮ"
+      },
+      {
+        "label": "Объём",
+        "value": "450"
+      },
+      {
+        "label": "PV",
+        "value": "1,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Шампунь с полынью 450ml",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 56,
+      "sourceLine": "LIMANCY Шампунь с полынью 450 528 960 1,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-057",
+    "sku": "FAMALL-057",
+    "slug": "57-limancy-kondicionerdlya-volos-s-polynyu",
+    "name": "LIMANCY кондиционердля волос с полынью",
+    "brand": "Limancy",
+    "category": "С ПОЛЫНЬЮ",
+    "volume": "450",
+    "description": "LIMANCY кондиционер с полынью 450мл. Средства по уходу за волосами",
+    "retailPrice": 960,
+    "partnerPrice": 528,
+    "pv": 1.5,
+    "image": "assets/images/products/placeholder.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholder.svg",
+        "alt": "LIMANCY кондиционердля волос с полынью"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-057"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "С ПОЛЫНЬЮ"
+      },
+      {
+        "label": "Объём",
+        "value": "450"
+      },
+      {
+        "label": "PV",
+        "value": "1,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.975,
+      "sourceName": "LIMANCY кондиционер с полынью 450мл",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 57,
+      "sourceLine": "LIMANCY кондиционердля волос с полынью 450 528 960 1,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-058",
+    "sku": "FAMALL-058",
+    "slug": "58-limancy-pitatelnyy-i-uvlazhnyayuschiy-gel-dlya-dusha-iz-serii-s-shelkom",
+    "name": "LIMANCY Питательный и увлажняющий гель для душа из серии \"с шелком\"",
+    "brand": "Limancy",
+    "category": "ГЕЛЬ ДЛЯ ДУША",
+    "volume": "500",
+    "description": "LIMANCY Питательный и увлажняющий гель для душа. Средства по уходу за телом",
+    "retailPrice": 640,
+    "partnerPrice": 352,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholder.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholder.svg",
+        "alt": "LIMANCY Питательный и увлажняющий гель для душа из серии \"с шелком\""
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-058"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "ГЕЛЬ ДЛЯ ДУША"
+      },
+      {
+        "label": "Объём",
+        "value": "500"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Питательный и увлажняющий гель для душа",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 58,
+      "sourceLine": "LIMANCY Питательный и увлажняющий гель для душа из серии \"с шелком\" 500 352 640 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-059",
+    "sku": "FAMALL-059",
+    "slug": "59-limancy-rozovyy-gel-dlya-dusha",
+    "name": "LIMANCY Розовый гель для душа",
+    "brand": "Limancy",
+    "category": "ГЕЛЬ ДЛЯ ДУША",
+    "volume": "550",
+    "description": "LIMANCY  розовый гель для душа.. Средства по уходу за телом",
+    "retailPrice": 920,
+    "partnerPrice": 506,
+    "pv": 1.5,
+    "image": "assets/images/products/59-limancy-rozovyy-gel-dlya-dusha.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/59-limancy-rozovyy-gel-dlya-dusha.png",
+        "alt": "LIMANCY Розовый гель для душа"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-059"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "ГЕЛЬ ДЛЯ ДУША"
+      },
+      {
+        "label": "Объём",
+        "value": "550"
+      },
+      {
+        "label": "PV",
+        "value": "1,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "exact_name",
+      "score": 1.0,
+      "sourceName": "LIMANCY  розовый гель для душа.",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 59,
+      "sourceLine": "LIMANCY Розовый гель для душа 550 506 920 1,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-060",
+    "sku": "FAMALL-060",
+    "slug": "60-limancy-pitatelnyy-i-uvlazhnyayuschiy-gel-dlya-dusha-s-ekstraktom-moloka",
+    "name": "LIMANCY Питательный и увлажняющий гель для душа с экстрактом молока",
+    "brand": "Limancy",
+    "category": "ГЕЛЬ ДЛЯ ДУША",
+    "volume": "1100 мл",
+    "description": "LIMANCY увлажняющий гель для душа с экстрактом молока.. Средства по уходу за телом",
+    "retailPrice": 840,
+    "partnerPrice": 462,
+    "pv": 0.3,
+    "image": "assets/images/products/60-limancy-pitatelnyy-i-uvlazhnyayuschiy-gel-dlya-dusha-s-ekstraktom-moloka.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/60-limancy-pitatelnyy-i-uvlazhnyayuschiy-gel-dlya-dusha-s-ekstraktom-moloka.png",
+        "alt": "LIMANCY Питательный и увлажняющий гель для душа с экстрактом молока"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-060"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "ГЕЛЬ ДЛЯ ДУША"
+      },
+      {
+        "label": "Объём",
+        "value": "1100 мл"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY увлажняющий гель для душа с экстрактом молока.",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 60,
+      "sourceLine": "LIMANCY Питательный и увлажняющий гель для душа с экстрактом молока 1100 мл. 462 840 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-061",
+    "sku": "FAMALL-061",
+    "slug": "61-limancy-ukreplyayuschaya-i-osvetlyayuschaya-maska-dlya-lica-s-zhenshenem",
+    "name": "LIMANCY Укрепляющая и осветляющая маска для лица с женьшенем",
+    "brand": "Limancy",
+    "category": "МАСКИ",
+    "volume": "30 мл",
+    "description": "LIMANCY Укрепляющая и осветляющая маска для лица с женьшенем. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 300,
+    "partnerPrice": 165,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholders/61-limancy-ukreplyayuschaya-i-osvetlyayuschaya-maska-dlya-lica-s-zhenshenem.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/61-limancy-ukreplyayuschaya-i-osvetlyayuschaya-maska-dlya-lica-s-zhenshenem.svg",
+        "alt": "LIMANCY Укрепляющая и осветляющая маска для лица с женьшенем"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-061"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "МАСКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "30 мл"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.761,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 61,
+      "sourceLine": "LIMANCY Укрепляющая и осветляющая маска для лица с женьшенем 30 мл. 165 300 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-062",
+    "sku": "FAMALL-062",
+    "slug": "62-limancy-ochischayuschaya-maska-s-bambukovym-uglem",
+    "name": "LIMANCY Очищающая маска с бамбуковым углем",
+    "brand": "Limancy",
+    "category": "МАСКИ",
+    "volume": "30 мл",
+    "description": "LIMANCY Очищающая маска с бамбуковым углем.. Уходовая косметика для лица",
+    "retailPrice": 300,
+    "partnerPrice": 165,
+    "pv": 0.1,
+    "image": "assets/images/products/62-limancy-ochischayuschaya-maska-s-bambukovym-uglem.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/62-limancy-ochischayuschaya-maska-s-bambukovym-uglem.png",
+        "alt": "LIMANCY Очищающая маска с бамбуковым углем"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-062"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "МАСКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "30 мл"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "exact_name",
+      "score": 1.0,
+      "sourceName": "LIMANCY Очищающая маска с бамбуковым углем.",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 62,
+      "sourceLine": "LIMANCY Очищающая маска с бамбуковым углем 30 мл. 165 300 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-063",
+    "sku": "FAMALL-063",
+    "slug": "63-limancy-probioticheskaya-maska-dlya-lica-s-granatom-obyknovennym",
+    "name": "LIMANCY Пробиотическая маска для лица с гранатом обыкновенным",
+    "brand": "Limancy",
+    "category": "МАСКИ",
+    "volume": "30 мл",
+    "description": "LIMANCY Прозрачная маска для лица с гранатом обыкновенным. Уходовая косметика для лица",
+    "retailPrice": 300,
+    "partnerPrice": 165,
+    "pv": 0.1,
+    "image": "assets/images/products/63-limancy-probioticheskaya-maska-dlya-lica-s-granatom-obyknovennym.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/63-limancy-probioticheskaya-maska-dlya-lica-s-granatom-obyknovennym.png",
+        "alt": "LIMANCY Пробиотическая маска для лица с гранатом обыкновенным"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-063"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "МАСКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "30 мл"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Прозрачная маска для лица с гранатом обыкновенным",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 63,
+      "sourceLine": "LIMANCY Пробиотическая маска для лица с гранатом обыкновенным 30 мл. 165 300 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-064",
+    "sku": "FAMALL-064",
+    "slug": "64-limancy-uvlazhnyayuschaya-maska-dlya-lica-s-ogurechnym-sokom",
+    "name": "LIMANCY Увлажняющая маска для лица с огуречным соком",
+    "brand": "Limancy",
+    "category": "МАСКИ",
+    "volume": "30 мл",
+    "description": "LIMANCY Прозрачная маска для лица с гранатом обыкновенным. Уходовая косметика для лица",
+    "retailPrice": 300,
+    "partnerPrice": 165,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholders/64-limancy-uvlazhnyayuschaya-maska-dlya-lica-s-ogurechnym-sokom.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/64-limancy-uvlazhnyayuschaya-maska-dlya-lica-s-ogurechnym-sokom.svg",
+        "alt": "LIMANCY Увлажняющая маска для лица с огуречным соком"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-064"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "МАСКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "30 мл"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.822,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 64,
+      "sourceLine": "LIMANCY Увлажняющая маска для лица с огуречным соком 30 мл. 165 300 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-065",
+    "sku": "FAMALL-065",
+    "slug": "65-limancy-tonik-s-gialuronovoy-kislotoy-1",
+    "name": "LIMANCY тоник с гиалуроновой кислотой №1",
+    "brand": "Limancy",
+    "category": "С ГИАЛУРОНОВОЙ КИСЛОТОЙ",
+    "volume": "120",
+    "description": "LIMANCY тоник с гиалуроновой кислотой №1. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1920,
+    "partnerPrice": 1056,
+    "pv": 3.0,
+    "image": "assets/images/products/placeholders/65-limancy-tonik-s-gialuronovoy-kislotoy-1.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/65-limancy-tonik-s-gialuronovoy-kislotoy-1.svg",
+        "alt": "LIMANCY тоник с гиалуроновой кислотой №1"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-065"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "С ГИАЛУРОНОВОЙ КИСЛОТОЙ"
+      },
+      {
+        "label": "Объём",
+        "value": "120"
+      },
+      {
+        "label": "PV",
+        "value": "3,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.662,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 65,
+      "sourceLine": "LIMANCY тоник с гиалуроновой кислотой №1 120 1056 1920 3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-066",
+    "sku": "FAMALL-066",
+    "slug": "66-limancy-gidrogel-s-gialuronovoy-kislotoy-2",
+    "name": "LIMANCY гидрогель с гиалуроновой кислотой №2",
+    "brand": "Limancy",
+    "category": "С ГИАЛУРОНОВОЙ КИСЛОТОЙ",
+    "volume": "100",
+    "description": "LIMANCY гидрогель с гиалуроновой кислотой №2. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1800,
+    "partnerPrice": 990,
+    "pv": 3.0,
+    "image": "assets/images/products/placeholders/66-limancy-gidrogel-s-gialuronovoy-kislotoy-2.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/66-limancy-gidrogel-s-gialuronovoy-kislotoy-2.svg",
+        "alt": "LIMANCY гидрогель с гиалуроновой кислотой №2"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-066"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "С ГИАЛУРОНОВОЙ КИСЛОТОЙ"
+      },
+      {
+        "label": "Объём",
+        "value": "100"
+      },
+      {
+        "label": "PV",
+        "value": "3,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.639,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 66,
+      "sourceLine": "LIMANCY гидрогель с гиалуроновой кислотой №2 100 990 1800 3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-067",
+    "sku": "FAMALL-067",
+    "slug": "67-limancy-syvorotka-s-gialuronovoy-kislotoy-3",
+    "name": "LIMANCY сыворотка с гиалуроновой кислотой №3",
+    "brand": "Limancy",
+    "category": "С ГИАЛУРОНОВОЙ КИСЛОТОЙ",
+    "volume": "30",
+    "description": "LIMANCY сыворотка с гиалуроновой кислотой №3. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1440,
+    "partnerPrice": 792,
+    "pv": 2.5,
+    "image": "assets/images/products/placeholders/67-limancy-syvorotka-s-gialuronovoy-kislotoy-3.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/67-limancy-syvorotka-s-gialuronovoy-kislotoy-3.svg",
+        "alt": "LIMANCY сыворотка с гиалуроновой кислотой №3"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-067"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "С ГИАЛУРОНОВОЙ КИСЛОТОЙ"
+      },
+      {
+        "label": "Объём",
+        "value": "30"
+      },
+      {
+        "label": "PV",
+        "value": "2,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.64,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 67,
+      "sourceLine": "LIMANCY сыворотка с гиалуроновой кислотой №3 30 792 1440 2,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-068",
+    "sku": "FAMALL-068",
+    "slug": "68-limancy-mylo-s-drevesnym-uglem-i-efirnymi-maslami-ruchnoy-raboty",
+    "name": "LIMANCY Мыло с древесным углем и эфирными маслами ручной работы",
+    "brand": "Limancy",
+    "category": "МЫЛО",
+    "volume": "100",
+    "description": "LIMANCY Мыло с древесным углем и эфирными маслами ручной работы 100гр. Уходовая косметика для лица",
+    "retailPrice": 360,
+    "partnerPrice": 198,
+    "pv": 0.3,
+    "image": "assets/images/products/68-limancy-mylo-s-drevesnym-uglem-i-efirnymi-maslami-ruchnoy-raboty.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/68-limancy-mylo-s-drevesnym-uglem-i-efirnymi-maslami-ruchnoy-raboty.png",
+        "alt": "LIMANCY Мыло с древесным углем и эфирными маслами ручной работы"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-068"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "МЫЛО"
+      },
+      {
+        "label": "Объём",
+        "value": "100"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Мыло с древесным углем и эфирными маслами ручной работы 100гр",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 68,
+      "sourceLine": "LIMANCY Мыло с древесным углем и эфирными маслами ручной работы 100 198 360 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-069",
+    "sku": "FAMALL-069",
+    "slug": "69-berclean-zhidkoe-mylo-dlya-ruk-s-ekstraktom-aloe",
+    "name": "BERCLEAN Жидкое мыло для рук с экстрактом алоэ",
+    "brand": "Berclean",
+    "category": "МЫЛО",
+    "volume": "500",
+    "description": "BERCLEAN Жидкое мыло для рук с экстрактом ромашки 500ml. Средства по уходу за домом",
+    "retailPrice": 540,
+    "partnerPrice": 297,
+    "pv": 0.3,
+    "image": "assets/images/products/69-berclean-zhidkoe-mylo-dlya-ruk-s-ekstraktom-aloe.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/69-berclean-zhidkoe-mylo-dlya-ruk-s-ekstraktom-aloe.png",
+        "alt": "BERCLEAN Жидкое мыло для рук с экстрактом алоэ"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-069"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "МЫЛО"
+      },
+      {
+        "label": "Объём",
+        "value": "500"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "BERCLEAN Жидкое мыло для рук с экстрактом ромашки 500ml",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 69,
+      "sourceLine": "BERCLEAN Жидкое мыло для рук с экстрактом алоэ 500 297 540 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-070",
+    "sku": "FAMALL-070",
+    "slug": "70-berclean-zhidkoe-mylo-dlya-ruk-s-ekstraktom-romashki",
+    "name": "BERCLEAN Жидкое мыло для рук с экстрактом ромашки",
+    "brand": "Berclean",
+    "category": "МЫЛО",
+    "volume": "500",
+    "description": "BERCLEAN Жидкое мыло для рук с экстрактом ромашки 500ml. Средства по уходу за домом",
+    "retailPrice": 540,
+    "partnerPrice": 297,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholders/70-berclean-zhidkoe-mylo-dlya-ruk-s-ekstraktom-romashki.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/70-berclean-zhidkoe-mylo-dlya-ruk-s-ekstraktom-romashki.svg",
+        "alt": "BERCLEAN Жидкое мыло для рук с экстрактом ромашки"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-070"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "МЫЛО"
+      },
+      {
+        "label": "Объём",
+        "value": "500"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.99,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 70,
+      "sourceLine": "BERCLEAN Жидкое мыло для рук с экстрактом ромашки 500 297 540 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-071",
+    "sku": "FAMALL-071",
+    "slug": "71-berclean-fitozaschitnoe-antibakterialnoe-mylo-dlya-belya",
+    "name": "BERCLEAN Фитозащитное антибактериальное мыло для белья",
+    "brand": "Berclean",
+    "category": "МЫЛО",
+    "volume": "80 гр",
+    "description": "BERCLEAN Фитозащитное антибактериальное мыло для белья 80гр.. Средства по уходу за домом",
+    "retailPrice": 168,
+    "partnerPrice": 93,
+    "pv": 0.2,
+    "image": "assets/images/products/71-berclean-fitozaschitnoe-antibakterialnoe-mylo-dlya-belya.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/71-berclean-fitozaschitnoe-antibakterialnoe-mylo-dlya-belya.png",
+        "alt": "BERCLEAN Фитозащитное антибактериальное мыло для белья"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-071"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "МЫЛО"
+      },
+      {
+        "label": "Объём",
+        "value": "80 гр"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "BERCLEAN Фитозащитное антибактериальное мыло для белья 80гр.",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 71,
+      "sourceLine": "BERCLEAN Фитозащитное антибактериальное мыло для белья 80 гр. 93 168 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-072",
+    "sku": "FAMALL-072",
+    "slug": "72-berclean-detskoe-mylo-bez-vreda-kozhe",
+    "name": "BERCLEAN Детское мыло без вреда коже",
+    "brand": "Berclean",
+    "category": "МЫЛО",
+    "volume": "80 гр",
+    "description": "BERCLEAN Детское мыло без вреда коже 80гр. Товары для детей",
+    "retailPrice": 168,
+    "partnerPrice": 93,
+    "pv": 0.2,
+    "image": "assets/images/products/72-berclean-detskoe-mylo-bez-vreda-kozhe.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/72-berclean-detskoe-mylo-bez-vreda-kozhe.png",
+        "alt": "BERCLEAN Детское мыло без вреда коже"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-072"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "МЫЛО"
+      },
+      {
+        "label": "Объём",
+        "value": "80 гр"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "BERCLEAN Детское мыло без вреда коже 80гр",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 72,
+      "sourceLine": "BERCLEAN Детское мыло без вреда коже80 гр. 93 168 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-073",
+    "sku": "FAMALL-073",
+    "slug": "73-limancy-uvlazhnyayuschiy-vosstanavlivayuschiy-gel-s-aloe-vera",
+    "name": "LIMANCY Увлажняющий восстанавливающий гель с Алоэ Вера",
+    "brand": "Limancy",
+    "category": "С АЛОЭ ВЕРА",
+    "volume": "30",
+    "description": "LIMANCY Увлажняющий восстанавливающий гель с алоэ вера 30г. Уходовая косметика для лица",
+    "retailPrice": 1000,
+    "partnerPrice": 550,
+    "pv": 1.5,
+    "image": "assets/images/products/73-limancy-uvlazhnyayuschiy-vosstanavlivayuschiy-gel-s-aloe-vera.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/73-limancy-uvlazhnyayuschiy-vosstanavlivayuschiy-gel-s-aloe-vera.png",
+        "alt": "LIMANCY Увлажняющий восстанавливающий гель с Алоэ Вера"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-073"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "С АЛОЭ ВЕРА"
+      },
+      {
+        "label": "Объём",
+        "value": "30"
+      },
+      {
+        "label": "PV",
+        "value": "1,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Увлажняющий восстанавливающий гель с алоэ вера 30г",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 73,
+      "sourceLine": "LIMANCY Увлажняющий восстанавливающий гель с Алоэ Вера30 550 1000 1,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-074",
+    "sku": "FAMALL-074",
+    "slug": "74-limancy-vosstanovlivayuschiy-gel-aloe",
+    "name": "LIMANCY Восстановливающий Гель Алоэ",
+    "brand": "Limancy",
+    "category": "С АЛОЭ ВЕРА",
+    "volume": "50",
+    "description": "LIMANCY Восстановливающий Гель Алоэ 50г.. Уходовая косметика для лица",
+    "retailPrice": 320,
+    "partnerPrice": 176,
+    "pv": 0.3,
+    "image": "assets/images/products/74-limancy-vosstanovlivayuschiy-gel-aloe.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/74-limancy-vosstanovlivayuschiy-gel-aloe.png",
+        "alt": "LIMANCY Восстановливающий Гель Алоэ"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-074"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "С АЛОЭ ВЕРА"
+      },
+      {
+        "label": "Объём",
+        "value": "50"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Восстановливающий Гель Алоэ 50г.",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 74,
+      "sourceLine": "LIMANCY Восстановливающий Гель Алоэ50 176 320 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-075",
+    "sku": "FAMALL-075",
+    "slug": "75-limancy-otshelushivayuschiy-gel-s-aloe",
+    "name": "LIMANCY отшелушивающий гель с алоэ",
+    "brand": "Limancy",
+    "category": "С АЛОЭ ВЕРА",
+    "volume": "120",
+    "description": "LIMANCY отшелушивающий гель с алоэ 120г. Уходовая косметика для лица",
+    "retailPrice": 736,
+    "partnerPrice": 405,
+    "pv": 2.0,
+    "image": "assets/images/products/75-limancy-otshelushivayuschiy-gel-s-aloe.jpg",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/75-limancy-otshelushivayuschiy-gel-s-aloe.jpg",
+        "alt": "LIMANCY отшелушивающий гель с алоэ"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-075"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "С АЛОЭ ВЕРА"
+      },
+      {
+        "label": "Объём",
+        "value": "120"
+      },
+      {
+        "label": "PV",
+        "value": "2,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY отшелушивающий гель с алоэ 120г",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 75,
+      "sourceLine": "LIMANCY отшелушивающий гель с алоэ120 405 736 2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-076",
+    "sku": "FAMALL-076",
+    "slug": "76-limancy-uvlazhnyayuschee-ochischayuschee-sredstvo-s-aloe",
+    "name": "LIMANCY Увлажняющее очищающее средство с Алоэ",
+    "brand": "Limancy",
+    "category": "С АЛОЭ ВЕРА",
+    "volume": "150",
+    "description": "LIMANCY  Увлажняющее средство для умывания лица с алоэ вера. Уходовая косметика для лица",
+    "retailPrice": 560,
+    "partnerPrice": 308,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholder.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholder.svg",
+        "alt": "LIMANCY Увлажняющее очищающее средство с Алоэ"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-076"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "С АЛОЭ ВЕРА"
+      },
+      {
+        "label": "Объём",
+        "value": "150"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.86,
+      "sourceName": "LIMANCY  Увлажняющее средство для умывания лица с алоэ вера",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 76,
+      "sourceLine": "LIMANCY Увлажняющее очищающее средство с Алоэ 150 308 560 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-077",
+    "sku": "FAMALL-077",
+    "slug": "77-limancy-uvlazhnyayuschiy-gel-dlya-dusha-s-ekstraktom-moloka",
+    "name": "LIMANCY увлажняющий гель для душа с экстрактом молока",
+    "brand": "Limancy",
+    "category": "С АЛОЭ ВЕРА",
+    "volume": "1100",
+    "description": "LIMANCY увлажняющий гель для душа с экстрактом молока.. Средства по уходу за телом",
+    "retailPrice": 840,
+    "partnerPrice": 462,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholder.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholder.svg",
+        "alt": "LIMANCY увлажняющий гель для душа с экстрактом молока"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-077"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "С АЛОЭ ВЕРА"
+      },
+      {
+        "label": "Объём",
+        "value": "1100"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.825,
+      "sourceName": "LIMANCY Увлажняющий бальзам для губ с легким оттенком (светло-розовый）",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 77,
+      "sourceLine": "LIMANCY увлажняющий гель для душа с экстрактом молока 1100 462 840 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-078",
+    "sku": "FAMALL-078",
+    "slug": "78-limancy-muzhskie-duhi-50-ml",
+    "name": "LIMANCY Мужские духи 50 мл",
+    "brand": "Limancy",
+    "category": "ПАРФЮМ",
+    "volume": "50",
+    "description": "LIMANCY Мужские духи 50 мл. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 2240,
+    "partnerPrice": 1232,
+    "pv": 5.0,
+    "image": "assets/images/products/placeholders/78-limancy-muzhskie-duhi-50-ml.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/78-limancy-muzhskie-duhi-50-ml.svg",
+        "alt": "LIMANCY Мужские духи 50 мл"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-078"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "ПАРФЮМ"
+      },
+      {
+        "label": "Объём",
+        "value": "50"
+      },
+      {
+        "label": "PV",
+        "value": "5,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.746,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 78,
+      "sourceLine": "LIMANCY Мужские духи 50 мл 50 1232 2240 5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-079",
+    "sku": "FAMALL-079",
+    "slug": "79-limancy-1-duhi-parfum",
+    "name": "LIMANCY №1 Духи/Parfum",
+    "brand": "Limancy",
+    "category": "ПАРФЮМ",
+    "volume": "30",
+    "description": "LIMANCY №1 Духи/Parfum. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1240,
+    "partnerPrice": 682,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholders/79-limancy-1-duhi-parfum.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/79-limancy-1-duhi-parfum.svg",
+        "alt": "LIMANCY №1 Духи/Parfum"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-079"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "ПАРФЮМ"
+      },
+      {
+        "label": "Объём",
+        "value": "30"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.669,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 79,
+      "sourceLine": "LIMANCY №1 Духи/Parfum 30 682 1240 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-080",
+    "sku": "FAMALL-080",
+    "slug": "80-limancy-zhenskie-duhi-diva-parfum",
+    "name": "LIMANCY Женские духи/Diva Parfum",
+    "brand": "Limancy",
+    "category": "ПАРФЮМ",
+    "volume": "50",
+    "description": "LIMANCY Женские духи/Diva Parfum. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 2240,
+    "partnerPrice": 1232,
+    "pv": 5.0,
+    "image": "assets/images/products/placeholders/80-limancy-zhenskie-duhi-diva-parfum.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/80-limancy-zhenskie-duhi-diva-parfum.svg",
+        "alt": "LIMANCY Женские духи/Diva Parfum"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-080"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "ПАРФЮМ"
+      },
+      {
+        "label": "Объём",
+        "value": "50"
+      },
+      {
+        "label": "PV",
+        "value": "5,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.633,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 80,
+      "sourceLine": "LIMANCY Женские духи/Diva Parfum 50 1232 2240 5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-081",
+    "sku": "FAMALL-081",
+    "slug": "81-bocare-muzhskoy-sprey-dlya-zaderzhki-stoykost-muzhskoy-sily",
+    "name": "BOCARE мужской спрей для задержки/ стойкость мужской силы",
+    "brand": "BOCARE",
+    "category": "ПАРФЮМ",
+    "volume": "7",
+    "description": "BOCARE мужской спрей для задержки/ стойкость мужской силы. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 9800,
+    "partnerPrice": 5390,
+    "pv": 25.0,
+    "image": "assets/images/products/placeholders/81-bocare-muzhskoy-sprey-dlya-zaderzhki-stoykost-muzhskoy-sily.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/81-bocare-muzhskoy-sprey-dlya-zaderzhki-stoykost-muzhskoy-sily.svg",
+        "alt": "BOCARE мужской спрей для задержки/ стойкость мужской силы"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-081"
+      },
+      {
+        "label": "Бренд",
+        "value": "BOCARE"
+      },
+      {
+        "label": "Категория",
+        "value": "ПАРФЮМ"
+      },
+      {
+        "label": "Объём",
+        "value": "7"
+      },
+      {
+        "label": "PV",
+        "value": "25,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [],
+    "badges": [],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.0,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 81,
+      "sourceLine": "BOCARE мужской спрей для задержки/ стойкость мужской силы 7 5390 9800 25",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-082",
+    "sku": "FAMALL-082",
+    "slug": "82-suting-gigienicheskie-prokladki-nochnye-udlinennye-360-mm",
+    "name": "SUTING Гигиенические прокладки - ночные+ удлиненные 360 мм",
+    "brand": "SUTING",
+    "category": "ЖЕНСКИЕ И МУЖСКИЕ ПРОКЛАДКИ",
+    "volume": "6 штук",
+    "description": "SUTING Гигиенические прокладки 6 шт ночные удлиненные. Средства личной гигиены",
+    "retailPrice": 280,
+    "partnerPrice": 154,
+    "pv": 0.1,
+    "image": "assets/images/products/82-suting-gigienicheskie-prokladki-nochnye-udlinennye-360-mm.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/82-suting-gigienicheskie-prokladki-nochnye-udlinennye-360-mm.png",
+        "alt": "SUTING Гигиенические прокладки - ночные+ удлиненные 360 мм"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-082"
+      },
+      {
+        "label": "Бренд",
+        "value": "SUTING"
+      },
+      {
+        "label": "Категория",
+        "value": "ЖЕНСКИЕ И МУЖСКИЕ ПРОКЛАДКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "6 штук"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "SUTING Гигиенические прокладки 6 шт ночные удлиненные",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 82,
+      "sourceLine": "SUTING Гигиенические прокладки - ночные+ удлиненные 360 мм. 6 штук 154 280 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-083",
+    "sku": "FAMALL-083",
+    "slug": "83-suting-gigienicheskie-prokladki-nochnye-udlinennye-360-mm-ultra",
+    "name": "SUTING Гигиенические прокладки - ночные+ удлиненные 360 мм. Ультра",
+    "brand": "SUTING",
+    "category": "ЖЕНСКИЕ И МУЖСКИЕ ПРОКЛАДКИ",
+    "volume": "6 штук",
+    "description": "SUTING Гигиенические прокладки 6 шт ночные удлиненные. Средства личной гигиены",
+    "retailPrice": 280,
+    "partnerPrice": 154,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholders/83-suting-gigienicheskie-prokladki-nochnye-udlinennye-360-mm-ultra.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/83-suting-gigienicheskie-prokladki-nochnye-udlinennye-360-mm-ultra.svg",
+        "alt": "SUTING Гигиенические прокладки - ночные+ удлиненные 360 мм. Ультра"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-083"
+      },
+      {
+        "label": "Бренд",
+        "value": "SUTING"
+      },
+      {
+        "label": "Категория",
+        "value": "ЖЕНСКИЕ И МУЖСКИЕ ПРОКЛАДКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "6 штук"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.99,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 83,
+      "sourceLine": "SUTING Гигиенические прокладки - ночные+ удлиненные 360 мм. Ультра6 штук 154 280 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-084",
+    "sku": "FAMALL-084",
+    "slug": "84-suting-gigienicheskie-prokladki-s-bambukovym-ekstraktom-dnevnye",
+    "name": "SUTING Гигиенические прокладки с бамбуковым экстрактом(Дневные)",
+    "brand": "SUTING",
+    "category": "ЖЕНСКИЕ И МУЖСКИЕ ПРОКЛАДКИ",
+    "volume": "10 штук",
+    "description": "SUTING Гигиенические прокладки с бамбуковым экстрактом（Дневные) 245mm*10 PV 0.1. Средства личной гигиены",
+    "retailPrice": 280,
+    "partnerPrice": 154,
+    "pv": 0.1,
+    "image": "assets/images/products/84-suting-gigienicheskie-prokladki-s-bambukovym-ekstraktom-dnevnye.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/84-suting-gigienicheskie-prokladki-s-bambukovym-ekstraktom-dnevnye.png",
+        "alt": "SUTING Гигиенические прокладки с бамбуковым экстрактом(Дневные)"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-084"
+      },
+      {
+        "label": "Бренд",
+        "value": "SUTING"
+      },
+      {
+        "label": "Категория",
+        "value": "ЖЕНСКИЕ И МУЖСКИЕ ПРОКЛАДКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "10 штук"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "SUTING Гигиенические прокладки с бамбуковым экстрактом（Дневные) 245mm*10 PV 0.1",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 84,
+      "sourceLine": "SUTING Гигиенические прокладки с бамбуковым экстрактом(Дневные)10 штук 154 280 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-085",
+    "sku": "FAMALL-085",
+    "slug": "85-suting-gigienicheskie-prokladki-s-bambukovym-ekstraktom-ezhednevnye",
+    "name": "SUTING Гигиенические прокладки с бамбуковым экстрактом (Ежедневные）",
+    "brand": "SUTING",
+    "category": "ЖЕНСКИЕ И МУЖСКИЕ ПРОКЛАДКИ",
+    "volume": "30 штук",
+    "description": "SUTING Гигиенические прокладки с бамбуковым экстрактом（Ежедневные) 30 шт. Средства личной гигиены",
+    "retailPrice": 300,
+    "partnerPrice": 165,
+    "pv": 0.1,
+    "image": "assets/images/products/85-suting-gigienicheskie-prokladki-s-bambukovym-ekstraktom-ezhednevnye.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/85-suting-gigienicheskie-prokladki-s-bambukovym-ekstraktom-ezhednevnye.png",
+        "alt": "SUTING Гигиенические прокладки с бамбуковым экстрактом (Ежедневные）"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-085"
+      },
+      {
+        "label": "Бренд",
+        "value": "SUTING"
+      },
+      {
+        "label": "Категория",
+        "value": "ЖЕНСКИЕ И МУЖСКИЕ ПРОКЛАДКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "30 штук"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "SUTING Гигиенические прокладки с бамбуковым экстрактом（Ежедневные) 30 шт",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 85,
+      "sourceLine": "SUTING Гигиенические прокладки с бамбуковым экстрактом (Ежедневные） 30 штук 165 300 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-086",
+    "sku": "FAMALL-086",
+    "slug": "86-bocare-uhazhivayuschie-vkladyshi-dlya-zhenschin",
+    "name": "BOCARE Ухаживающие вкладыши для женщин",
+    "brand": "BOCARE",
+    "category": "ЖЕНСКИЕ И МУЖСКИЕ ПРОКЛАДКИ",
+    "volume": "12 штук",
+    "description": "BOCARE Ухаживающие вкладыши для женщин 12шт. Средства личной гигиены",
+    "retailPrice": 1120,
+    "partnerPrice": 616,
+    "pv": 0.5,
+    "image": "assets/images/products/86-bocare-uhazhivayuschie-vkladyshi-dlya-zhenschin.jpg",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/86-bocare-uhazhivayuschie-vkladyshi-dlya-zhenschin.jpg",
+        "alt": "BOCARE Ухаживающие вкладыши для женщин"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-086"
+      },
+      {
+        "label": "Бренд",
+        "value": "BOCARE"
+      },
+      {
+        "label": "Категория",
+        "value": "ЖЕНСКИЕ И МУЖСКИЕ ПРОКЛАДКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "12 штук"
+      },
+      {
+        "label": "PV",
+        "value": "0,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "BOCARE Ухаживающие вкладыши для женщин 12шт",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 86,
+      "sourceLine": "BOCARE Ухаживающие вкладыши для женщин 12 штук 616 1120 0,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-087",
+    "sku": "FAMALL-087",
+    "slug": "87-bocare-uhazhivayuschie-vkladyshi-dlya-muzhin",
+    "name": "BOCARE Ухаживающие вкладыши для мужин",
+    "brand": "BOCARE",
+    "category": "ЖЕНСКИЕ И МУЖСКИЕ ПРОКЛАДКИ",
+    "volume": "12 штук",
+    "description": "BOCARE Ухаживающие вкладыши для женщин 12шт. Средства личной гигиены",
+    "retailPrice": 1080,
+    "partnerPrice": 594,
+    "pv": 0.3,
+    "image": "assets/images/products/placeholders/87-bocare-uhazhivayuschie-vkladyshi-dlya-muzhin.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/87-bocare-uhazhivayuschie-vkladyshi-dlya-muzhin.svg",
+        "alt": "BOCARE Ухаживающие вкладыши для мужин"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-087"
+      },
+      {
+        "label": "Бренд",
+        "value": "BOCARE"
+      },
+      {
+        "label": "Категория",
+        "value": "ЖЕНСКИЕ И МУЖСКИЕ ПРОКЛАДКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "12 штук"
+      },
+      {
+        "label": "PV",
+        "value": "0,3"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.99,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 87,
+      "sourceLine": "BOCARE Ухаживающие вкладыши для мужин 12 штук 594 1080 0,3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-088",
+    "sku": "FAMALL-088",
+    "slug": "88-miaorou-detskie-ochischayuschie-salfetki-180-200",
+    "name": "Miaorou Детские очищающие салфетки 180*200/",
+    "brand": "Miaorou",
+    "category": "ДЕТСКАЯ",
+    "volume": "80 штук",
+    "description": "MiaoRou Детские влажные салфетки. Товары для детей",
+    "retailPrice": 640,
+    "partnerPrice": 352,
+    "pv": 0.6,
+    "image": "assets/images/products/placeholders/88-miaorou-detskie-ochischayuschie-salfetki-180-200.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/88-miaorou-detskie-ochischayuschie-salfetki-180-200.svg",
+        "alt": "Miaorou Детские очищающие салфетки 180*200/"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-088"
+      },
+      {
+        "label": "Бренд",
+        "value": "Miaorou"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЕТСКАЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "80 штук"
+      },
+      {
+        "label": "PV",
+        "value": "0,6"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.91,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 88,
+      "sourceLine": "Miaorou Детские очищающие салфетки 180*200/ 80 штук 352 640 0,6",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-089",
+    "sku": "FAMALL-089",
+    "slug": "89-miubaby-detskiy-uvlazhnyayuschiy-krem",
+    "name": "MIUBABY Детский увлажняющий крем",
+    "brand": "Miubaby",
+    "category": "ДЕТСКАЯ",
+    "volume": "50",
+    "description": "MIUBABY Детский увлажняющий крем 50г. Товары для детей",
+    "retailPrice": 900,
+    "partnerPrice": 495,
+    "pv": 0.1,
+    "image": "assets/images/products/89-miubaby-detskiy-uvlazhnyayuschiy-krem.jpg",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/89-miubaby-detskiy-uvlazhnyayuschiy-krem.jpg",
+        "alt": "MIUBABY Детский увлажняющий крем"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-089"
+      },
+      {
+        "label": "Бренд",
+        "value": "Miubaby"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЕТСКАЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "50"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "MIUBABY Детский увлажняющий крем 50г",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 89,
+      "sourceLine": "MIUBABY Детский увлажняющий крем 50 495 900 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-090",
+    "sku": "FAMALL-090",
+    "slug": "90-miubaby-specialnoe-sredstvo-dlya-stirki-detskih-veschey",
+    "name": "Miubaby специальное средство для стирки детских вещей",
+    "brand": "Miubaby",
+    "category": "ДЕТСКАЯ",
+    "volume": "1000",
+    "description": "Miubaby специальное средство для стирки детских вещей. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 840,
+    "partnerPrice": 462,
+    "pv": 0.6,
+    "image": "assets/images/products/placeholders/90-miubaby-specialnoe-sredstvo-dlya-stirki-detskih-veschey.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/90-miubaby-specialnoe-sredstvo-dlya-stirki-detskih-veschey.svg",
+        "alt": "Miubaby специальное средство для стирки детских вещей"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-090"
+      },
+      {
+        "label": "Бренд",
+        "value": "Miubaby"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЕТСКАЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "1000"
+      },
+      {
+        "label": "PV",
+        "value": "0,6"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.51,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 90,
+      "sourceLine": "Miubaby специальное средство для стирки детских вещей 1000 462 840 0,6",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-091",
+    "sku": "FAMALL-091",
+    "slug": "91-miubaby-detskiy-shampun-i-gel-dlya-dusha",
+    "name": "Miubaby детский шампунь и гель для душа",
+    "brand": "Miubaby",
+    "category": "ДЕТСКАЯ",
+    "volume": "300",
+    "description": "Miubaby Детский шампунь и гель для душа 300мл. Товары для детей",
+    "retailPrice": 666,
+    "partnerPrice": 366,
+    "pv": 0.6,
+    "image": "assets/images/products/placeholders/91-miubaby-detskiy-shampun-i-gel-dlya-dusha.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/91-miubaby-detskiy-shampun-i-gel-dlya-dusha.svg",
+        "alt": "Miubaby детский шампунь и гель для душа"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-091"
+      },
+      {
+        "label": "Бренд",
+        "value": "Miubaby"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЕТСКАЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "300"
+      },
+      {
+        "label": "PV",
+        "value": "0,6"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.99,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 91,
+      "sourceLine": "Miubaby детский шампунь и гель для душа 300 366 666 0,6",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-092",
+    "sku": "FAMALL-092",
+    "slug": "92-yijian-myagkaya-detskaya-zubnaya-schetka-s-zaschitoy-zubov",
+    "name": "YIJIAN Мягкая детская зубная щётка с защитой зубов",
+    "brand": "Yijian",
+    "category": "ДЕТСКАЯ",
+    "volume": "1",
+    "description": "YIJIAN Мягкая детская зубная щётка с защитой зубов. Товары для детей",
+    "retailPrice": 160,
+    "partnerPrice": 88,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholders/92-yijian-myagkaya-detskaya-zubnaya-schetka-s-zaschitoy-zubov.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/92-yijian-myagkaya-detskaya-zubnaya-schetka-s-zaschitoy-zubov.svg",
+        "alt": "YIJIAN Мягкая детская зубная щётка с защитой зубов"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-092"
+      },
+      {
+        "label": "Бренд",
+        "value": "Yijian"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЕТСКАЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "1"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 1.0,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 92,
+      "sourceLine": "YIJIAN Мягкая детская зубная щётка с защитой зубов 1 88 160 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-093",
+    "sku": "FAMALL-093",
+    "slug": "93-berclean-detskoe-mylo-bez-vreda-kozhe",
+    "name": "BERCLEAN Детское мыло без вреда коже",
+    "brand": "Berclean",
+    "category": "ДЕТСКАЯ",
+    "volume": "80 гр",
+    "description": "BERCLEAN Детское мыло без вреда коже 80гр. Товары для детей",
+    "retailPrice": 168,
+    "partnerPrice": 93,
+    "pv": 0.2,
+    "image": "assets/images/products/placeholders/93-berclean-detskoe-mylo-bez-vreda-kozhe.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/93-berclean-detskoe-mylo-bez-vreda-kozhe.svg",
+        "alt": "BERCLEAN Детское мыло без вреда коже"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-093"
+      },
+      {
+        "label": "Бренд",
+        "value": "Berclean"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЕТСКАЯ"
+      },
+      {
+        "label": "Объём",
+        "value": "80 гр"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.99,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 93,
+      "sourceLine": "BERCLEAN Детское мыло без вреда коже80 гр. 93 168 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-094",
+    "sku": "FAMALL-094",
+    "slug": "94-limancy-uvlazhnyayuschiy-vozdushnyy-kushon-naturalnogo-cveta-001-cc-kushon-s-zapasnym-b",
+    "name": "LIMANCY Увлажняющий воздушный кушон (натурального цвета 001) CC- кушон с запасным блоком",
+    "brand": "Limancy",
+    "category": "ДЕКОРАТИВНАЯ КОСМЕТИКА",
+    "volume": "13 гр",
+    "description": "LIMANCY Увлажняющий воздушный кушон (натурального цвета) CC-кушон 13g. Декоративная косметика",
+    "retailPrice": 2320,
+    "partnerPrice": 1276,
+    "pv": 2.5,
+    "image": "assets/images/products/94-limancy-uvlazhnyayuschiy-vozdushnyy-kushon-naturalnogo-cveta-001-cc-kushon-s-zapasnym-b.png",
+    "imageType": "source",
+    "gallery": [
+      {
+        "type": "source",
+        "src": "assets/images/products/94-limancy-uvlazhnyayuschiy-vozdushnyy-kushon-naturalnogo-cveta-001-cc-kushon-s-zapasnym-b.png",
+        "alt": "LIMANCY Увлажняющий воздушный кушон (натурального цвета 001) CC- кушон с запасным блоком"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-094"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЕКОРАТИВНАЯ КОСМЕТИКА"
+      },
+      {
+        "label": "Объём",
+        "value": "13 гр"
+      },
+      {
+        "label": "PV",
+        "value": "2,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "published",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY Увлажняющий воздушный кушон (натурального цвета) CC-кушон 13g",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 94,
+      "sourceLine": "LIMANCY Увлажняющий воздушный кушон (натурального цвета 001) CC- кушон с запасным блоком 13 гр. 1276 2320 2,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-095",
+    "sku": "FAMALL-095",
+    "slug": "95-limancy-uvlazhnyayuschiy-vozdushnyy-kushon-naturalnogo-cveta-002-cc-kushon-s-zapasnym-b",
+    "name": "LIMANCY Увлажняющий воздушный кушон (натурального цвета 002) CC- кушон с запасным блоком",
+    "brand": "Limancy",
+    "category": "ДЕКОРАТИВНАЯ КОСМЕТИКА",
+    "volume": "13 гр",
+    "description": "LIMANCY Увлажняющий воздушный кушон (натурального цвета) CC-кушон 13g. Декоративная косметика",
+    "retailPrice": 2320,
+    "partnerPrice": 1276,
+    "pv": 2.5,
+    "image": "assets/images/products/placeholder.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholder.svg",
+        "alt": "LIMANCY Увлажняющий воздушный кушон (натурального цвета 002) CC- кушон с запасным блоком"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-095"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЕКОРАТИВНАЯ КОСМЕТИКА"
+      },
+      {
+        "label": "Объём",
+        "value": "13 гр"
+      },
+      {
+        "label": "PV",
+        "value": "2,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.932,
+      "sourceName": "LIMANCY Увлажняющий воздушный кушон (светло-белого цвета) CC-кушон",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 95,
+      "sourceLine": "LIMANCY Увлажняющий воздушный кушон (натурального цвета 002) CC- кушон с запасным блоком 13 гр. 1276 2320 2,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-096",
+    "sku": "FAMALL-096",
+    "slug": "96-limancy-krem-dlya-tela-i-nenakrashennogo-lica-vyravnivaet-teksturu-kozhi",
+    "name": "LIMANCY Крем для тела и ненакрашенного лица ( выравнивает текстуру кожи)",
+    "brand": "Limancy",
+    "category": "ДЕКОРАТИВНАЯ КОСМЕТИКА",
+    "volume": "80",
+    "description": "LIMANCY Крем для тела и ненакрашенного лица ( выравнивает текстуру кожи). Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 604,
+    "partnerPrice": 333,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholders/96-limancy-krem-dlya-tela-i-nenakrashennogo-lica-vyravnivaet-teksturu-kozhi.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/96-limancy-krem-dlya-tela-i-nenakrashennogo-lica-vyravnivaet-teksturu-kozhi.svg",
+        "alt": "LIMANCY Крем для тела и ненакрашенного лица ( выравнивает текстуру кожи)"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-096"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЕКОРАТИВНАЯ КОСМЕТИКА"
+      },
+      {
+        "label": "Объём",
+        "value": "80"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.59,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 96,
+      "sourceLine": "LIMANCY Крем для тела и ненакрашенного лица ( выравнивает текстуру кожи) 80 333 604 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-097",
+    "sku": "FAMALL-097",
+    "slug": "97-limancy-uvlazhnyayuschiy-balzam-dlya-gub-s-legkim-ottenkom-svetlo-rozovyy",
+    "name": "LIMANCY Увлажняющий бальзам для губ с легким оттенком (светло-розовый）",
+    "brand": "Limancy",
+    "category": "ДЕКОРАТИВНАЯ КОСМЕТИКА",
+    "volume": "2,8 гр",
+    "description": "LIMANCY Увлажняющий бальзам для губ с легким оттенком (светло-розовый）. Декоративная косметика",
+    "retailPrice": 500,
+    "partnerPrice": 275,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholders/97-limancy-uvlazhnyayuschiy-balzam-dlya-gub-s-legkim-ottenkom-svetlo-rozovyy.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/97-limancy-uvlazhnyayuschiy-balzam-dlya-gub-s-legkim-ottenkom-svetlo-rozovyy.svg",
+        "alt": "LIMANCY Увлажняющий бальзам для губ с легким оттенком (светло-розовый）"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-097"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЕКОРАТИВНАЯ КОСМЕТИКА"
+      },
+      {
+        "label": "Объём",
+        "value": "2,8 гр"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 1.0,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 97,
+      "sourceLine": "LIMANCY Увлажняющий бальзам для губ с легким оттенком (светло-розовый） 2,8 гр. 2758 500 0,1",
+      "extractionNote": "Исправлена ошибка извлечения PDF: 2758 -> 275"
+    }
+  },
+  {
+    "id": "famall-098",
+    "sku": "FAMALL-098",
+    "slug": "98-limancy-uvlazhnyayuschiy-balzam-dlya-gub-s-aloe",
+    "name": "LIMANCY Увлажняющий бальзам для губ с Алоэ",
+    "brand": "Limancy",
+    "category": "ДЕКОРАТИВНАЯ КОСМЕТИКА",
+    "volume": "2,8 гр",
+    "description": "LIMANCY  бальзам для губ с алоэ. Уходовая косметика для лица",
+    "retailPrice": 520,
+    "partnerPrice": 286,
+    "pv": 0.2,
+    "image": "assets/images/products/placeholder.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholder.svg",
+        "alt": "LIMANCY Увлажняющий бальзам для губ с Алоэ"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-098"
+      },
+      {
+        "label": "Бренд",
+        "value": "Limancy"
+      },
+      {
+        "label": "Категория",
+        "value": "ДЕКОРАТИВНАЯ КОСМЕТИКА"
+      },
+      {
+        "label": "Объём",
+        "value": "2,8 гр"
+      },
+      {
+        "label": "PV",
+        "value": "0,2"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "brand_keywords",
+      "score": 0.99,
+      "sourceName": "LIMANCY  бальзам для губ с алоэ",
+      "source": "taplink"
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 98,
+      "sourceLine": "LIMANCY Увлажняющий бальзам для губ с Алоэ 2,8 гр. 286 520 0,2",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-099",
+    "sku": "FAMALL-099",
+    "slug": "99-morefuture-probioticheskiy-napitok-s-shipovnikom-i-ovoschami",
+    "name": "MOREFUTURE пробиотический напиток с шиповником и овощами",
+    "brand": "Morefuture",
+    "category": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ",
+    "volume": "52 мл.*7 пакетиков",
+    "description": "MOREFUTURE пробиотический напиток с шиповником и овощами. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 2920,
+    "partnerPrice": 1606,
+    "pv": 3.0,
+    "image": "assets/images/products/placeholders/99-morefuture-probioticheskiy-napitok-s-shipovnikom-i-ovoschami.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/99-morefuture-probioticheskiy-napitok-s-shipovnikom-i-ovoschami.svg",
+        "alt": "MOREFUTURE пробиотический напиток с шиповником и овощами"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-099"
+      },
+      {
+        "label": "Бренд",
+        "value": "Morefuture"
+      },
+      {
+        "label": "Категория",
+        "value": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "52 мл.*7 пакетиков"
+      },
+      {
+        "label": "PV",
+        "value": "3,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.0,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 99,
+      "sourceLine": "MOREFUTURE пробиотический напиток с шиповником и овощами 52 мл.*7 пакетиков 1606 2920 3",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-100",
+    "sku": "FAMALL-100",
+    "slug": "100-morefuture-kofe-s-zhenshenem-kordicepsom-i-ganodermoy",
+    "name": "MOREFUTURE Кофе с женьшенем, кордицепсом и ганодермой",
+    "brand": "Morefuture",
+    "category": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ",
+    "volume": "18 гр/15 пакетиков",
+    "description": "MOREFUTURE Кофе с женьшенем, кордицепсом и ганодермой. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1420,
+    "partnerPrice": 781,
+    "pv": 1.0,
+    "image": "assets/images/products/placeholders/100-morefuture-kofe-s-zhenshenem-kordicepsom-i-ganodermoy.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/100-morefuture-kofe-s-zhenshenem-kordicepsom-i-ganodermoy.svg",
+        "alt": "MOREFUTURE Кофе с женьшенем, кордицепсом и ганодермой"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-100"
+      },
+      {
+        "label": "Бренд",
+        "value": "Morefuture"
+      },
+      {
+        "label": "Категория",
+        "value": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "18 гр/15 пакетиков"
+      },
+      {
+        "label": "PV",
+        "value": "1,0"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.0,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 100,
+      "sourceLine": "MOREFUTURE Кофе с женьшенем, кордицепсом и ганодермой 18 гр/15 пакетиков 781 1420 1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-101",
+    "sku": "FAMALL-101",
+    "slug": "101-morefuture-vitaminyy-konfety-s-vkusom-apelsina-shipuchie",
+    "name": "MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие",
+    "brand": "Morefuture",
+    "category": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ",
+    "volume": "80",
+    "description": "MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 690,
+    "partnerPrice": 380,
+    "pv": 1.5,
+    "image": "assets/images/products/placeholders/101-morefuture-vitaminyy-konfety-s-vkusom-apelsina-shipuchie.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/101-morefuture-vitaminyy-konfety-s-vkusom-apelsina-shipuchie.svg",
+        "alt": "MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-101"
+      },
+      {
+        "label": "Бренд",
+        "value": "Morefuture"
+      },
+      {
+        "label": "Категория",
+        "value": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "80"
+      },
+      {
+        "label": "PV",
+        "value": "1,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.0,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 101,
+      "sourceLine": "MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие 80 380 690 1,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-102",
+    "sku": "FAMALL-102",
+    "slug": "102-morefuture-chay-iz-kukuruznyh-rylec",
+    "name": "MOREFUTURE Чай из кукурузных рылец",
+    "brand": "Morefuture",
+    "category": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ",
+    "volume": "5 гр*30 пакетиков",
+    "description": "MOREFUTURE Чай из кукурузных рылец. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 800,
+    "partnerPrice": 440,
+    "pv": 1.5,
+    "image": "assets/images/products/placeholders/102-morefuture-chay-iz-kukuruznyh-rylec.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/102-morefuture-chay-iz-kukuruznyh-rylec.svg",
+        "alt": "MOREFUTURE Чай из кукурузных рылец"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-102"
+      },
+      {
+        "label": "Бренд",
+        "value": "Morefuture"
+      },
+      {
+        "label": "Категория",
+        "value": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ"
+      },
+      {
+        "label": "Объём",
+        "value": "5 гр*30 пакетиков"
+      },
+      {
+        "label": "PV",
+        "value": "1,5"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.0,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 102,
+      "sourceLine": "MOREFUTURE Чай из кукурузных рылец5 гр*30 пакетиков 440 800 1,5",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-103",
+    "sku": "FAMALL-103",
+    "slug": "103-miao-rou-bumaga-iz-bambukovogo-volokna-naturalnogo-cveta-v-rulonah",
+    "name": "Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах",
+    "brand": "FAMALL",
+    "category": "ИЗДЕЛИЯ ИЗ БАМБУКА",
+    "volume": "1400 гр",
+    "description": "Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 1300,
+    "partnerPrice": 715,
+    "pv": 0.6,
+    "image": "assets/images/products/placeholders/103-miao-rou-bumaga-iz-bambukovogo-volokna-naturalnogo-cveta-v-rulonah.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/103-miao-rou-bumaga-iz-bambukovogo-volokna-naturalnogo-cveta-v-rulonah.svg",
+        "alt": "Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-103"
+      },
+      {
+        "label": "Бренд",
+        "value": "FAMALL"
+      },
+      {
+        "label": "Категория",
+        "value": "ИЗДЕЛИЯ ИЗ БАМБУКА"
+      },
+      {
+        "label": "Объём",
+        "value": "1400 гр"
+      },
+      {
+        "label": "PV",
+        "value": "0,6"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.712,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 103,
+      "sourceLine": "Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах 1400 гр. 715 1300 0,6",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-104",
+    "sku": "FAMALL-104",
+    "slug": "104-miao-rou-detskie-vlazhnye-salfetki80-sht-180mmh200mm",
+    "name": "Miao Rou Детские влажные салфетки80 шт. (180ммх200мм)",
+    "brand": "FAMALL",
+    "category": "ИЗДЕЛИЯ ИЗ БАМБУКА",
+    "volume": "",
+    "description": "Miao Rou Детские влажные салфетки80 шт. (180ммх200мм). Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 420,
+    "partnerPrice": 230,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholders/104-miao-rou-detskie-vlazhnye-salfetki80-sht-180mmh200mm.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/104-miao-rou-detskie-vlazhnye-salfetki80-sht-180mmh200mm.svg",
+        "alt": "Miao Rou Детские влажные салфетки80 шт. (180ммх200мм)"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-104"
+      },
+      {
+        "label": "Бренд",
+        "value": "FAMALL"
+      },
+      {
+        "label": "Категория",
+        "value": "ИЗДЕЛИЯ ИЗ БАМБУКА"
+      },
+      {
+        "label": "Объём",
+        "value": "уточняется"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.78,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 104,
+      "sourceLine": "Miao Rou Детские влажные салфетки80 шт. (180ммх200мм) 230 420 0,1",
+      "extractionNote": ""
+    }
+  },
+  {
+    "id": "famall-105",
+    "sku": "FAMALL-105",
+    "slug": "105-miao-rou-bambukovye-nosovye-platochki-10-h",
+    "name": "Miao Rou Бамбуковые носовые платочки 10 х",
+    "brand": "FAMALL",
+    "category": "ИЗДЕЛИЯ ИЗ БАМБУКА",
+    "volume": "10 штук",
+    "description": "Miao Rou Бамбуковые носовые платочки 10 х. Описание будет дополнено после загрузки полного каталога FAMALL.",
+    "retailPrice": 354,
+    "partnerPrice": 195,
+    "pv": 0.1,
+    "image": "assets/images/products/placeholders/105-miao-rou-bambukovye-nosovye-platochki-10-h.svg",
+    "imageType": "premium_placeholder",
+    "gallery": [
+      {
+        "type": "premium_placeholder",
+        "src": "assets/images/products/placeholders/105-miao-rou-bambukovye-nosovye-platochki-10-h.svg",
+        "alt": "Miao Rou Бамбуковые носовые платочки 10 х"
+      }
+    ],
+    "characteristics": [
+      {
+        "label": "Артикул",
+        "value": "FAMALL-105"
+      },
+      {
+        "label": "Бренд",
+        "value": "FAMALL"
+      },
+      {
+        "label": "Категория",
+        "value": "ИЗДЕЛИЯ ИЗ БАМБУКА"
+      },
+      {
+        "label": "Объём",
+        "value": "10 штук"
+      },
+      {
+        "label": "PV",
+        "value": "0,1"
+      },
+      {
+        "label": "Наличие",
+        "value": "В наличии"
+      }
+    ],
+    "discountPercent": 45,
+    "collections": [
+      "new"
+    ],
+    "badges": [
+      "Новинка"
+    ],
+    "stock": "in_stock",
+    "status": "need_image",
+    "match": {
+      "method": "none",
+      "score": 0.487,
+      "sourceName": null
+    },
+    "priceSource": {
+      "type": "PDF",
+      "file": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+      "pdfRow": 105,
+      "sourceLine": "Miao Rou Бамбуковые носовые платочки 10 х 10 штук 195 354 0,1",
+      "extractionNote": ""
+    }
+  }
+]

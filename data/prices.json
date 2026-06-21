@@ -1,0 +1,18 @@
+[
+  {
+    "sku": "FM-HOME-001",
+    "name": "FAMALL Smart Home Set",
+    "retailPrice": 1290,
+    "partnerPrice": 890,
+    "category": "Для дома",
+    "stock": "В наличии"
+  },
+  {
+    "sku": "FM-CLEAN-002",
+    "name": "FAMALL Clean Pack",
+    "retailPrice": 790,
+    "partnerPrice": 520,
+    "category": "Уход и чистота",
+    "stock": "В наличии"
+  }
+]

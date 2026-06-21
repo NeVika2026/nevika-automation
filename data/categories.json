@@ -1,0 +1,52 @@
+[
+  {
+    "id": "uhod-za-domom",
+    "name": "Уход за домом",
+    "slug": "uhod-za-domom"
+  },
+  {
+    "id": "lichnaya-gigiena",
+    "name": "Личная гигиена",
+    "slug": "lichnaya-gigiena"
+  },
+  {
+    "id": "gigiena-polosti-rta",
+    "name": "Гигиена полости рта",
+    "slug": "gigiena-polosti-rta"
+  },
+  {
+    "id": "salfetki-i-bumagi",
+    "name": "Салфетки и бумаги",
+    "slug": "salfetki-i-bumagi"
+  },
+  {
+    "id": "detskiy-uhod",
+    "name": "Детский уход",
+    "slug": "detskiy-uhod"
+  },
+  {
+    "id": "uhodovaya-kosmetika",
+    "name": "Уходовая косметика",
+    "slug": "uhodovaya-kosmetika"
+  },
+  {
+    "id": "dekorativnaya-kosmetika",
+    "name": "Декоративная косметика",
+    "slug": "dekorativnaya-kosmetika"
+  },
+  {
+    "id": "uhod-za-volosami",
+    "name": "Уход за волосами",
+    "slug": "uhod-za-volosami"
+  },
+  {
+    "id": "parfyum",
+    "name": "Парфюм",
+    "slug": "parfyum"
+  },
+  {
+    "id": "produkty-i-pischevye-dobavki",
+    "name": "Продукты и пищевые добавки",
+    "slug": "produkty-i-pischevye-dobavki"
+  }
+]

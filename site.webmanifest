@@ -1,0 +1,17 @@
+{
+  "name": "FAMALL",
+  "short_name": "FAMALL",
+  "description": "Премиальная продукция из Китая по цене массмаркета.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff2942",
+  "icons": [
+    {
+      "src": "/assets/images/famall-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

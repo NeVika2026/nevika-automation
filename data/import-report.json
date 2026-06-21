@@ -1,0 +1,844 @@
+{
+  "priceSource": "/Users/viktoria/Desktop/ПРАЙС-ЛИСТ FAMALL- новый.pdf",
+  "pricePolicy": "Цены, PV и публикация товаров берутся только из PDF-прайса.",
+  "catalogPolicy": "DOCX-каталог и сайты используются только для названий, описаний, категорий и изображений. Отсутствие цены в каталоге не является ошибкой.",
+  "docxCatalogSourcesChecked": [
+    "/Users/viktoria/Desktop/FAMALL_каталог_без_цен.docx",
+    "/Users/viktoria/Downloads/Telegram Desktop/FAMALL_каталог_без_цен.docx",
+    "/Users/viktoria/Desktop/FAMALL_полный_каталог.docx",
+    "/Users/viktoria/Downloads/Telegram Desktop/FAMALL_полный_каталог.docx",
+    "/Users/viktoria/Desktop/FAMALL_каталог_с_реальными_изображениями.docx"
+  ],
+  "docxCatalogSourcesUsed": [
+    "/Users/viktoria/Desktop/FAMALL_каталог_с_реальными_изображениями.docx"
+  ],
+  "docxCatalogProductsFound": 2,
+  "siteSources": [
+    "https://famallnetwork62.orgs.biz/#products",
+    "https://famall-ufa.taplink.ws/"
+  ],
+  "priceProductsFound": 105,
+  "famallnetworkProductsFound": 9,
+  "taplinkProductsFound": 70,
+  "siteProductsFound": 79,
+  "productsPublished": 105,
+  "productsMatchedWithSources": 63,
+  "productsMatchedWithImage": 46,
+  "productsWithDescriptions": 63,
+  "productsWithoutImage": 59,
+  "premiumPlaceholdersCreated": 59,
+  "newProductsPageCount": 24,
+  "hitProductsPageCount": 24,
+  "saleProductsPageCount": 24,
+  "catalogProductsNotPublished": 30,
+  "siteProductsNotPublished": 28,
+  "docxProductsNotPublished": 2,
+  "priceProductsWithoutContentMatch": 42,
+  "priceProductsWithoutWebMatch": 42,
+  "manualReviewCount": 59,
+  "manualReview": [
+    {
+      "productId": "famall-002",
+      "priceName": "BERCLEAN Моющее средство для мытья посуды с экстрактом лимона",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-003",
+      "priceName": "BERCLEAN Моющее средство для мытья посуды с экстрактом апельсина",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-004",
+      "priceName": "BERCLEAN Жидкость для мытья посуды с экстрактом бамбука",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-005",
+      "priceName": "Многофункциональные одноразовые салфетки из бамбука",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-006",
+      "priceName": "Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-007",
+      "priceName": "Набор салфеток для мытья посуды и уборки р-р 25*25, 3 штуки",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-008",
+      "priceName": "OKFAD Набор для очищения",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-009",
+      "priceName": "Сжатое полотенце из хлопка 22 штуки в наборе",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-011",
+      "priceName": "MIAOROU Влажные салфетки для кухнир-р 20*25",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-012",
+      "priceName": "Очиститель барабана стиральной машины 3 шт *",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-013",
+      "priceName": "BERCLEAN Шарики для защиты цвета, аромат природы",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-014",
+      "priceName": "BERCLEAN Шарики для защиты цвета, аромат сакуры",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-015",
+      "priceName": "BERCLEAN Шарики для защиты цвета, аромат цветов",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-016",
+      "priceName": "BERCLEAN Жидкость для стирки/ автомат",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-018",
+      "priceName": "Miubaby специальное средство для стирки детских вещей",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-020",
+      "priceName": "Быстродействующий гель для чистки унитазав(усиленный)",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-021",
+      "priceName": "Средство для чистки унитаза \"Утенок\"",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-022",
+      "priceName": "YIJIAN COOL Холодная водорослевая зубная паста без фтора со вкусом Лунцзин и мяты",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-029",
+      "priceName": "Miubaby ДЕТСКАЯ Уход за деснами, зубами, профилактическая зубная паста",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-030",
+      "priceName": "YIJIAN Травянная зубная паста",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-032",
+      "priceName": "OKFAD Зубная щетка для глубокой чистки зубов 2 штуки в наборе",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-033",
+      "priceName": "LIMANCY Антисептическая массажная жидкость с китайской травами",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-035",
+      "priceName": "LIMANCY Крем для рук (фруктовый микс/спокойствие)",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-036",
+      "priceName": "LIMANCY Антиперспирант шариковый",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-038",
+      "priceName": "LIMANCY Эссенция для ухода за кожей",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-045",
+      "priceName": "LIMANCY Разглаживающий шампунь против перхоти с женьшенем и оливковым маслом",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-046",
+      "priceName": "LIMANCY Шампунь от перхоти с желтым имбирем",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-048",
+      "priceName": "LIMANCY Шампунь Против Выпадения Волос",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-052",
+      "priceName": "LIMANCY Эфирное масло для ухода против сухости волос",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-053",
+      "priceName": "LIMANCY Освежающий солнцезащитный крем SPF50/50g",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-054",
+      "priceName": "LIMANCY Лосьон для тела с экстрактом полыни",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-057",
+      "priceName": "LIMANCY кондиционердля волос с полынью",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-058",
+      "priceName": "LIMANCY Питательный и увлажняющий гель для душа из серии \"с шелком\"",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-061",
+      "priceName": "LIMANCY Укрепляющая и осветляющая маска для лица с женьшенем",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-064",
+      "priceName": "LIMANCY Увлажняющая маска для лица с огуречным соком",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-065",
+      "priceName": "LIMANCY тоник с гиалуроновой кислотой №1",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-066",
+      "priceName": "LIMANCY гидрогель с гиалуроновой кислотой №2",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-067",
+      "priceName": "LIMANCY сыворотка с гиалуроновой кислотой №3",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-076",
+      "priceName": "LIMANCY Увлажняющее очищающее средство с Алоэ",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-077",
+      "priceName": "LIMANCY увлажняющий гель для душа с экстрактом молока",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-079",
+      "priceName": "LIMANCY №1 Духи/Parfum",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-080",
+      "priceName": "LIMANCY Женские духи/Diva Parfum",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-081",
+      "priceName": "BOCARE мужской спрей для задержки/ стойкость мужской силы",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-083",
+      "priceName": "SUTING Гигиенические прокладки - ночные+ удлиненные 360 мм. Ультра",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-087",
+      "priceName": "BOCARE Ухаживающие вкладыши для мужин",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-088",
+      "priceName": "Miaorou Детские очищающие салфетки 180*200/",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-090",
+      "priceName": "Miubaby специальное средство для стирки детских вещей",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-092",
+      "priceName": "YIJIAN Мягкая детская зубная щётка с защитой зубов",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-095",
+      "priceName": "LIMANCY Увлажняющий воздушный кушон (натурального цвета 002) CC- кушон с запасным блоком",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-096",
+      "priceName": "LIMANCY Крем для тела и ненакрашенного лица ( выравнивает текстуру кожи)",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-097",
+      "priceName": "LIMANCY Увлажняющий бальзам для губ с легким оттенком (светло-розовый）",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-098",
+      "priceName": "LIMANCY Увлажняющий бальзам для губ с Алоэ",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-099",
+      "priceName": "MOREFUTURE пробиотический напиток с шиповником и овощами",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-100",
+      "priceName": "MOREFUTURE Кофе с женьшенем, кордицепсом и ганодермой",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-101",
+      "priceName": "MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-102",
+      "priceName": "MOREFUTURE Чай из кукурузных рылец",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-103",
+      "priceName": "Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-104",
+      "priceName": "Miao Rou Детские влажные салфетки80 шт. (180ммх200мм)",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    },
+    {
+      "productId": "famall-105",
+      "priceName": "Miao Rou Бамбуковые носовые платочки 10 х",
+      "reason": "Точное изображение не подтверждено; используется заглушка."
+    }
+  ],
+  "priceProductsWithoutContentMatchList": [
+    {
+      "id": "famall-002",
+      "name": "BERCLEAN Моющее средство для мытья посуды с экстрактом лимона",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-003",
+      "name": "BERCLEAN Моющее средство для мытья посуды с экстрактом апельсина",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-004",
+      "name": "BERCLEAN Жидкость для мытья посуды с экстрактом бамбука",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-005",
+      "name": "Многофункциональные одноразовые салфетки из бамбука",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-006",
+      "name": "Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-007",
+      "name": "Набор салфеток для мытья посуды и уборки р-р 25*25, 3 штуки",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-008",
+      "name": "OKFAD Набор для очищения",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-009",
+      "name": "Сжатое полотенце из хлопка 22 штуки в наборе",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-012",
+      "name": "Очиститель барабана стиральной машины 3 шт *",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-013",
+      "name": "BERCLEAN Шарики для защиты цвета, аромат природы",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-014",
+      "name": "BERCLEAN Шарики для защиты цвета, аромат сакуры",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-015",
+      "name": "BERCLEAN Шарики для защиты цвета, аромат цветов",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-016",
+      "name": "BERCLEAN Жидкость для стирки/ автомат",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-017",
+      "name": "BERCLEAN Жидкость для стирки/ ручная стирка/ машинная",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-018",
+      "name": "Miubaby специальное средство для стирки детских вещей",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-020",
+      "name": "Быстродействующий гель для чистки унитазав(усиленный)",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-021",
+      "name": "Средство для чистки унитаза \"Утенок\"",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-022",
+      "name": "YIJIAN COOL Холодная водорослевая зубная паста без фтора со вкусом Лунцзин и мяты",
+      "category": "ДЛЯ ПОЛОСТИ РТА",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-029",
+      "name": "Miubaby ДЕТСКАЯ Уход за деснами, зубами, профилактическая зубная паста",
+      "category": "ДЛЯ ПОЛОСТИ РТА",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-033",
+      "name": "LIMANCY Антисептическая массажная жидкость с китайской травами",
+      "category": "УХОД ЗА ТЕЛОМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-038",
+      "name": "LIMANCY Эссенция для ухода за кожей",
+      "category": "УХОД ЗА ТЕЛОМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-040",
+      "name": "PREDAWN пластыри для стоп с травами",
+      "category": "УХОД ЗА ТЕЛОМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-045",
+      "name": "LIMANCY Разглаживающий шампунь против перхоти с женьшенем и оливковым маслом",
+      "category": "УХОДОВЫЕ ШАМПУНИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-048",
+      "name": "LIMANCY Шампунь Против Выпадения Волос",
+      "category": "УХОДОВЫЕ ШАМПУНИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-053",
+      "name": "LIMANCY Освежающий солнцезащитный крем SPF50/50g",
+      "category": "УХОДОВЫЕ ШАМПУНИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-061",
+      "name": "LIMANCY Укрепляющая и осветляющая маска для лица с женьшенем",
+      "category": "МАСКИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-065",
+      "name": "LIMANCY тоник с гиалуроновой кислотой №1",
+      "category": "С ГИАЛУРОНОВОЙ КИСЛОТОЙ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-066",
+      "name": "LIMANCY гидрогель с гиалуроновой кислотой №2",
+      "category": "С ГИАЛУРОНОВОЙ КИСЛОТОЙ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-067",
+      "name": "LIMANCY сыворотка с гиалуроновой кислотой №3",
+      "category": "С ГИАЛУРОНОВОЙ КИСЛОТОЙ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-078",
+      "name": "LIMANCY Мужские духи 50 мл",
+      "category": "ПАРФЮМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-079",
+      "name": "LIMANCY №1 Духи/Parfum",
+      "category": "ПАРФЮМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-080",
+      "name": "LIMANCY Женские духи/Diva Parfum",
+      "category": "ПАРФЮМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-081",
+      "name": "BOCARE мужской спрей для задержки/ стойкость мужской силы",
+      "category": "ПАРФЮМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-090",
+      "name": "Miubaby специальное средство для стирки детских вещей",
+      "category": "ДЕТСКАЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-096",
+      "name": "LIMANCY Крем для тела и ненакрашенного лица ( выравнивает текстуру кожи)",
+      "category": "ДЕКОРАТИВНАЯ КОСМЕТИКА",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-099",
+      "name": "MOREFUTURE пробиотический напиток с шиповником и овощами",
+      "category": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-100",
+      "name": "MOREFUTURE Кофе с женьшенем, кордицепсом и ганодермой",
+      "category": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-101",
+      "name": "MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие",
+      "category": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-102",
+      "name": "MOREFUTURE Чай из кукурузных рылец",
+      "category": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-103",
+      "name": "Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах",
+      "category": "ИЗДЕЛИЯ ИЗ БАМБУКА",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-104",
+      "name": "Miao Rou Детские влажные салфетки80 шт. (180ммх200мм)",
+      "category": "ИЗДЕЛИЯ ИЗ БАМБУКА",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-105",
+      "name": "Miao Rou Бамбуковые носовые платочки 10 х",
+      "category": "ИЗДЕЛИЯ ИЗ БАМБУКА",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    }
+  ],
+  "priceProductsWithoutWebMatchList": [
+    {
+      "id": "famall-002",
+      "name": "BERCLEAN Моющее средство для мытья посуды с экстрактом лимона",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-003",
+      "name": "BERCLEAN Моющее средство для мытья посуды с экстрактом апельсина",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-004",
+      "name": "BERCLEAN Жидкость для мытья посуды с экстрактом бамбука",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-005",
+      "name": "Многофункциональные одноразовые салфетки из бамбука",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-006",
+      "name": "Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-007",
+      "name": "Набор салфеток для мытья посуды и уборки р-р 25*25, 3 штуки",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-008",
+      "name": "OKFAD Набор для очищения",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-009",
+      "name": "Сжатое полотенце из хлопка 22 штуки в наборе",
+      "category": "КУХНЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-012",
+      "name": "Очиститель барабана стиральной машины 3 шт *",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-013",
+      "name": "BERCLEAN Шарики для защиты цвета, аромат природы",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-014",
+      "name": "BERCLEAN Шарики для защиты цвета, аромат сакуры",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-015",
+      "name": "BERCLEAN Шарики для защиты цвета, аромат цветов",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-016",
+      "name": "BERCLEAN Жидкость для стирки/ автомат",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-017",
+      "name": "BERCLEAN Жидкость для стирки/ ручная стирка/ машинная",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-018",
+      "name": "Miubaby специальное средство для стирки детских вещей",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-020",
+      "name": "Быстродействующий гель для чистки унитазав(усиленный)",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-021",
+      "name": "Средство для чистки унитаза \"Утенок\"",
+      "category": "СТИРКА  БЕЛЬЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-022",
+      "name": "YIJIAN COOL Холодная водорослевая зубная паста без фтора со вкусом Лунцзин и мяты",
+      "category": "ДЛЯ ПОЛОСТИ РТА",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-029",
+      "name": "Miubaby ДЕТСКАЯ Уход за деснами, зубами, профилактическая зубная паста",
+      "category": "ДЛЯ ПОЛОСТИ РТА",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-033",
+      "name": "LIMANCY Антисептическая массажная жидкость с китайской травами",
+      "category": "УХОД ЗА ТЕЛОМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-038",
+      "name": "LIMANCY Эссенция для ухода за кожей",
+      "category": "УХОД ЗА ТЕЛОМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-040",
+      "name": "PREDAWN пластыри для стоп с травами",
+      "category": "УХОД ЗА ТЕЛОМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-045",
+      "name": "LIMANCY Разглаживающий шампунь против перхоти с женьшенем и оливковым маслом",
+      "category": "УХОДОВЫЕ ШАМПУНИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-048",
+      "name": "LIMANCY Шампунь Против Выпадения Волос",
+      "category": "УХОДОВЫЕ ШАМПУНИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-053",
+      "name": "LIMANCY Освежающий солнцезащитный крем SPF50/50g",
+      "category": "УХОДОВЫЕ ШАМПУНИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-061",
+      "name": "LIMANCY Укрепляющая и осветляющая маска для лица с женьшенем",
+      "category": "МАСКИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-065",
+      "name": "LIMANCY тоник с гиалуроновой кислотой №1",
+      "category": "С ГИАЛУРОНОВОЙ КИСЛОТОЙ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-066",
+      "name": "LIMANCY гидрогель с гиалуроновой кислотой №2",
+      "category": "С ГИАЛУРОНОВОЙ КИСЛОТОЙ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-067",
+      "name": "LIMANCY сыворотка с гиалуроновой кислотой №3",
+      "category": "С ГИАЛУРОНОВОЙ КИСЛОТОЙ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-078",
+      "name": "LIMANCY Мужские духи 50 мл",
+      "category": "ПАРФЮМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-079",
+      "name": "LIMANCY №1 Духи/Parfum",
+      "category": "ПАРФЮМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-080",
+      "name": "LIMANCY Женские духи/Diva Parfum",
+      "category": "ПАРФЮМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-081",
+      "name": "BOCARE мужской спрей для задержки/ стойкость мужской силы",
+      "category": "ПАРФЮМ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-090",
+      "name": "Miubaby специальное средство для стирки детских вещей",
+      "category": "ДЕТСКАЯ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-096",
+      "name": "LIMANCY Крем для тела и ненакрашенного лица ( выравнивает текстуру кожи)",
+      "category": "ДЕКОРАТИВНАЯ КОСМЕТИКА",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-099",
+      "name": "MOREFUTURE пробиотический напиток с шиповником и овощами",
+      "category": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-100",
+      "name": "MOREFUTURE Кофе с женьшенем, кордицепсом и ганодермой",
+      "category": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-101",
+      "name": "MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие",
+      "category": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-102",
+      "name": "MOREFUTURE Чай из кукурузных рылец",
+      "category": "ПРОДУКТЫ И ПИЩЕВЫЕ ДОБАВКИ",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-103",
+      "name": "Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах",
+      "category": "ИЗДЕЛИЯ ИЗ БАМБУКА",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-104",
+      "name": "Miao Rou Детские влажные салфетки80 шт. (180ммх200мм)",
+      "category": "ИЗДЕЛИЯ ИЗ БАМБУКА",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    },
+    {
+      "id": "famall-105",
+      "name": "Miao Rou Бамбуковые носовые платочки 10 х",
+      "category": "ИЗДЕЛИЯ ИЗ БАМБУКА",
+      "reason": "Товар есть в PDF-прайсе, но не найден в каталоге, famallnetwork62.orgs.biz и Taplink. Карточка опубликована с placeholder."
+    }
+  ]
+}

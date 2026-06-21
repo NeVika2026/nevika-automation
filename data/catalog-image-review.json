@@ -1,0 +1,1550 @@
+{
+  "source_images_unpacked": 191,
+  "source_images_processed": 191,
+  "product_pages_detected": 132,
+  "catalog_records_found": 230,
+  "crops_saved": 230,
+  "site_products_updated": 25,
+  "site_products_without_photo": [
+    "BERCLEAN Моющее средство для мытья посуды",
+    "BERCLEAN Моющее средство для мытья посуды с экстрактом апельсина",
+    "Многофункциональные одноразовые салфетки из бамбука",
+    "Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/",
+    "Набор салфеток для мытья посуды и уборки р-р 25*25, 3 штуки",
+    "OKFAD Набор для очищения",
+    "Сжатое полотенце из хлопка 22 штуки в наборе",
+    "MIAOROU Влажные салфетки для кухнир-р 20*25",
+    "Очиститель барабана стиральной машины 3 шт *",
+    "BERCLEAN Шарики для защиты цвета, аромат природы",
+    "BERCLEAN Шарики для защиты цвета, аромат сакуры",
+    "BERCLEAN Шарики для защиты цвета, аромат цветов",
+    "BERCLEAN Жидкость для стирки/ автомат",
+    "BERCLEAN Жидкость для стирки/ ручная стирка/ машинная",
+    "Miubaby специальное средство для стирки детских вещей",
+    "Быстродействующий гель для чистки унитазав(усиленный)",
+    "Средство для чистки унитаза \"Утенок\"",
+    "Miubaby ДЕТСКАЯ Уход за деснами, зубами, профилактическая зубная паста",
+    "YIJIAN Травянная зубная паста",
+    "LIMANCY Антисептическая массажная жидкость с китайской травами",
+    "LIMANCY Крем для рук (фруктовый микс/спокойствие)",
+    "LIMANCY Антиперспирант шариковый",
+    "LIMANCY Эссенция для ухода за кожей",
+    "PREDAWN пластыри для стоп с травами",
+    "LIMANCY Шампунь от перхоти с желтым имбирем",
+    "LIMANCY Шампунь Против Выпадения Волос",
+    "LIMANCY Эфирное масло для ухода против сухости волос",
+    "LIMANCY Освежающий солнцезащитный крем SPF50/50g",
+    "LIMANCY Лосьон для тела с экстрактом полыни",
+    "LIMANCY кондиционердля волос с полынью",
+    "LIMANCY Питательный и увлажняющий гель для душа из серии \"с шелком\"",
+    "LIMANCY Укрепляющая и осветляющая маска для лица с женьшенем",
+    "LIMANCY Увлажняющая маска для лица с огуречным соком",
+    "LIMANCY гидрогель с гиалуроновой кислотой №2",
+    "LIMANCY увлажняющий гель для душа с экстрактом молока",
+    "BOCARE мужской спрей для задержки/ стойкость мужской силы",
+    "BOCARE Ухаживающие вкладыши для мужин",
+    "Miaorou Детские очищающие салфетки 180*200/",
+    "Miubaby специальное средство для стирки детских вещей",
+    "YIJIAN Мягкая детская зубная щётка с защитой зубов",
+    "BERCLEAN Детское мыло без вреда коже",
+    "LIMANCY Увлажняющий воздушный кушон (натурального цвета 002) CC- кушон с запасным блоком",
+    "LIMANCY Увлажняющий бальзам для губ с Алоэ",
+    "MOREFUTURE пробиотический напиток с шиповником и овощами",
+    "MOREFUTURE Кофе с женьшенем, кордицепсом и ганодермой",
+    "MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие",
+    "MOREFUTURE Чай из кукурузных рылец",
+    "Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах",
+    "Miao Rou Детские влажные салфетки80 шт. (180ммх200мм)",
+    "Miao Rou Бамбуковые носовые платочки 10 х"
+  ],
+  "manual_review": [
+    {
+      "id": "famall-001",
+      "name": "BERCLEAN Моющее средство для мытья посуды",
+      "best_match": "Жидкость для мытья посуды с экстрактом лимона Экологически чистое средство для мытья посуды с",
+      "best_brand": "Berclean",
+      "score": 0.461,
+      "detail": {
+        "seq": 0.511,
+        "jaccard": 0.231,
+        "full_jaccard": 0.083,
+        "overlap": 3,
+        "full_overlap": 3,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img544.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-003",
+      "name": "BERCLEAN Моющее средство для мытья посуды с экстрактом апельсина",
+      "best_match": "Жидкость для мытя посуды с экстрактом бамбука",
+      "best_brand": "Berclean",
+      "score": 0.493,
+      "detail": {
+        "seq": 0.632,
+        "jaccard": 0.154,
+        "full_jaccard": 0.067,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img544.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-005",
+      "name": "Многофункциональные одноразовые салфетки из бамбука",
+      "best_match": "Внешний аккумулятор Быстрая зарядка мощностью 120Вт. Высококачественный продукт,Оснащен четырьмя",
+      "best_brand": "FAMALL",
+      "score": 0.263,
+      "detail": {
+        "seq": 0.286,
+        "jaccard": 0.0,
+        "full_jaccard": 0.0,
+        "overlap": 0,
+        "full_overlap": 0,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img573.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-006",
+      "name": "Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/",
+      "best_match": "Внешний аккумулятор Быстрая зарядка мощностью 120Вт. Высококачественный продукт,Оснащен четырьмя",
+      "best_brand": "FAMALL",
+      "score": 0.257,
+      "detail": {
+        "seq": 0.274,
+        "jaccard": 0.0,
+        "full_jaccard": 0.0,
+        "overlap": 0,
+        "full_overlap": 0,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img573.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-007",
+      "name": "Набор салфеток для мытья посуды и уборки р-р 25*25, 3 штуки",
+      "best_match": "Жидкость для мытья посуды с экстрактом лимона Экологически чистое средство для мытья посуды с",
+      "best_brand": "Berclean",
+      "score": 0.251,
+      "detail": {
+        "seq": 0.396,
+        "jaccard": 0.143,
+        "full_jaccard": 0.054,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": false
+      },
+      "source_image": "assets/catalog-source/img544.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-008",
+      "name": "OKFAD Набор для очищения",
+      "best_match": "Брендовый комплект для ухода за ногтями (19 предметов) Инструмент для ухода за руками и ногами:",
+      "best_brand": "OKFAD",
+      "score": 0.325,
+      "detail": {
+        "seq": 0.349,
+        "jaccard": 0.083,
+        "full_jaccard": 0.025,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img584.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-009",
+      "name": "Сжатое полотенце из хлопка 22 штуки в наборе",
+      "best_match": "Внешний аккумулятор Быстрая зарядка мощностью 120Вт. Высококачественный продукт,Оснащен четырьмя",
+      "best_brand": "FAMALL",
+      "score": 0.282,
+      "detail": {
+        "seq": 0.324,
+        "jaccard": 0.0,
+        "full_jaccard": 0.0,
+        "overlap": 0,
+        "full_overlap": 0,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img573.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-010",
+      "name": "MIAOROU Детские влажные салфетки",
+      "best_match": "Влажные салфетки для кухни Быстро устраняет масляные пятна, не требует смывания и не оставляет следов",
+      "best_brand": "Miaorou",
+      "score": 0.362,
+      "detail": {
+        "seq": 0.378,
+        "jaccard": 0.143,
+        "full_jaccard": 0.056,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img565.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-011",
+      "name": "MIAOROU Влажные салфетки для кухнир-р 20*25",
+      "best_match": "Влажные салфетки для кухни Быстро устраняет масляные пятна, не требует смывания и не оставляет следов",
+      "best_brand": "Miaorou",
+      "score": 0.409,
+      "detail": {
+        "seq": 0.479,
+        "jaccard": 0.133,
+        "full_jaccard": 0.054,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img565.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-012",
+      "name": "Очиститель барабана стиральной машины 3 шт *",
+      "best_match": "Очиститель бака стиральной машины Удаление загрязнений активным кислородом: эффективно удаляет загрязнения, проникает в грязь и",
+      "best_brand": "Berclean",
+      "score": 0.27,
+      "detail": {
+        "seq": 0.424,
+        "jaccard": 0.158,
+        "full_jaccard": 0.058,
+        "overlap": 3,
+        "full_overlap": 3,
+        "brand_ok": false
+      },
+      "source_image": "assets/catalog-source/img583.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-013",
+      "name": "BERCLEAN Шарики для защиты цвета, аромат природы",
+      "best_match": "Жидкость для мытя посуды с экстрактом бамбука",
+      "best_brand": "Berclean",
+      "score": 0.335,
+      "detail": {
+        "seq": 0.431,
+        "jaccard": 0.0,
+        "full_jaccard": 0.0,
+        "overlap": 0,
+        "full_overlap": 0,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img544.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-014",
+      "name": "BERCLEAN Шарики для защиты цвета, аромат сакуры",
+      "best_match": "Природная жидкость для стирки с растительным экстрактом Стирка и уход с растительным экстрактом:",
+      "best_brand": "Berclean",
+      "score": 0.347,
+      "detail": {
+        "seq": 0.404,
+        "jaccard": 0.067,
+        "full_jaccard": 0.029,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img547.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-015",
+      "name": "BERCLEAN Шарики для защиты цвета, аромат цветов",
+      "best_match": "Природная жидкость для стирки с растительным экстрактом Стирка и уход с растительным экстрактом:",
+      "best_brand": "Berclean",
+      "score": 0.347,
+      "detail": {
+        "seq": 0.404,
+        "jaccard": 0.067,
+        "full_jaccard": 0.029,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img547.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-016",
+      "name": "BERCLEAN Жидкость для стирки/ автомат",
+      "best_match": "Природная жидкость для стирки с растительным экстрактом Стирка и уход с растительным экстрактом:",
+      "best_brand": "Berclean",
+      "score": 0.473,
+      "detail": {
+        "seq": 0.505,
+        "jaccard": 0.273,
+        "full_jaccard": 0.1,
+        "overlap": 3,
+        "full_overlap": 3,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img547.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-017",
+      "name": "BERCLEAN Жидкость для стирки/ ручная стирка/ машинная",
+      "best_match": "Природная жидкость для стирки с растительным экстрактом Стирка и уход с растительным экстрактом:",
+      "best_brand": "Berclean",
+      "score": 0.461,
+      "detail": {
+        "seq": 0.498,
+        "jaccard": 0.25,
+        "full_jaccard": 0.097,
+        "overlap": 3,
+        "full_overlap": 3,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img547.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-018",
+      "name": "Miubaby специальное средство для стирки детских вещей",
+      "best_match": "Детский лосьон Специально разработано для детей. Средство бережно ухаживает за кожей и",
+      "best_brand": "Miubaby",
+      "score": 0.347,
+      "detail": {
+        "seq": 0.414,
+        "jaccard": 0.053,
+        "full_jaccard": 0.023,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img506.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-019",
+      "name": "Гранулы для очистки труб с сильной прочищающей способностью",
+      "best_match": "Внешний аккумулятор Быстрая зарядка мощностью 120Вт. Высококачественный продукт,Оснащен четырьмя",
+      "best_brand": "FAMALL",
+      "score": 0.278,
+      "detail": {
+        "seq": 0.317,
+        "jaccard": 0.0,
+        "full_jaccard": 0.0,
+        "overlap": 0,
+        "full_overlap": 0,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img573.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-020",
+      "name": "Быстродействующий гель для чистки унитазав(усиленный)",
+      "best_match": "Внешний аккумулятор Быстрая зарядка мощностью 120Вт. Высококачественный продукт,Оснащен четырьмя",
+      "best_brand": "FAMALL",
+      "score": 0.271,
+      "detail": {
+        "seq": 0.302,
+        "jaccard": 0.0,
+        "full_jaccard": 0.0,
+        "overlap": 0,
+        "full_overlap": 0,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img573.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-021",
+      "name": "Средство для чистки унитаза \"Утенок\"",
+      "best_match": "Двухцветное средство для чистки унитаза с двойным эффектом очистки, которое автоматически",
+      "best_brand": "Berclean",
+      "score": 0.31,
+      "detail": {
+        "seq": 0.473,
+        "jaccard": 0.2,
+        "full_jaccard": 0.067,
+        "overlap": 3,
+        "full_overlap": 3,
+        "brand_ok": false
+      },
+      "source_image": "assets/catalog-source/img552.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-025",
+      "name": "YIJIAN зубная паста со вкусом зеленого чая",
+      "best_match": "ЗУБНАЯ ПАСТА СО ВКУСОМ ЗЕЛЕНОГО ЧАЯ COOL",
+      "best_brand": "Yijian",
+      "score": 0.81,
+      "detail": {
+        "seq": 0.791,
+        "jaccard": 0.7,
+        "full_jaccard": 0.7,
+        "overlap": 7,
+        "full_overlap": 7,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img499.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-026",
+      "name": "YIJIAN Отбеливающая зубная паста",
+      "best_match": "ЗУБНАЯ ПАСТА СО ВКУСОМ ЗЕЛЕНОГО ЧАЯ COOL",
+      "best_brand": "Yijian",
+      "score": 0.536,
+      "detail": {
+        "seq": 0.527,
+        "jaccard": 0.364,
+        "full_jaccard": 0.364,
+        "overlap": 4,
+        "full_overlap": 4,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img499.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-027",
+      "name": "YIJIAN Пробиотическая зубная",
+      "best_match": "Mouth Spray",
+      "best_brand": "Yijian",
+      "score": 0.518,
+      "detail": {
+        "seq": 0.608,
+        "jaccard": 0.25,
+        "full_jaccard": 0.118,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img496.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-028",
+      "name": "YIJIAN Ферментная зубная паста для защиты десен",
+      "best_match": "ЗУБНАЯ ПАСТА СО ВКУСОМ ЗЕЛЕНОГО ЧАЯ COOL",
+      "best_brand": "Yijian",
+      "score": 0.519,
+      "detail": {
+        "seq": 0.539,
+        "jaccard": 0.308,
+        "full_jaccard": 0.308,
+        "overlap": 4,
+        "full_overlap": 4,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img499.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-029",
+      "name": "Miubaby ДЕТСКАЯ Уход за деснами, зубами, профилактическая зубная паста",
+      "best_match": "детская зубная паста с пробиотиком",
+      "best_brand": "Miubaby",
+      "score": 0.435,
+      "detail": {
+        "seq": 0.454,
+        "jaccard": 0.231,
+        "full_jaccard": 0.122,
+        "overlap": 3,
+        "full_overlap": 5,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img505.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-030",
+      "name": "YIJIAN Травянная зубная паста",
+      "best_match": "ЗУБНАЯ ПАСТА СО ВКУСОМ ЗЕЛЕНОГО ЧАЯ COOL",
+      "best_brand": "Yijian",
+      "score": 0.549,
+      "detail": {
+        "seq": 0.553,
+        "jaccard": 0.364,
+        "full_jaccard": 0.364,
+        "overlap": 4,
+        "full_overlap": 4,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img499.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-031",
+      "name": "YIJIAN Мягкая детская зубная щетка с защитой зубов",
+      "best_match": "Холодная зубная паста на основе водорослей и мяты COOL",
+      "best_brand": "Yijian",
+      "score": 0.453,
+      "detail": {
+        "seq": 0.513,
+        "jaccard": 0.2,
+        "full_jaccard": 0.103,
+        "overlap": 3,
+        "full_overlap": 4,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img498.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-033",
+      "name": "LIMANCY Антисептическая массажная жидкость с китайской травами",
+      "best_match": "Многофункциональная серная жидкость для умывання Четыре защиты, очищение и омоложение.",
+      "best_brand": "LIMANCY",
+      "score": 0.354,
+      "detail": {
+        "seq": 0.425,
+        "jaccard": 0.059,
+        "full_jaccard": 0.023,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img468.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-034",
+      "name": "LIMANCY Крем для рук фруктовый микс",
+      "best_match": "косметический косметический крем крем для груля",
+      "best_brand": "LIMANCY",
+      "score": 0.398,
+      "detail": {
+        "seq": 0.49,
+        "jaccard": 0.091,
+        "full_jaccard": 0.026,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img462.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-035",
+      "name": "LIMANCY Крем для рук (фруктовый микс/спокойствие)",
+      "best_match": "косметический косметический крем крем для груля",
+      "best_brand": "LIMANCY",
+      "score": 0.376,
+      "detail": {
+        "seq": 0.452,
+        "jaccard": 0.083,
+        "full_jaccard": 0.025,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img462.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-036",
+      "name": "LIMANCY Антиперспирант шариковый",
+      "best_match": "Nº1 Духи LIMANCY",
+      "best_brand": "LIMANCY",
+      "score": 0.347,
+      "detail": {
+        "seq": 0.455,
+        "jaccard": 0.0,
+        "full_jaccard": 0.0,
+        "overlap": 0,
+        "full_overlap": 0,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img458.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-037",
+      "name": "LIMANCY Крем с антиоксидантами SOD",
+      "best_match": "Крем с антиоксидантами ластичнои увлажнена, питательное омоложение, один флакон для многоцелевого использования.",
+      "best_brand": "LIMANCY",
+      "score": 0.36,
+      "detail": {
+        "seq": 0.388,
+        "jaccard": 0.125,
+        "full_jaccard": 0.043,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img448.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-038",
+      "name": "LIMANCY Эссенция для ухода за кожей",
+      "best_match": "Эссенция для ухода за кожей Увлажняющий и нежирный, успокаивает и осветляет кожу.",
+      "best_brand": "LIMANCY",
+      "score": 0.468,
+      "detail": {
+        "seq": 0.503,
+        "jaccard": 0.231,
+        "full_jaccard": 0.231,
+        "overlap": 3,
+        "full_overlap": 3,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img441.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-039",
+      "name": "LIMANCY Г ель-пилинг",
+      "best_match": "Nº1 Духи LIMANCY",
+      "best_brand": "LIMANCY",
+      "score": 0.367,
+      "detail": {
+        "seq": 0.494,
+        "jaccard": 0.0,
+        "full_jaccard": 0.0,
+        "overlap": 0,
+        "full_overlap": 0,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img458.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-040",
+      "name": "PREDAWN пластыри для стоп с травами",
+      "best_match": "Пластырь для стоп с травами для сна Эссенция отборных растений: включает эссенцию полыни, имбиря и бамбукового древесного угля.",
+      "best_brand": "Predawn",
+      "score": 0.378,
+      "detail": {
+        "seq": 0.437,
+        "jaccard": 0.105,
+        "full_jaccard": 0.041,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img585.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-041",
+      "name": "LIMANCY Отбеливающий и увлажняющий лосьон для тела",
+      "best_match": "Гелеобразный, увлажняющий, омолаживающий, живительный крем для глаз",
+      "best_brand": "LIMANCY",
+      "score": 0.398,
+      "detail": {
+        "seq": 0.503,
+        "jaccard": 0.071,
+        "full_jaccard": 0.033,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img445.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-042",
+      "name": "LIMANCY Шампунь освежающий",
+      "best_match": "Шампунь Свежесть океана",
+      "best_brand": "LIMANCY",
+      "score": 0.389,
+      "detail": {
+        "seq": 0.457,
+        "jaccard": 0.111,
+        "full_jaccard": 0.031,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img481.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-043",
+      "name": "LIMANCY Шампунь восстанавливающий",
+      "best_match": "Шампунь Свежесть океана",
+      "best_brand": "LIMANCY",
+      "score": 0.401,
+      "detail": {
+        "seq": 0.482,
+        "jaccard": 0.111,
+        "full_jaccard": 0.031,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img481.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-044",
+      "name": "LIMANCY Шампунь против жирности",
+      "best_match": "Имбирный шампунь от перхоти Содержит различные аминокислоты для",
+      "best_brand": "LIMANCY",
+      "score": 0.383,
+      "detail": {
+        "seq": 0.467,
+        "jaccard": 0.077,
+        "full_jaccard": 0.042,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img477.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-046",
+      "name": "LIMANCY Шампунь от перхоти с желтым имбирем",
+      "best_match": "Имбирный шампунь от перхоти Содержит различные аминокислоты для",
+      "best_brand": "LIMANCY",
+      "score": 0.42,
+      "detail": {
+        "seq": 0.481,
+        "jaccard": 0.154,
+        "full_jaccard": 0.083,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img477.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-047",
+      "name": "LIMANCY Мягкий питательный шампунь с шелком",
+      "best_match": "Увлажняющий и Разглаживающий питательный шампунь",
+      "best_brand": "LIMANCY",
+      "score": 0.447,
+      "detail": {
+        "seq": 0.517,
+        "jaccard": 0.182,
+        "full_jaccard": 0.083,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img476.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-048",
+      "name": "LIMANCY Шампунь Против Выпадения Волос",
+      "best_match": "Шампунь Свежесть океана",
+      "best_brand": "LIMANCY",
+      "score": 0.435,
+      "detail": {
+        "seq": 0.479,
+        "jaccard": 0.2,
+        "full_jaccard": 0.094,
+        "overlap": 2,
+        "full_overlap": 3,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img481.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-049",
+      "name": "ХАН Травяной шампунь с эссенцией имбиря",
+      "best_match": "Увлажняющий и Разглаживающий питательный шампунь",
+      "best_brand": "LIMANCY",
+      "score": 0.202,
+      "detail": {
+        "seq": 0.345,
+        "jaccard": 0.077,
+        "full_jaccard": 0.038,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": false
+      },
+      "source_image": "assets/catalog-source/img476.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-050",
+      "name": "ХАН Травяной шампунь с эссенцией женьшеня",
+      "best_match": "Чистое очищающее алоэ Шампунь Натуральный увлажняющий фактор алоз",
+      "best_brand": "LIMANCY",
+      "score": 0.2,
+      "detail": {
+        "seq": 0.354,
+        "jaccard": 0.056,
+        "full_jaccard": 0.056,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": false
+      },
+      "source_image": "assets/catalog-source/img453.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-051",
+      "name": "Miubaby детский шампунь и гель для душа",
+      "best_match": "детский шампунь и гель для душа Специально разработано для детей",
+      "best_brand": "Miubaby",
+      "score": 0.49,
+      "detail": {
+        "seq": 0.532,
+        "jaccard": 0.286,
+        "full_jaccard": 0.093,
+        "overlap": 4,
+        "full_overlap": 4,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img506.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-052",
+      "name": "LIMANCY Эфирное масло для ухода против сухости волос",
+      "best_match": "Эфирное масло для ухода за волосами Защита волос одним движением - без беспокойства о проблемах с красотой волос.",
+      "best_brand": "LIMANCY",
+      "score": 0.429,
+      "detail": {
+        "seq": 0.442,
+        "jaccard": 0.235,
+        "full_jaccard": 0.098,
+        "overlap": 4,
+        "full_overlap": 4,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img485.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-053",
+      "name": "LIMANCY Освежающий солнцезащитный крем SPF50/50g",
+      "best_match": "Гелеобразный, увлажняющий, омолаживающий, живительный крем для глаз",
+      "best_brand": "LIMANCY",
+      "score": 0.374,
+      "detail": {
+        "seq": 0.455,
+        "jaccard": 0.071,
+        "full_jaccard": 0.033,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img445.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-054",
+      "name": "LIMANCY Лосьон для тела с экстрактом полыни",
+      "best_match": "Лосьон для тела с полынью лосьон для тела с алоз Экстрагированная эссенция полыни: растительные травы,",
+      "best_brand": "LIMANCY",
+      "score": 0.447,
+      "detail": {
+        "seq": 0.448,
+        "jaccard": 0.286,
+        "full_jaccard": 0.08,
+        "overlap": 4,
+        "full_overlap": 4,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img469.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-055",
+      "name": "LIMANCY гель для душа с полынью",
+      "best_match": "Гель для душа с алоз Различные натуральные ингредиенты, нежный уход за кожей.",
+      "best_brand": "LIMANCY",
+      "score": 0.378,
+      "detail": {
+        "seq": 0.4,
+        "jaccard": 0.154,
+        "full_jaccard": 0.077,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img453.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-056",
+      "name": "LIMANCY Шампунь с полынью",
+      "best_match": "Шампунь Свежесть океана",
+      "best_brand": "LIMANCY",
+      "score": 0.388,
+      "detail": {
+        "seq": 0.433,
+        "jaccard": 0.143,
+        "full_jaccard": 0.033,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img481.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-057",
+      "name": "LIMANCY кондиционердля волос с полынью",
+      "best_match": "SIMANS ЗЕНІЕН",
+      "best_brand": "LIMANCY",
+      "score": 0.42,
+      "detail": {
+        "seq": 0.48,
+        "jaccard": 0.143,
+        "full_jaccard": 0.143,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img480.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-058",
+      "name": "LIMANCY Питательный и увлажняющий гель для душа из серии \"с шелком\"",
+      "best_match": "Питательный гель для душа с золотым покрытнем Золото очищает кожу, создает защитный барьер,",
+      "best_brand": "LIMANCY",
+      "score": 0.413,
+      "detail": {
+        "seq": 0.463,
+        "jaccard": 0.167,
+        "full_jaccard": 0.061,
+        "overlap": 3,
+        "full_overlap": 3,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img468.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-059",
+      "name": "LIMANCY Розовый гель для душа",
+      "best_match": "Розовый гель для душа Ароматная, романтичная встреча Подчеркните свой вкус с помощью аромата",
+      "best_brand": "LIMANCY",
+      "score": 0.46,
+      "detail": {
+        "seq": 0.455,
+        "jaccard": 0.267,
+        "full_jaccard": 0.267,
+        "overlap": 4,
+        "full_overlap": 4,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img464.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-060",
+      "name": "LIMANCY Питательный и увлажняющий гель для душа с экстрактом молока",
+      "best_match": "увлажняюший гель для душа с экстрактом молока Молочная эссенция - Молоко питает кожу",
+      "best_brand": "LIMANCY",
+      "score": 0.513,
+      "detail": {
+        "seq": 0.595,
+        "jaccard": 0.25,
+        "full_jaccard": 0.129,
+        "overlap": 4,
+        "full_overlap": 4,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img467.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-061",
+      "name": "LIMANCY Укрепляющая и осветляющая маска для лица с женьшенем",
+      "best_match": "Маска для лица для лифтинга и отбеливания пятен с женьшенем Экстракция большого числа",
+      "best_brand": "LIMANCY",
+      "score": 0.404,
+      "detail": {
+        "seq": 0.422,
+        "jaccard": 0.2,
+        "full_jaccard": 0.065,
+        "overlap": 3,
+        "full_overlap": 3,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img439.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-064",
+      "name": "LIMANCY Увлажняющая маска для лица с огуречным соком",
+      "best_match": "Прозрачная маска для лица с гранатом обыкновенным Натуральная растительная экстракция:",
+      "best_brand": "LIMANCY",
+      "score": 0.401,
+      "detail": {
+        "seq": 0.457,
+        "jaccard": 0.143,
+        "full_jaccard": 0.05,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img439.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-066",
+      "name": "LIMANCY гидрогель с гиалуроновой кислотой №2",
+      "best_match": "гидрогель с гиалуроновой Кислотой Многомолекулярный гиапуронат",
+      "best_brand": "LIMANCY",
+      "score": 0.591,
+      "detail": {
+        "seq": 0.655,
+        "jaccard": 0.375,
+        "full_jaccard": 0.2,
+        "overlap": 3,
+        "full_overlap": 3,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img434.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-068",
+      "name": "LIMANCY Мыло с древесным углем и эфирными маслами ручной работы",
+      "best_match": "Чистое очищающее молоко с бамбуковым углем Очищает поры, способствует сиянию и",
+      "best_brand": "LIMANCY",
+      "score": 0.336,
+      "detail": {
+        "seq": 0.347,
+        "jaccard": 0.111,
+        "full_jaccard": 0.061,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img444.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-071",
+      "name": "BERCLEAN Фитозащитное антибактериальное мыло для белья",
+      "best_match": "Чистящая и антимикробная жидкость для стирки С антибактериальным эффектом: содержит",
+      "best_brand": "Berclean",
+      "score": 0.346,
+      "detail": {
+        "seq": 0.447,
+        "jaccard": 0.0,
+        "full_jaccard": 0.027,
+        "overlap": 0,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img547.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-072",
+      "name": "BERCLEAN Детское мыло без вреда коже",
+      "best_match": "Жидкое мыло для рук с экстрактом алоз Удобный и освежающий",
+      "best_brand": "Berclean",
+      "score": 0.36,
+      "detail": {
+        "seq": 0.423,
+        "jaccard": 0.077,
+        "full_jaccard": 0.031,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img551.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-074",
+      "name": "LIMANCY Восстановливающий Гель Алоэ",
+      "best_match": "Увлажняющий восстанавливающий гель с алоэ вера Содержит экстракты алоэ, софора желтеющая и",
+      "best_brand": "LIMANCY",
+      "score": 0.459,
+      "detail": {
+        "seq": 0.494,
+        "jaccard": 0.25,
+        "full_jaccard": 0.081,
+        "overlap": 3,
+        "full_overlap": 3,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img451.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-075",
+      "name": "LIMANCY отшелушивающий гель с алоэ",
+      "best_match": "отшелушивающий гель с алоэ Успокоение кожи за одно применение,",
+      "best_brand": "LIMANCY",
+      "score": 0.501,
+      "detail": {
+        "seq": 0.562,
+        "jaccard": 0.273,
+        "full_jaccard": 0.094,
+        "overlap": 3,
+        "full_overlap": 3,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img450.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-077",
+      "name": "LIMANCY увлажняющий гель для душа с экстрактом молока",
+      "best_match": "увлажняюший гель для душа с экстрактом молока Молочная эссенция - Молоко питает кожу",
+      "best_brand": "LIMANCY",
+      "score": 0.516,
+      "detail": {
+        "seq": 0.612,
+        "jaccard": 0.235,
+        "full_jaccard": 0.125,
+        "overlap": 4,
+        "full_overlap": 4,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img467.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-081",
+      "name": "BOCARE мужской спрей для задержки/ стойкость мужской силы",
+      "best_match": "Мужской Продолжительность Спрей bocare Целевая аудитория",
+      "best_brand": "BOCARE",
+      "score": 0.388,
+      "detail": {
+        "seq": 0.41,
+        "jaccard": 0.167,
+        "full_jaccard": 0.077,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img555.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-085",
+      "name": "SUTING Гигиенические прокладки с бамбуковым экстрактом (Ежедневные）",
+      "best_match": "Гигиенические прокладки Гигиенические прокладки (дневные)",
+      "best_brand": "SUTING",
+      "score": 0.48,
+      "detail": {
+        "seq": 0.551,
+        "jaccard": 0.2,
+        "full_jaccard": 0.2,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img470.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-087",
+      "name": "BOCARE Ухаживающие вкладыши для мужин",
+      "best_match": "Ухаживающие вкладыши для мужчин",
+      "best_brand": "BOCARE",
+      "score": 0.489,
+      "detail": {
+        "seq": 0.569,
+        "jaccard": 0.2,
+        "full_jaccard": 0.2,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img558.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-088",
+      "name": "Miaorou Детские очищающие салфетки 180*200/",
+      "best_match": "Рулонная бумага из бамбукового волокна Натуральный цвет без обесцвечивания.",
+      "best_brand": "Miaorou",
+      "score": 0.327,
+      "detail": {
+        "seq": 0.361,
+        "jaccard": 0.071,
+        "full_jaccard": 0.022,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img561.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-089",
+      "name": "MIUBABY Детский увлажняющий крем",
+      "best_match": "Детский увлажняющий крем Длительное увлажнение и защита от сухости.",
+      "best_brand": "Miubaby",
+      "score": 0.478,
+      "detail": {
+        "seq": 0.517,
+        "jaccard": 0.273,
+        "full_jaccard": 0.086,
+        "overlap": 3,
+        "full_overlap": 3,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img506.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-090",
+      "name": "Miubaby специальное средство для стирки детских вещей",
+      "best_match": "Детский лосьон Специально разработано для детей. Средство бережно ухаживает за кожей и",
+      "best_brand": "Miubaby",
+      "score": 0.358,
+      "detail": {
+        "seq": 0.435,
+        "jaccard": 0.056,
+        "full_jaccard": 0.023,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img506.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-092",
+      "name": "YIJIAN Мягкая детская зубная щётка с защитой зубов",
+      "best_match": "детская зубная щетка для здоровых зубов",
+      "best_brand": "Miubaby",
+      "score": 0.422,
+      "detail": {
+        "seq": 0.557,
+        "jaccard": 0.4,
+        "full_jaccard": 0.095,
+        "overlap": 4,
+        "full_overlap": 4,
+        "brand_ok": false
+      },
+      "source_image": "assets/catalog-source/img505.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-093",
+      "name": "BERCLEAN Детское мыло без вреда коже",
+      "best_match": "Жидкое мыло для рук с экстрактом алоз Удобный и освежающий",
+      "best_brand": "Berclean",
+      "score": 0.34,
+      "detail": {
+        "seq": 0.386,
+        "jaccard": 0.071,
+        "full_jaccard": 0.03,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img551.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-094",
+      "name": "LIMANCY Увлажняющий воздушный кушон (натурального цвета 001) CC- кушон с запасным блоком",
+      "best_match": "Увлажняющая Воздушная Подушка 002-Натуральный Консилер Легкий и светлый, как будто вы не наносите макияж",
+      "best_brand": "LIMANCY",
+      "score": 0.444,
+      "detail": {
+        "seq": 0.578,
+        "jaccard": 0.091,
+        "full_jaccard": 0.051,
+        "overlap": 2,
+        "full_overlap": 3,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img409.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-095",
+      "name": "LIMANCY Увлажняющий воздушный кушон (натурального цвета 002) CC- кушон с запасным блоком",
+      "best_match": "Увлажняющая Воздушная Подушка 002-Натуральный Консилер Легкий и светлый, как будто вы не наносите макияж",
+      "best_brand": "LIMANCY",
+      "score": 0.463,
+      "detail": {
+        "seq": 0.578,
+        "jaccard": 0.143,
+        "full_jaccard": 0.069,
+        "overlap": 3,
+        "full_overlap": 4,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img409.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-098",
+      "name": "LIMANCY Увлажняющий бальзам для губ с Алоэ",
+      "best_match": "Бальзам для губ Питает и увлажняет губы. Делает цвет губ более насыщен-",
+      "best_brand": "LIMANCY",
+      "score": 0.525,
+      "detail": {
+        "seq": 0.581,
+        "jaccard": 0.308,
+        "full_jaccard": 0.129,
+        "overlap": 4,
+        "full_overlap": 4,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img415.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-099",
+      "name": "MOREFUTURE пробиотический напиток с шиповником и овощами",
+      "best_match": "Фруктовые и овощные напитки с пробиотиками Натуральный напиток для балансировки микрофлоры",
+      "best_brand": "Morefuture",
+      "score": 0.4,
+      "detail": {
+        "seq": 0.468,
+        "jaccard": 0.125,
+        "full_jaccard": 0.043,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img518.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-100",
+      "name": "MOREFUTURE Кофе с женьшенем, кордицепсом и ганодермой",
+      "best_match": "Кофе с линчжи Функциональный кофе для поддержания Morefates",
+      "best_brand": "Morefuture",
+      "score": 0.41,
+      "detail": {
+        "seq": 0.468,
+        "jaccard": 0.154,
+        "full_jaccard": 0.045,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img534.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-101",
+      "name": "MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие",
+      "best_match": "Витамин-С Marfitee Апельсиновые",
+      "best_brand": "Morefuture",
+      "score": 0.432,
+      "detail": {
+        "seq": 0.562,
+        "jaccard": 0.083,
+        "full_jaccard": 0.031,
+        "overlap": 1,
+        "full_overlap": 1,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img520.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-102",
+      "name": "MOREFUTURE Чай из кукурузных рылец",
+      "best_match": "Чай для похудения",
+      "best_brand": "Morefuture",
+      "score": 0.442,
+      "detail": {
+        "seq": 0.457,
+        "jaccard": 0.222,
+        "full_jaccard": 0.222,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img522.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-103",
+      "name": "Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах",
+      "best_match": "Бумага из бамбукового волокна натурального цвета в рулонах",
+      "best_brand": "Miaorou",
+      "score": 0.589,
+      "detail": {
+        "seq": 0.8,
+        "jaccard": 0.5,
+        "full_jaccard": 0.24,
+        "overlap": 6,
+        "full_overlap": 6,
+        "brand_ok": false
+      },
+      "source_image": "assets/catalog-source/img561.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-104",
+      "name": "Miao Rou Детские влажные салфетки80 шт. (180ммх200мм)",
+      "best_match": "Детские влажные салфетки (Мини салфетки × 8 пачек) Без пигментов, алкоголя и ароматизаторов. Чистая вода EDI: Чистая вода EDI обрабатывается по технологии",
+      "best_brand": "Miaorou",
+      "score": 0.21,
+      "detail": {
+        "seq": 0.351,
+        "jaccard": 0.095,
+        "full_jaccard": 0.032,
+        "overlap": 2,
+        "full_overlap": 2,
+        "brand_ok": false
+      },
+      "source_image": "assets/catalog-source/img563.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    },
+    {
+      "id": "famall-105",
+      "name": "Miao Rou Бамбуковые носовые платочки 10 х",
+      "best_match": "Внешний аккумулятор Быстрая зарядка мощностью 120Вт. Высококачественный продукт,Оснащен четырьмя",
+      "best_brand": "FAMALL",
+      "score": 0.219,
+      "detail": {
+        "seq": 0.199,
+        "jaccard": 0.0,
+        "full_jaccard": 0.0,
+        "overlap": 0,
+        "full_overlap": 0,
+        "brand_ok": true
+      },
+      "source_image": "assets/catalog-source/img573.jpg",
+      "reason": "low_confidence_or_placeholder_source"
+    }
+  ],
+  "catalog_records_need_review": [
+    {
+      "id": "catalog-434-2",
+      "brand": "LIMANCY",
+      "title": "гидрогель с гиалуроновой Кислотой Многомолекулярный гиапуронат",
+      "category": "Уходовая косметика",
+      "description": "увлажняющую сетку. Данный гидрогель состояние кожи, с быстрым полным",
+      "volume": "",
+      "retail_price": "",
+      "partner_price": "",
+      "image": "assets/img/products/catalog-434-2.jpg",
+      "source_image": "assets/catalog-source/img434.jpg",
+      "source_page": "434",
+      "needs_review": true
+    },
+    {
+      "id": "catalog-470-3",
+      "brand": "SUTING",
+      "title": "Ежедневные гигенические прокладки (гигенические прокладки)",
+      "category": "Личная гигиена",
+      "description": "",
+      "volume": "",
+      "retail_price": "",
+      "partner_price": "",
+      "image": "assets/img/products/catalog-470-3.jpg",
+      "source_image": "assets/catalog-source/img470.jpg",
+      "source_page": "470",
+      "needs_review": true
+    },
+    {
+      "id": "catalog-479-1",
+      "brand": "LIMANCY",
+      "title": "Увлажняющий и очищающий шампунь ооновление изнутри и снаружи: праникает",
+      "category": "Средства для волос",
+      "description": "от сердцевины водоса к чешуйкам авить неооходимую энергию для софективно увлажняет и решает проолем волос:нежно заботится о волосах, укрепляет не раздражает, оставляет шелковистое",
+      "volume": "",
+      "retail_price": "",
+      "partner_price": "",
+      "image": "assets/img/products/catalog-479-1.jpg",
+      "source_image": "assets/catalog-source/img479.jpg",
+      "source_page": "479",
+      "needs_review": true
+    },
+    {
+      "id": "catalog-480-2",
+      "brand": "LIMANCY",
+      "title": "SIMANS ЗЕНІЕН",
+      "category": "Средства для волос",
+      "description": "",
+      "volume": "",
+      "retail_price": "",
+      "partner_price": "",
+      "image": "assets/img/products/catalog-480-2.jpg",
+      "source_image": "assets/catalog-source/img480.jpg",
+      "source_page": "480",
+      "needs_review": true
+    },
+    {
+      "id": "catalog-493-2",
+      "brand": "Yijian",
+      "title": "ПРОБНОТИЧЕСКА Вес нетто: 200г",
+      "category": "Гигиена полости рта",
+      "description": "",
+      "volume": "",
+      "retail_price": "",
+      "partner_price": "",
+      "image": "assets/img/products/catalog-493-2.jpg",
+      "source_image": "assets/catalog-source/img493.jpg",
+      "source_page": "493",
+      "needs_review": true
+    },
+    {
+      "id": "catalog-493-3",
+      "brand": "Yijian",
+      "title": "ПРОБНОТИЧЕСКАЯ Вес нетто:200г",
+      "category": "Гигиена полости рта",
+      "description": "",
+      "volume": "",
+      "retail_price": "",
+      "partner_price": "",
+      "image": "assets/img/products/catalog-493-3.jpg",
+      "source_image": "assets/catalog-source/img493.jpg",
+      "source_page": "493",
+      "needs_review": true
+    },
+    {
+      "id": "catalog-499-1",
+      "brand": "Yijian",
+      "title": "ЗУБНАЯ ПАСТА СО ВКУСОМ ЗЕЛЕНОГО ЧАЯ COOL",
+      "category": "Гигиена полости рта",
+      "description": "",
+      "volume": "",
+      "retail_price": "",
+      "partner_price": "",
+      "image": "assets/img/products/catalog-499-1.jpg",
+      "source_image": "assets/catalog-source/img499.jpg",
+      "source_page": "499",
+      "needs_review": true
+    },
+    {
+      "id": "catalog-570-2",
+      "brand": "OKFAD",
+      "title": "BREAT",
+      "category": "Другие товары",
+      "description": "",
+      "volume": "",
+      "retail_price": "",
+      "partner_price": "",
+      "image": "assets/img/products/catalog-570-2.jpg",
+      "source_image": "assets/catalog-source/img570.jpg",
+      "source_page": "570",
+      "needs_review": true
+    },
+    {
+      "id": "catalog-574-2",
+      "brand": "OKFAD",
+      "title": "Syirl Trothbash Спиральна зубная шётся",
+      "category": "Другие товары",
+      "description": "",
+      "volume": "",
+      "retail_price": "",
+      "partner_price": "",
+      "image": "assets/img/products/catalog-574-2.jpg",
+      "source_image": "assets/catalog-source/img574.jpg",
+      "source_page": "574",
+      "needs_review": true
+    }
+  ]
+}

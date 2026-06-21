@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-label="FAMALL product image placeholder">
+  <rect width="900" height="900" fill="#f7f8fa"/>
+  <rect x="210" y="190" width="480" height="520" rx="28" fill="#ffffff" stroke="#e6e8ec" stroke-width="4"/>
+  <path d="M304 318h292v60H304zM304 414h210v34H304zM304 478h260v34H304z" fill="#ff2942"/>
+  <circle cx="450" cy="606" r="56" fill="#ff2942" opacity=".12"/>
+  <path d="M422 604l28 30 44-58" fill="none" stroke="#ff2942" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="450" y="770" fill="#202124" font-family="Arial, sans-serif" font-size="54" font-weight="700" text-anchor="middle">FAMALL</text>
+</svg>

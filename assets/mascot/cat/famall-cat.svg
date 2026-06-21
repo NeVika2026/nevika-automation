@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="72" viewBox="0 0 96 72" role="img" aria-label="Маскот FAMALL">
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff2942"/>
+      <stop offset="1" stop-color="#ff7182"/>
+    </linearGradient>
+  </defs>
+  <path d="M16 36c0-18 13-28 32-28s32 10 32 28v9c0 12-10 21-22 21H38c-12 0-22-9-22-21v-9Z" fill="url(#fur)"/>
+  <path d="M23 17 17 4c-2-4 1-7 5-5l16 10M73 17 79 4c2-4-1-7-5-5L58 9" fill="url(#fur)"/>
+  <rect x="28" y="34" width="9" height="16" rx="5" fill="#fff"/>
+  <rect x="59" y="34" width="9" height="16" rx="5" fill="#fff"/>
+  <path d="M43 52h10l-5 6-5-6Z" fill="#fff"/>
+  <path d="M16 44H4M18 52H5M80 44h12M78 52h13" stroke="#ff2942" stroke-width="4" stroke-linecap="round"/>
+  <path d="M28 64c-6 5-12 6-19 2M68 64c6 5 12 6 19 2" stroke="#ff2942" stroke-width="6" stroke-linecap="round"/>
+</svg>
