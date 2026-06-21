@@ -292,7 +292,7 @@
     "status": "need_image",
     "match": {
       "method": "none",
-      "score": 0.0,
+      "score": 0,
       "sourceName": null
     },
     "priceSource": {
@@ -402,12 +402,12 @@
     "retailPrice": 340,
     "partnerPrice": 187,
     "pv": 0.1,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/famall-006-famallnetwork.jpg",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
+        "type": "source",
+        "src": "assets/images/products/famall-006-famallnetwork.jpg",
         "alt": "Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/"
       }
     ],
@@ -445,11 +445,11 @@
       "Акция"
     ],
     "stock": "in_stock",
-    "status": "need_image",
+    "status": "published",
     "match": {
-      "method": "none",
-      "score": 0.325,
-      "sourceName": null
+      "method": "famallnetwork_exact_image",
+      "score": 0.95,
+      "sourceName": "Пакеты для хранения (L) OKFAD 100 шт."
     },
     "priceSource": {
       "type": "PDF",
@@ -460,7 +460,14 @@
     },
     "fullName": "Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/",
     "displayName": "Пищевые пакеты для хранения 25x35",
-    "needs_review": true
+    "needs_review": false,
+    "imageSource": {
+      "type": "FAMALL Network",
+      "url": "https://famallnetwork.su/product/pakety-dlya-hraneniya-l-okfad-100-sht-kupit-po-vygodnoy-tsene/",
+      "imageUrl": "https://famallnetwork.su/wp-content/uploads/2023/02/pakety-dlya-hraneniya-l-okfad-100-sht.jpg",
+      "confidence": "high",
+      "matchedName": "Пакеты для хранения (L) OKFAD 100 шт."
+    }
   },
   {
     "id": "famall-007",
@@ -734,7 +741,7 @@
     "status": "published",
     "match": {
       "method": "exact_name",
-      "score": 1.0,
+      "score": 1,
       "sourceName": "MiaoRou Детские влажные салфетки",
       "source": "taplink"
     },
@@ -1117,12 +1124,12 @@
     "retailPrice": 1120,
     "partnerPrice": 615,
     "pv": 0.6,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/famall-016-famallnetwork.jpg",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
+        "type": "source",
+        "src": "assets/images/products/famall-016-famallnetwork.jpg",
         "alt": "BERCLEAN Жидкость для стирки/ автомат"
       }
     ],
@@ -1160,11 +1167,11 @@
       "Акция"
     ],
     "stock": "in_stock",
-    "status": "need_image",
+    "status": "published",
     "match": {
-      "method": "none",
-      "score": 0.0,
-      "sourceName": null
+      "method": "famallnetwork_exact_image",
+      "score": 0.97,
+      "sourceName": "Гель для стирки многофункциональный Berclean 2,1 л."
     },
     "priceSource": {
       "type": "PDF",
@@ -1174,7 +1181,14 @@
       "extractionNote": ""
     },
     "fullName": "BERCLEAN Жидкость для стирки/ автомат",
-    "needs_review": true
+    "needs_review": false,
+    "imageSource": {
+      "type": "FAMALL Network",
+      "url": "https://famallnetwork.su/product/gel-dlya-stirki-mnogofunktsionalnyy-berclean-2-1-l-kupit-po-vygodnoy-tsene/",
+      "imageUrl": "https://famallnetwork.su/wp-content/uploads/2023/02/zhidkost-dlya-stirki-berclean-mnogofunktsionalnaya.jpg",
+      "confidence": "high",
+      "matchedName": "Гель для стирки многофункциональный Berclean 2,1 л."
+    }
   },
   {
     "id": "famall-017",
@@ -2166,12 +2180,12 @@
     "retailPrice": 480,
     "partnerPrice": 264,
     "pv": 0.3,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/famall-030-famallnetwork.jpg",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
+        "type": "source",
+        "src": "assets/images/products/famall-030-famallnetwork.jpg",
         "alt": "YIJIAN Травянная зубная паста"
       }
     ],
@@ -2209,12 +2223,11 @@
       "Хит"
     ],
     "stock": "in_stock",
-    "status": "need_image",
+    "status": "published",
     "match": {
-      "method": "brand_keywords",
-      "score": 0.825,
-      "sourceName": "YIJIAN зубная паста с экстрактами трав  (150 г)",
-      "source": "taplink"
+      "method": "famallnetwork_exact_image",
+      "score": 0.98,
+      "sourceName": "Зубная паста c экстрактами трав YIJIAN, 150 мл."
     },
     "priceSource": {
       "type": "PDF",
@@ -2225,7 +2238,14 @@
     },
     "fullName": "YIJIAN Травянная зубная паста",
     "displayName": "YIJIAN Травяная зубная паста",
-    "needs_review": true
+    "needs_review": false,
+    "imageSource": {
+      "type": "FAMALL Network",
+      "url": "https://famallnetwork.su/product/zubnaya-pasta-c-ekstraktami-trav-yijian-150-ml-kupit-po-vygodnoy-tsene/",
+      "imageUrl": "https://famallnetwork.su/wp-content/uploads/2023/02/zubnaya-pasta-k-ekstraktami-trav-yijian-greenleaf.jpg",
+      "confidence": "high",
+      "matchedName": "Зубная паста c экстрактами трав YIJIAN, 150 мл."
+    }
   },
   {
     "id": "famall-031",
@@ -2285,7 +2305,7 @@
     "status": "published",
     "match": {
       "method": "exact_name",
-      "score": 1.0,
+      "score": 1,
       "sourceName": "YIJIAN Мягкая детская зубная щётка с защитой зубов",
       "source": "taplink"
     },
@@ -2396,7 +2416,7 @@
     "description": "LIMANCY Антисептическая массажная жидкость с китайской травами. Описание будет дополнено после загрузки полного каталога FAMALL.",
     "retailPrice": 1900,
     "partnerPrice": 1045,
-    "pv": 5.0,
+    "pv": 5,
     "image": "assets/images/products/placeholder.svg",
     "imageType": "premium_placeholder",
     "gallery": [
@@ -2604,13 +2624,13 @@
     "description": "LIMANCY Антиперспирант 50мл. Средства личной гигиены",
     "retailPrice": 700,
     "partnerPrice": 358,
-    "pv": 2.0,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "pv": 2,
+    "image": "assets/images/products/famall-036-famallnetwork.jpg",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
+        "type": "source",
+        "src": "assets/images/products/famall-036-famallnetwork.jpg",
         "alt": "LIMANCY Антиперспирант шариковый"
       }
     ],
@@ -2650,12 +2670,11 @@
       "Хит"
     ],
     "stock": "in_stock",
-    "status": "need_image",
+    "status": "published",
     "match": {
-      "method": "brand_keywords",
-      "score": 0.96,
-      "sourceName": "LIMANCY Антиперспирант 50мл",
-      "source": "taplink"
+      "method": "famallnetwork_exact_image",
+      "score": 0.92,
+      "sourceName": "Антиперспирант Limancy"
     },
     "priceSource": {
       "type": "PDF",
@@ -2665,7 +2684,14 @@
       "extractionNote": ""
     },
     "fullName": "LIMANCY Антиперспирант шариковый",
-    "needs_review": true
+    "needs_review": false,
+    "imageSource": {
+      "type": "FAMALL Network",
+      "url": "https://famallnetwork.su/product/antiperspirant-limancy/",
+      "imageUrl": "https://famallnetwork.su/wp-content/uploads/2023/02/antiperspirant-carich-3-pv.jpg",
+      "confidence": "high",
+      "matchedName": "Антиперспирант Limancy"
+    }
   },
   {
     "id": "famall-037",
@@ -2817,7 +2843,7 @@
     "description": "LIMANCY Гель-пилинг 300 мл. Средства по уходу за телом",
     "retailPrice": 1000,
     "partnerPrice": 550,
-    "pv": 2.0,
+    "pv": 2,
     "image": "assets/images/products/39-limancy-g-el-piling.png",
     "imageType": "source",
     "gallery": [
@@ -2890,7 +2916,7 @@
     "description": "PREDAWN пластыри для стоп с травами. Описание будет дополнено после загрузки полного каталога FAMALL.",
     "retailPrice": 1100,
     "partnerPrice": 605,
-    "pv": 1.0,
+    "pv": 1,
     "image": "assets/images/products/famall-040-famallnetwork.jpg",
     "imageType": "source",
     "gallery": [
@@ -3154,7 +3180,7 @@
     "status": "published",
     "match": {
       "method": "exact_name",
-      "score": 1.0,
+      "score": 1,
       "sourceName": "LIMANCY Шампунь восстанавливающий",
       "source": "taplink"
     },
@@ -3251,7 +3277,7 @@
     "description": "LIMANCY Разглаживающий шампунь против перхоти с женьшенем и оливковым маслом. Описание будет дополнено после загрузки полного каталога FAMALL.",
     "retailPrice": 1100,
     "partnerPrice": 605,
-    "pv": 3.0,
+    "pv": 3,
     "image": "assets/images/products/placeholder.svg",
     "imageType": "premium_placeholder",
     "gallery": [
@@ -3332,7 +3358,7 @@
     "description": "LIMANCY Шампунь против жирности 400мл. Средства по уходу за волосами",
     "retailPrice": 570,
     "partnerPrice": 315,
-    "pv": 1.0,
+    "pv": 1,
     "image": "assets/images/products/placeholder.svg",
     "imageType": "premium_placeholder",
     "gallery": [
@@ -3539,7 +3565,7 @@
     "description": "ХАН Травяной шампунь с эссенцией имбиря 760ml. Средства по уходу за волосами",
     "retailPrice": 1300,
     "partnerPrice": 715,
-    "pv": 1.0,
+    "pv": 1,
     "image": "assets/images/products/49-han-travyanoy-shampun-s-essenciey-imbirya.png",
     "imageType": "source",
     "gallery": [
@@ -3611,7 +3637,7 @@
     "description": "ХАН Травяной шампунь с эссенцией женьшеня 760мл. Средства по уходу за волосами",
     "retailPrice": 1300,
     "partnerPrice": 715,
-    "pv": 1.0,
+    "pv": 1,
     "image": "assets/images/products/50-han-travyanoy-shampun-s-essenciey-zhenshenya.png",
     "imageType": "source",
     "gallery": [
@@ -3755,7 +3781,7 @@
     "description": "LIMANCY Эфирное масло для ухода за волосами 80мл. Средства по уходу за волосами",
     "retailPrice": 1130,
     "partnerPrice": 622,
-    "pv": 1.0,
+    "pv": 1,
     "image": "assets/images/products/placeholder.svg",
     "imageType": "premium_placeholder",
     "gallery": [
@@ -4281,7 +4307,7 @@
     "status": "published",
     "match": {
       "method": "exact_name",
-      "score": 1.0,
+      "score": 1,
       "sourceName": "LIMANCY  розовый гель для душа.",
       "source": "taplink"
     },
@@ -4486,7 +4512,7 @@
     "status": "published",
     "match": {
       "method": "exact_name",
-      "score": 1.0,
+      "score": 1,
       "sourceName": "LIMANCY Очищающая маска с бамбуковым углем.",
       "source": "taplink"
     },
@@ -4674,7 +4700,7 @@
     "description": "LIMANCY тоник с гиалуроновой кислотой №1. Описание будет дополнено после загрузки полного каталога FAMALL.",
     "retailPrice": 1920,
     "partnerPrice": 1056,
-    "pv": 3.0,
+    "pv": 3,
     "image": "assets/images/products/placeholder.svg",
     "imageType": "premium_placeholder",
     "gallery": [
@@ -4754,7 +4780,7 @@
     "description": "LIMANCY гидрогель с гиалуроновой кислотой №2. Описание будет дополнено после загрузки полного каталога FAMALL.",
     "retailPrice": 1800,
     "partnerPrice": 990,
-    "pv": 3.0,
+    "pv": 3,
     "image": "assets/images/products/placeholder.svg",
     "imageType": "premium_placeholder",
     "gallery": [
@@ -5108,7 +5134,7 @@
     "catalogSource": {
       "sourceImage": "assets/catalog-source/img551.jpg",
       "sourcePage": "551",
-      "matchScore": 1.0,
+      "matchScore": 1,
       "matchDetail": {
         "seq": 0.52,
         "jaccard": 0.364,
@@ -5427,7 +5453,7 @@
     "description": "LIMANCY отшелушивающий гель с алоэ 120г. Уходовая косметика для лица",
     "retailPrice": 736,
     "partnerPrice": 405,
-    "pv": 2.0,
+    "pv": 2,
     "image": "assets/images/products/75-limancy-otshelushivayuschiy-gel-s-aloe.jpg",
     "imageType": "source",
     "gallery": [
@@ -5646,7 +5672,7 @@
     "description": "LIMANCY Мужские духи 50 мл. Описание будет дополнено после загрузки полного каталога FAMALL.",
     "retailPrice": 2240,
     "partnerPrice": 1232,
-    "pv": 5.0,
+    "pv": 5,
     "image": "assets/images/products/famall-078-famallnetwork.jpg",
     "imageType": "source",
     "gallery": [
@@ -5702,7 +5728,7 @@
     "catalogSource": {
       "sourceImage": "assets/catalog-source/img457.jpg",
       "sourcePage": "457",
-      "matchScore": 1.0,
+      "matchScore": 1,
       "matchDetail": {
         "seq": 0.526,
         "jaccard": 0.333,
@@ -5814,7 +5840,7 @@
     "description": "LIMANCY Женские духи/Diva Parfum. Описание будет дополнено после загрузки полного каталога FAMALL.",
     "retailPrice": 2240,
     "partnerPrice": 1232,
-    "pv": 5.0,
+    "pv": 5,
     "image": "assets/images/products/placeholder.svg",
     "imageType": "premium_placeholder",
     "gallery": [
@@ -5870,7 +5896,7 @@
     "catalogSource": {
       "sourceImage": "assets/catalog-source/img456.jpg",
       "sourcePage": "456",
-      "matchScore": 1.0,
+      "matchScore": 1,
       "matchDetail": {
         "seq": 0.581,
         "jaccard": 0.25,
@@ -5896,7 +5922,7 @@
     "description": "BOCARE мужской спрей для задержки/ стойкость мужской силы. Описание будет дополнено после загрузки полного каталога FAMALL.",
     "retailPrice": 9800,
     "partnerPrice": 5390,
-    "pv": 25.0,
+    "pv": 25,
     "image": "assets/images/products/placeholder.svg",
     "imageType": "premium_placeholder",
     "gallery": [
@@ -5939,7 +5965,7 @@
     "status": "need_image",
     "match": {
       "method": "none",
-      "score": 0.0,
+      "score": 0,
       "sourceName": null
     },
     "priceSource": {
@@ -6381,12 +6407,12 @@
     "retailPrice": 1080,
     "partnerPrice": 594,
     "pv": 0.3,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/famall-087-famallnetwork.jpg",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
+        "type": "source",
+        "src": "assets/images/products/famall-087-famallnetwork.jpg",
         "alt": "BOCARE Ухаживающие вкладыши для мужин"
       }
     ],
@@ -6424,11 +6450,11 @@
       "Новинка"
     ],
     "stock": "in_stock",
-    "status": "need_image",
+    "status": "published",
     "match": {
-      "method": "none",
-      "score": 0.99,
-      "sourceName": null
+      "method": "famallnetwork_exact_image",
+      "score": 0.96,
+      "sourceName": "Вкладыши для мужчин ухаживающие"
     },
     "priceSource": {
       "type": "PDF",
@@ -6439,7 +6465,14 @@
     },
     "fullName": "BOCARE Ухаживающие вкладыши для мужин",
     "displayName": "BOCARE вкладыши для мужчин",
-    "needs_review": true
+    "needs_review": false,
+    "imageSource": {
+      "type": "FAMALL Network",
+      "url": "https://famallnetwork.su/product/vkladyshi-dlya-muzhchin-uhazhivayuschie-kupit-po-vygodnoy-tsene/",
+      "imageUrl": "https://famallnetwork.su/wp-content/uploads/2023/02/vkladyshi-dlya-muzhchin-uhazhivayuschiy.jpg",
+      "confidence": "high",
+      "matchedName": "Вкладыши для мужчин ухаживающие"
+    }
   },
   {
     "id": "famall-088",
@@ -6805,7 +6838,7 @@
     "status": "need_image",
     "match": {
       "method": "none",
-      "score": 1.0,
+      "score": 1,
       "sourceName": null
     },
     "priceSource": {
@@ -7185,7 +7218,7 @@
     "status": "need_image",
     "match": {
       "method": "none",
-      "score": 1.0,
+      "score": 1,
       "sourceName": null
     },
     "priceSource": {
@@ -7224,12 +7257,12 @@
     "retailPrice": 520,
     "partnerPrice": 286,
     "pv": 0.2,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/famall-098-famallnetwork.jpg",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
+        "type": "source",
+        "src": "assets/images/products/famall-098-famallnetwork.jpg",
         "alt": "LIMANCY Увлажняющий бальзам для губ с Алоэ"
       }
     ],
@@ -7267,12 +7300,11 @@
       "Новинка"
     ],
     "stock": "in_stock",
-    "status": "need_image",
+    "status": "published",
     "match": {
-      "method": "brand_keywords",
+      "method": "famallnetwork_exact_image",
       "score": 0.99,
-      "sourceName": "LIMANCY  бальзам для губ с алоэ",
-      "source": "taplink"
+      "sourceName": "Бальзам для губ с алоэ увлажняющий Limancy"
     },
     "priceSource": {
       "type": "PDF",
@@ -7283,7 +7315,14 @@
     },
     "fullName": "LIMANCY Увлажняющий бальзам для губ с Алоэ",
     "displayName": "LIMANCY бальзам для губ с алоэ",
-    "needs_review": true
+    "needs_review": false,
+    "imageSource": {
+      "type": "FAMALL Network",
+      "url": "https://famallnetwork.su/product/balzam-dlya-gub-s-aloe-uvlazhnyayuschiy-limancy-1-pv-kupit-po-vygodnoy-tsene/",
+      "imageUrl": "https://famallnetwork.su/wp-content/uploads/2023/02/balzam-dlya-gub-s-aloe-uvlazhnyayushchiy-limancy.jpg",
+      "confidence": "high",
+      "matchedName": "Бальзам для губ с алоэ увлажняющий Limancy"
+    }
   },
   {
     "id": "famall-099",
@@ -7296,7 +7335,7 @@
     "description": "MOREFUTURE пробиотический напиток с шиповником и овощами. Описание будет дополнено после загрузки полного каталога FAMALL.",
     "retailPrice": 2920,
     "partnerPrice": 1606,
-    "pv": 3.0,
+    "pv": 3,
     "image": "assets/images/products/placeholder.svg",
     "imageType": "premium_placeholder",
     "gallery": [
@@ -7343,7 +7382,7 @@
     "status": "need_image",
     "match": {
       "method": "none",
-      "score": 0.0,
+      "score": 0,
       "sourceName": null
     },
     "priceSource": {
@@ -7368,7 +7407,7 @@
     "description": "MOREFUTURE Кофе с женьшенем, кордицепсом и ганодермой. Описание будет дополнено после загрузки полного каталога FAMALL.",
     "retailPrice": 1420,
     "partnerPrice": 781,
-    "pv": 1.0,
+    "pv": 1,
     "image": "assets/images/products/placeholder.svg",
     "imageType": "premium_placeholder",
     "gallery": [
@@ -7415,7 +7454,7 @@
     "status": "need_image",
     "match": {
       "method": "none",
-      "score": 0.0,
+      "score": 0,
       "sourceName": null
     },
     "priceSource": {
@@ -7441,12 +7480,12 @@
     "retailPrice": 690,
     "partnerPrice": 380,
     "pv": 1.5,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/famall-101-famallnetwork.jpg",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
+        "type": "source",
+        "src": "assets/images/products/famall-101-famallnetwork.jpg",
         "alt": "MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие"
       }
     ],
@@ -7484,11 +7523,11 @@
       "Новинка"
     ],
     "stock": "in_stock",
-    "status": "need_image",
+    "status": "published",
     "match": {
-      "method": "none",
-      "score": 0.0,
-      "sourceName": null
+      "method": "famallnetwork_exact_image",
+      "score": 0.94,
+      "sourceName": "Витамин С со вкусом апельсина, шипучие таблетки"
     },
     "priceSource": {
       "type": "PDF",
@@ -7499,7 +7538,14 @@
     },
     "fullName": "MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие",
     "displayName": "MOREFUTURE витаминные конфеты",
-    "needs_review": true
+    "needs_review": false,
+    "imageSource": {
+      "type": "FAMALL Network",
+      "url": "https://famallnetwork.su/product/vitamin-s-so-vkusom-apelsina-shipuchie-tabletki-2-pv/",
+      "imageUrl": "https://famallnetwork.su/wp-content/uploads/2023/02/productshipuchie-tabletki-vitamina-s-so-vkusom-apelsina-2-pv.jpg",
+      "confidence": "high",
+      "matchedName": "Витамин С со вкусом апельсина, шипучие таблетки"
+    }
   },
   {
     "id": "famall-102",
@@ -7559,7 +7605,7 @@
     "status": "need_image",
     "match": {
       "method": "none",
-      "score": 0.0,
+      "score": 0,
       "sourceName": null
     },
     "priceSource": {
@@ -7585,12 +7631,12 @@
     "retailPrice": 1300,
     "partnerPrice": 715,
     "pv": 0.6,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/famall-103-famallnetwork.jpg",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
+        "type": "source",
+        "src": "assets/images/products/famall-103-famallnetwork.jpg",
         "alt": "Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах"
       }
     ],
@@ -7628,11 +7674,11 @@
       "Новинка"
     ],
     "stock": "in_stock",
-    "status": "need_image",
+    "status": "published",
     "match": {
-      "method": "none",
-      "score": 0.712,
-      "sourceName": null
+      "method": "famallnetwork_exact_image",
+      "score": 0.93,
+      "sourceName": "Бумага туалетная из бамбукового волокна MIAOROU"
     },
     "priceSource": {
       "type": "PDF",
@@ -7643,7 +7689,14 @@
     },
     "fullName": "Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах",
     "displayName": "Miao Rou бамбуковая бумага в рулонах",
-    "needs_review": true
+    "needs_review": false,
+    "imageSource": {
+      "type": "FAMALL Network",
+      "url": "https://famallnetwork.su/product/bumaga-tualetnaya-iz-bambukovogo-volokna-bez-otverstiya-miaorou/",
+      "imageUrl": "https://famallnetwork.su/wp-content/uploads/2023/02/miaorou_bumaga_tualetnaya_iz_bambukovogo_volokna__bez_otverstiya_.jpg",
+      "confidence": "high",
+      "matchedName": "Бумага туалетная из бамбукового волокна MIAOROU"
+    }
   },
   {
     "id": "famall-104",
