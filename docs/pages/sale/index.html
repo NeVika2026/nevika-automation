@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Акции FAMALL - выгодные товары</title>
+    <meta name="description" content="Акционные товары FAMALL с розничными ценами, фото и описаниями.">
+    <link rel="canonical" href="/pages/sale/">
+    <link rel="icon" href="../../assets/images/famall-logo.png?v=20260607">
+    <link rel="manifest" href="../../site.webmanifest">
+    <meta name="theme-color" content="#ff2942">
+    <link rel="stylesheet" href="../../assets/css/base/reset.css?v=20260619-2">
+    <link rel="stylesheet" href="../../assets/css/base/tokens.css?v=20260619-2">
+    <link rel="stylesheet" href="../../assets/css/base/global.css?v=20260619-2">
+    <link rel="stylesheet" href="../../assets/css/components/header.css?v=20260619-2">
+    <link rel="stylesheet" href="../../assets/css/components/footer.css?v=20260619-2">
+    <link rel="stylesheet" href="../../assets/css/pages/store.css?v=20260619-2">
+    <script type="module" src="../../assets/js/core/app.js?v=20260619-2"></script>
+  </head>
+  <body data-page="sale" data-product-collection="sale">
+    <header data-component="site-header"></header>
+    <main>
+      <section class="page-shell">
+        <header class="page-head">
+          <p class="page-head__eyebrow">FAMALL Offers</p>
+          <h1 class="page-head__title">Акции</h1>
+          <p class="page-head__text">Товары с заметной выгодой и актуальными ценами из PDF-прайса FAMALL.</p>
+        </header>
+        <div class="catalog-controls">
+          <label class="catalog-search">
+            <span>Поиск по акциям</span>
+            <input type="search" placeholder="Название, бренд или категория" data-catalog-search>
+          </label>
+          <div class="shop-toolbar" data-catalog-filters aria-label="Фильтры категорий"></div>
+        </div>
+        <div class="product-grid" data-products-grid></div>
+      </section>
+    </main>
+    <footer data-component="site-footer"></footer>
+  </body>
+</html>
