@@ -69,6 +69,34 @@
           </div>
         </section>
 
+        <section class="workbook-section workbook-ai" id="ai-helper" aria-labelledby="workbook-ai-title">
+          <div class="workbook-section__heading">
+            <h2 id="workbook-ai-title">ИИ-помощник для партнёра</h2>
+            <p class="workbook-ai__lead">Нужно быстро придумать картинку для поста, сторис или объявления? Напиши идею, скопируй готовый промпт и открой нейросеть, которая работает в России без VPN.</p>
+          </div>
+
+          <div class="workbook-ai__card">
+            <label class="workbook-ai__label" for="workbook-ai-idea">Ваша идея</label>
+            <textarea
+              class="workbook-ai__input"
+              id="workbook-ai-idea"
+              rows="3"
+              placeholder="Например: сделай картинку для поста про старт в FAMALL, без пафоса, в красно-белом стиле"
+            ></textarea>
+
+            <p class="workbook-ai__template-label">Готовый промпт</p>
+            <pre class="workbook-ai__prompt" id="workbook-ai-prompt" aria-live="polite"></pre>
+
+            <div class="button-row workbook-ai__actions">
+              <button class="button" type="button" id="workbook-ai-copy" disabled>Скопировать промпт</button>
+              <a class="button button--secondary" href="https://shedevrum.ai/" target="_blank" rel="noopener">Открыть Шедеврум</a>
+              <a class="button button--secondary" href="https://www.sberbank.com/sberai/gigachat/kandinsky/" target="_blank" rel="noopener">Открыть Kandinsky</a>
+            </div>
+
+            <p class="workbook-ai__status" id="workbook-ai-status" aria-live="polite"></p>
+          </div>
+        </section>
+
         <section class="workbook-benefits" aria-labelledby="workbook-benefits-title">
           <h2 id="workbook-benefits-title">Что вы получите</h2>
           <div class="workbook-benefits__grid">
@@ -134,5 +162,68 @@
       </div>
     </main>
     <footer data-component="site-footer"></footer>
+    <script>
+      (function () {
+        var ideaInput = document.getElementById("workbook-ai-idea");
+        var promptEl = document.getElementById("workbook-ai-prompt");
+        var copyBtn = document.getElementById("workbook-ai-copy");
+        var statusEl = document.getElementById("workbook-ai-status");
+        var styleLine = "Стиль: современный, чистый, красно-белая палитра FAMALL, без перегруза, без мелкого текста, формат 1:1, подходит для VK и Telegram.";
+
+        if (!ideaInput || !promptEl || !copyBtn) {
+          return;
+        }
+
+        function buildPrompt(idea) {
+          return "Создай изображение для поста в соцсетях на тему: " + idea.trim() + ".\n" + styleLine;
+        }
+
+        function showTemplate(idea) {
+          var topic = idea.trim() || "[текст из поля]";
+          promptEl.textContent = "Создай изображение для поста в соцсетях на тему: " + topic + ".\n" + styleLine;
+        }
+
+        function updatePrompt() {
+          var idea = ideaInput.value;
+          showTemplate(idea);
+          copyBtn.disabled = !idea.trim();
+          statusEl.textContent = "";
+        }
+
+        function copyPrompt() {
+          var idea = ideaInput.value.trim();
+          if (!idea) {
+            return;
+          }
+
+          var text = buildPrompt(idea);
+
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(text).then(function () {
+              statusEl.textContent = "Промпт скопирован";
+            }).catch(fallbackCopy);
+          } else {
+            fallbackCopy();
+          }
+
+          function fallbackCopy() {
+            var area = document.createElement("textarea");
+            area.value = text;
+            area.setAttribute("readonly", "");
+            area.style.position = "absolute";
+            area.style.left = "-9999px";
+            document.body.appendChild(area);
+            area.select();
+            document.execCommand("copy");
+            document.body.removeChild(area);
+            statusEl.textContent = "Промпт скопирован";
+          }
+        }
+
+        ideaInput.addEventListener("input", updatePrompt);
+        copyBtn.addEventListener("click", copyPrompt);
+        updatePrompt();
+      })();
+    </script>
   </body>
 </html>

@@ -575,3 +575,86 @@
     padding: 24px;
   }
 }
+
+.workbook-ai__lead {
+  max-width: 760px;
+  margin: 0;
+  color: var(--color-soft-graphite);
+  line-height: 1.65;
+}
+
+.workbook-ai__card {
+  display: grid;
+  gap: 16px;
+  padding: clamp(24px, 4vw, 36px);
+  border: 1px solid rgba(255, 41, 66, 0.14);
+  border-radius: 24px;
+  background: #ffffff;
+  box-shadow: 0 18px 48px rgba(32, 35, 45, 0.08);
+}
+
+.workbook-ai__label,
+.workbook-ai__template-label {
+  margin: 0;
+  color: var(--color-graphite);
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+.workbook-ai__input {
+  width: 100%;
+  padding: 16px 18px;
+  border: 1px solid rgba(255, 41, 66, 0.18);
+  border-radius: 16px;
+  background: #ffffff;
+  color: var(--color-graphite);
+  font: inherit;
+  line-height: 1.5;
+  resize: vertical;
+}
+
+.workbook-ai__input:focus {
+  outline: 2px solid rgba(255, 41, 66, 0.24);
+  outline-offset: 2px;
+}
+
+.workbook-ai__input::placeholder {
+  color: #9aa0ad;
+}
+
+.workbook-ai__prompt {
+  margin: 0;
+  padding: 18px 20px;
+  border: 1px solid rgba(255, 41, 66, 0.12);
+  border-radius: 16px;
+  background: #fffafb;
+  color: #3a3d46;
+  font: inherit;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.workbook-ai__actions {
+  flex-wrap: wrap;
+}
+
+.workbook-ai__actions .button[disabled] {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.workbook-ai__status {
+  min-height: 1.4em;
+  margin: 0;
+  color: #ff2942;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+@media (max-width: 620px) {
+  .workbook-ai__actions .button {
+    width: 100%;
+  }
+}
