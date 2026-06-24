@@ -188,3 +188,34 @@
     width: 100%;
   }
 }
+.workbook-hero--simple {
+  display: block !important;
+  max-width: 920px;
+  margin: 0 auto 64px;
+  padding: clamp(32px, 6vw, 72px) 0;
+}
+
+.workbook-hero--simple .workbook-hero__content {
+  max-width: 760px;
+}
+
+.workbook-hero--simple h1 {
+  max-width: 760px;
+}
+
+.workbook-hero--simple .workbook-hero__lead {
+  max-width: 720px;
+}
+
+.workbook-hero--simple .workbook-hero__description {
+  max-width: 680px;
+}
+
+.workbook-hero--simple::before,
+.workbook-hero--simple::after {
+  display: none !important;
+}
+
+.workbook-cover {
+  display: none !important;
+}
