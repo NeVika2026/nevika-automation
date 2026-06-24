@@ -1,79 +1,57 @@
 .workbook-page {
+  width: min(100% - var(--page-gutter) * 2, 1200px);
   display: grid;
-  gap: 72px;
+  gap: clamp(56px, 8vw, 96px);
+  padding-top: clamp(40px, 6vw, 64px);
+  padding-bottom: clamp(64px, 8vw, 96px);
+}
+
+.workbook-eyebrow {
+  margin: 0;
+  color: #ff2942;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .workbook-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 320px);
-  gap: clamp(24px, 4vw, 48px);
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 360px);
+  gap: clamp(28px, 5vw, 56px);
   align-items: center;
+  padding: clamp(28px, 5vw, 48px);
+  border: 1px solid #ffe0e6;
+  border-radius: 28px;
+  background: linear-gradient(145deg, #fffafb 0%, #ffffff 58%);
+  box-shadow: 0 24px 60px rgba(255, 41, 66, 0.08);
 }
 
 .workbook-hero__content {
   display: grid;
-  gap: 18px;
-}
-
-.workbook-hero__card {
-  display: grid;
-  gap: 14px;
-  width: 100%;
-  max-width: 320px;
-  padding: 24px;
-  border: 1px solid #ffd1da;
-  border-radius: 12px;
-  background: #ffffff;
-  box-shadow: 0 12px 28px rgba(32, 33, 36, 0.08);
-  justify-self: center;
-}
-
-.workbook-hero__card-title {
-  color: var(--color-brand-red);
-  font-size: 22px;
-  font-weight: 800;
-  line-height: 1.2;
-}
-
-.workbook-hero__card-list {
-  display: grid;
-  gap: 8px;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  color: var(--color-graphite);
-  font-size: 16px;
-  font-weight: 600;
-  line-height: 1.4;
-}
-
-.workbook-hero__card-price {
-  padding-top: 14px;
-  border-top: 1px solid #ffd1da;
-  color: var(--color-brand-red);
-  font-size: 32px;
-  font-weight: 900;
-  line-height: 1;
+  gap: 20px;
 }
 
 .workbook-hero__content h1,
 .workbook-section__heading h2,
+.workbook-benefits h2,
 .workbook-cta h2 {
   margin: 0;
   color: var(--color-graphite);
-  letter-spacing: 0;
-  line-height: 1.04;
+  letter-spacing: -0.02em;
+  line-height: 1.05;
 }
 
 .workbook-hero__content h1 {
-  font-size: clamp(42px, 6vw, 72px);
+  font-size: clamp(38px, 5vw, 64px);
+  max-width: 14ch;
 }
 
 .workbook-hero__lead,
 .workbook-hero__description,
 .workbook-section__heading p,
-.workbook-cta p {
-  max-width: 720px;
+.workbook-cta__text {
+  max-width: 640px;
   margin: 0;
   color: var(--color-soft-graphite);
   line-height: 1.65;
@@ -81,15 +59,124 @@
 
 .workbook-hero__lead {
   color: var(--color-graphite);
-  font-size: 20px;
+  font-size: clamp(18px, 2.2vw, 22px);
   font-weight: 700;
 }
 
 .workbook-price {
-  color: var(--color-brand-red);
-  font-size: clamp(34px, 5vw, 52px);
+  color: #ff2942;
+  font-size: clamp(36px, 5vw, 56px);
   font-weight: 900;
   line-height: 1;
+}
+
+.workbook-hero__card {
+  display: grid;
+  gap: 16px;
+  width: 100%;
+  max-width: 320px;
+  padding: 28px 24px;
+  border: 2px solid #ff2942;
+  border-radius: 24px;
+  background: #ffffff;
+  box-shadow: 0 16px 40px rgba(255, 41, 66, 0.12);
+  justify-self: center;
+}
+
+.workbook-hero__card-label {
+  margin: 0;
+  color: #ff2942;
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+}
+
+.workbook-hero__card-subtitle {
+  margin: 0;
+  color: var(--color-graphite);
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+}
+
+.workbook-hero__card-list {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.workbook-hero__card-list li {
+  position: relative;
+  padding-left: 24px;
+  color: var(--color-graphite);
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.workbook-hero__card-list li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #ff2942;
+  font-weight: 800;
+}
+
+.workbook-hero__card-price {
+  margin: 4px 0 0;
+  padding-top: 18px;
+  border-top: 1px solid #ffe0e6;
+  color: #ff2942;
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.workbook-benefits {
+  display: grid;
+  gap: 24px;
+}
+
+.workbook-benefits h2 {
+  font-size: clamp(28px, 4vw, 40px);
+}
+
+.workbook-benefits__grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.workbook-benefit-card {
+  display: grid;
+  gap: 10px;
+  min-height: 100%;
+  padding: 22px;
+  border: 1px solid #ffe0e6;
+  border-radius: 20px;
+  background: #ffffff;
+  box-shadow: 0 10px 28px rgba(32, 33, 36, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.workbook-benefit-card:hover {
+  transform: translateY(-4px);
+  border-color: #ff5b6e;
+  box-shadow: 0 18px 36px rgba(255, 41, 66, 0.12);
+}
+
+.workbook-benefit-card strong {
+  color: var(--color-graphite);
+  font-size: 18px;
+  line-height: 1.25;
+}
+
+.workbook-benefit-card span {
+  color: var(--color-soft-graphite);
+  font-size: 14px;
+  line-height: 1.55;
 }
 
 .workbook-section {
@@ -99,18 +186,117 @@
 
 .workbook-section__heading {
   display: grid;
-  gap: 10px;
+  gap: 12px;
 }
 
 .workbook-section__heading h2,
 .workbook-cta h2 {
-  font-size: clamp(32px, 4vw, 48px);
+  font-size: clamp(28px, 4vw, 44px);
+}
+
+.workbook-contents-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.workbook-feature-card {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  gap: 10px;
+  min-height: 156px;
+  padding: 22px 20px 20px 72px;
+  border: 1px solid #ffe0e6;
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 8px 24px rgba(32, 33, 36, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.workbook-feature-card::before {
+  content: "";
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  margin-left: -52px;
+  margin-top: 2px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #ff2942, #ff5b6e);
+  box-shadow: 0 8px 18px rgba(255, 41, 66, 0.22);
+}
+
+.workbook-feature-card {
+  position: relative;
+}
+
+.workbook-feature-card--lessons::after,
+.workbook-feature-card--math::after,
+.workbook-feature-card--goals::after,
+.workbook-feature-card--contacts::after,
+.workbook-feature-card--checklist::after,
+.workbook-feature-card--prompts::after,
+.workbook-feature-card--objections::after,
+.workbook-feature-card--plan::after {
+  position: absolute;
+  top: 28px;
+  left: 28px;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.workbook-feature-card--lessons::after { content: "10"; }
+.workbook-feature-card--math::after { content: "×"; }
+.workbook-feature-card--goals::after { content: "◎"; }
+.workbook-feature-card--contacts::after { content: "☎"; }
+.workbook-feature-card--checklist::after { content: "✓"; }
+.workbook-feature-card--prompts::after { content: "AI"; font-size: 11px; }
+.workbook-feature-card--objections::after { content: "?"; }
+.workbook-feature-card--plan::after { content: "90"; font-size: 11px; }
+
+.workbook-feature-card:hover {
+  transform: translateY(-4px);
+  border-color: #ff5b6e;
+  box-shadow: 0 16px 36px rgba(255, 41, 66, 0.12);
+}
+
+.workbook-feature-card strong {
+  color: var(--color-graphite);
+  font-size: 18px;
+  line-height: 1.25;
+}
+
+.workbook-feature-card span {
+  color: var(--color-soft-graphite);
+  line-height: 1.5;
+  font-size: 14px;
+}
+
+.workbook-section--preview {
+  padding: clamp(24px, 4vw, 36px);
+  border-radius: 28px;
+  background: linear-gradient(180deg, #fff7f8 0%, #ffffff 100%);
+}
+
+.workbook-preview-badge {
+  display: inline-flex;
+  width: fit-content;
+  margin: 0;
+  padding: 10px 16px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #ff2942, #ff5b6e);
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  box-shadow: 0 10px 24px rgba(255, 41, 66, 0.24);
 }
 
 .workbook-preview-grid {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
-  gap: clamp(12px, 2vw, 20px);
+  gap: clamp(14px, 2vw, 22px);
 }
 
 .workbook-preview-card {
@@ -118,16 +304,16 @@
   margin: 0;
   aspect-ratio: 210 / 297;
   overflow: hidden;
-  border: 1px solid #ffd1da;
-  border-radius: 8px;
+  border: 1px solid #ffe0e6;
+  border-radius: 20px;
   background: #ffffff;
-  box-shadow: 0 12px 28px rgba(32, 33, 36, 0.1);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 14px 32px rgba(32, 33, 36, 0.1);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 .workbook-preview-card:hover {
-  transform: scale(1.03);
-  box-shadow: 0 16px 36px rgba(32, 33, 36, 0.14);
+  transform: translateY(-8px);
+  box-shadow: 0 24px 48px rgba(255, 41, 66, 0.18);
 }
 
 .workbook-preview-card img {
@@ -137,44 +323,44 @@
   object-fit: contain;
 }
 
-.workbook-contents-grid {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 14px;
-}
-
-.workbook-contents-grid article {
-  display: grid;
-  gap: 8px;
-  min-height: 128px;
-  padding: 20px;
-  border: 1px solid #ffd1da;
-  border-radius: 8px;
-  background: linear-gradient(145deg, #fff0f3, #ffffff 72%);
-}
-
-.workbook-contents-grid strong {
-  color: var(--color-graphite);
-  font-size: 20px;
-}
-
-.workbook-contents-grid span {
-  color: var(--color-soft-graphite);
-  line-height: 1.45;
-}
-
 .workbook-cta {
   display: grid;
-  gap: 16px;
-  padding: clamp(24px, 5vw, 48px);
-  border-top: 1px solid #ffd1da;
-  border-bottom: 1px solid #ffd1da;
-  background: linear-gradient(135deg, #fff8f9, #ffffff 72%);
+  gap: 20px;
+  padding: clamp(32px, 5vw, 56px);
+  border-radius: 28px;
+  background: linear-gradient(135deg, #ff2942 0%, #ff5b6e 100%);
+  box-shadow: 0 24px 56px rgba(255, 41, 66, 0.28);
+  color: #ffffff;
+}
+
+.workbook-cta h2,
+.workbook-cta__text {
+  color: #ffffff;
+}
+
+.workbook-cta__text {
+  font-size: clamp(16px, 2vw, 20px);
+  line-height: 1.7;
 }
 
 .workbook-note {
   color: var(--color-soft-graphite);
   font-size: 13px;
+}
+
+.workbook-note--light {
+  color: rgba(255, 255, 255, 0.82);
+}
+
+@media (max-width: 1024px) {
+  .workbook-benefits__grid,
+  .workbook-contents-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .workbook-preview-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 }
 
 @media (max-width: 900px) {
@@ -188,69 +374,36 @@
 
   .workbook-hero__card {
     order: 2;
+    max-width: 100%;
   }
 
-  .workbook-preview-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
-  .workbook-contents-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+  .workbook-hero__content h1 {
+    max-width: none;
   }
 }
 
 @media (max-width: 560px) {
   .workbook-page {
-    gap: 52px;
+    gap: 48px;
   }
 
   .workbook-hero__content h1 {
-    font-size: 40px;
+    font-size: 36px;
+  }
+
+  .workbook-benefits__grid,
+  .workbook-contents-grid,
+  .workbook-preview-grid {
+    grid-template-columns: 1fr;
   }
 
   .workbook-preview-grid {
-    grid-template-columns: 1fr;
     max-width: 320px;
     margin: 0 auto;
-  }
-
-  .workbook-contents-grid {
-    grid-template-columns: 1fr;
   }
 
   .workbook-cta .button-row .button,
   .workbook-hero .button-row .button {
     width: 100%;
   }
-}
-.workbook-hero--simple {
-  display: block !important;
-  max-width: 920px;
-  margin: 0 auto 64px;
-  padding: clamp(32px, 6vw, 72px) 0;
-}
-
-.workbook-hero--simple .workbook-hero__content {
-  max-width: 760px;
-}
-
-.workbook-hero--simple h1 {
-  max-width: 760px;
-}
-
-.workbook-hero--simple .workbook-hero__lead {
-  max-width: 720px;
-}
-
-.workbook-hero--simple .workbook-hero__description {
-  max-width: 680px;
-}
-
-.workbook-hero--simple::before,
-.workbook-hero--simple::after {
-  display: none !important;
-}
-
-.workbook-cover {
-  display: none !important;
 }
