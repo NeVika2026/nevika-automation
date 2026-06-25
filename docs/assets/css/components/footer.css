@@ -39,6 +39,15 @@
   line-height: 1.55;
 }
 
+.site-footer__inner--compact {
+  grid-template-columns: 1fr;
+  padding-bottom: 18px;
+}
+
+.site-footer__inner--compact .site-footer__brand p + p {
+  margin-top: 6px;
+}
+
 .site-footer a {
   color: #20232a;
 }
