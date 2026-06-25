@@ -90,13 +90,14 @@
     "retailPrice": 840,
     "partnerPrice": 462,
     "pv": 0.3,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/2-berclean-moyuschee-sredstvo-dlya-mytya-posudy-s-ekstraktom-limona.jpg",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
-        "alt": "BERCLEAN Моющее средство для мытья посуды с экстрактом лимона"
+        "type": "source",
+        "src": "assets/images/products/2-berclean-moyuschee-sredstvo-dlya-mytya-posudy-s-ekstraktom-limona.jpg",
+        "alt": "BERCLEAN Моющее средство для мытья посуды с экстрактом лимона",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -1124,13 +1125,14 @@
     "retailPrice": 1120,
     "partnerPrice": 615,
     "pv": 0.6,
-    "image": "assets/images/products/famall-016-famallnetwork.jpg",
+    "image": "assets/images/products/16-berclean-zhidkost-dlya-stirki-avtomat.jpg",
     "imageType": "source",
     "gallery": [
       {
         "type": "source",
-        "src": "assets/images/products/famall-016-famallnetwork.jpg",
-        "alt": "BERCLEAN Жидкость для стирки/ автомат"
+        "src": "assets/images/products/16-berclean-zhidkost-dlya-stirki-avtomat.jpg",
+        "alt": "BERCLEAN Жидкость для стирки/ автомат",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -2180,13 +2182,14 @@
     "retailPrice": 480,
     "partnerPrice": 264,
     "pv": 0.3,
-    "image": "assets/images/products/famall-030-famallnetwork.jpg",
+    "image": "assets/images/products/30-yijian-travyannaya-zubnaya-pasta.png",
     "imageType": "source",
     "gallery": [
       {
         "type": "source",
-        "src": "assets/images/products/famall-030-famallnetwork.jpg",
-        "alt": "YIJIAN Травянная зубная паста"
+        "src": "assets/images/products/30-yijian-travyannaya-zubnaya-pasta.png",
+        "alt": "YIJIAN Травянная зубная паста",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -2331,13 +2334,14 @@
     "retailPrice": 440,
     "partnerPrice": 242,
     "pv": 0.6,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/32-okfad-zubnaya-schetka-dlya-glubokoy-chistki-zubov-2-shtuki-v-nabore.png",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
-        "alt": "OKFAD Зубная щетка для глубокой чистки зубов 2 штуки в наборе"
+        "type": "source",
+        "src": "assets/images/products/32-okfad-zubnaya-schetka-dlya-glubokoy-chistki-zubov-2-shtuki-v-nabore.png",
+        "alt": "OKFAD Зубная щетка для глубокой чистки зубов 2 штуки в наборе",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -2625,13 +2629,14 @@
     "retailPrice": 700,
     "partnerPrice": 358,
     "pv": 2,
-    "image": "assets/images/products/famall-036-famallnetwork.jpg",
+    "image": "assets/images/products/36-limancy-antiperspirant-sharikovyy.jpg",
     "imageType": "source",
     "gallery": [
       {
         "type": "source",
-        "src": "assets/images/products/famall-036-famallnetwork.jpg",
-        "alt": "LIMANCY Антиперспирант шариковый"
+        "src": "assets/images/products/36-limancy-antiperspirant-sharikovyy.jpg",
+        "alt": "LIMANCY Антиперспирант шариковый",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -2917,13 +2922,14 @@
     "retailPrice": 1100,
     "partnerPrice": 605,
     "pv": 1,
-    "image": "assets/images/products/famall-040-famallnetwork.jpg",
+    "image": "assets/images/products/40-predawn-plastyri-dlya-stop-s-travami.jpg",
     "imageType": "source",
     "gallery": [
       {
         "type": "source",
-        "src": "assets/images/products/famall-040-famallnetwork.jpg",
-        "alt": "PREDAWN пластыри для стоп с травами"
+        "src": "assets/images/products/40-predawn-plastyri-dlya-stop-s-travami.jpg",
+        "alt": "PREDAWN пластыри для стоп с травами",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -3782,13 +3788,14 @@
     "retailPrice": 1130,
     "partnerPrice": 622,
     "pv": 1,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/52-limancy-efirnoe-maslo-dlya-uhoda-protiv-suhosti-volos.jpg",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
-        "alt": "LIMANCY Эфирное масло для ухода против сухости волос"
+        "type": "source",
+        "src": "assets/images/products/52-limancy-efirnoe-maslo-dlya-uhoda-protiv-suhosti-volos.jpg",
+        "alt": "LIMANCY Эфирное масло для ухода против сухости волос",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -3923,13 +3930,14 @@
     "retailPrice": 720,
     "partnerPrice": 396,
     "pv": 1.5,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/54-limancy-loson-dlya-tela-s-ekstraktom-polyni.png",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
-        "alt": "LIMANCY Лосьон для тела с экстрактом полыни"
+        "type": "source",
+        "src": "assets/images/products/54-limancy-loson-dlya-tela-s-ekstraktom-polyni.png",
+        "alt": "LIMANCY Лосьон для тела с экстрактом полыни",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -4127,13 +4135,14 @@
     "retailPrice": 960,
     "partnerPrice": 528,
     "pv": 1.5,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/57-limancy-kondicionerdlya-volos-s-polynyu.jpg",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
-        "alt": "LIMANCY кондиционердля волос с полынью"
+        "type": "source",
+        "src": "assets/images/products/57-limancy-kondicionerdlya-volos-s-polynyu.jpg",
+        "alt": "LIMANCY кондиционердля волос с полынью",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -4196,13 +4205,14 @@
     "retailPrice": 640,
     "partnerPrice": 352,
     "pv": 0.1,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/58-limancy-pitatelnyy-i-uvlazhnyayuschiy-gel-dlya-dusha-iz-serii-s-shelkom.png",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
-        "alt": "LIMANCY Питательный и увлажняющий гель для душа из серии \"с шелком\""
+        "type": "source",
+        "src": "assets/images/products/58-limancy-pitatelnyy-i-uvlazhnyayuschiy-gel-dlya-dusha-iz-serii-s-shelkom.png",
+        "alt": "LIMANCY Питательный и увлажняющий гель для душа из серии \"с шелком\"",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -5522,13 +5532,14 @@
     "retailPrice": 560,
     "partnerPrice": 308,
     "pv": 0.3,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/76-limancy-uvlazhnyayuschee-ochischayuschee-sredstvo-s-aloe.png",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
-        "alt": "LIMANCY Увлажняющее очищающее средство с Алоэ"
+        "type": "source",
+        "src": "assets/images/products/76-limancy-uvlazhnyayuschee-ochischayuschee-sredstvo-s-aloe.png",
+        "alt": "LIMANCY Увлажняющее очищающее средство с Алоэ",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -5604,13 +5615,14 @@
     "retailPrice": 840,
     "partnerPrice": 462,
     "pv": 0.3,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/77-limancy-uvlazhnyayuschiy-gel-dlya-dusha-s-ekstraktom-moloka.png",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
-        "alt": "LIMANCY увлажняющий гель для душа с экстрактом молока"
+        "type": "source",
+        "src": "assets/images/products/77-limancy-uvlazhnyayuschiy-gel-dlya-dusha-s-ekstraktom-moloka.png",
+        "alt": "LIMANCY увлажняющий гель для душа с экстрактом молока",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -7014,13 +7026,14 @@
     "retailPrice": 2320,
     "partnerPrice": 1276,
     "pv": 2.5,
-    "image": "assets/images/products/placeholder.svg",
-    "imageType": "premium_placeholder",
+    "image": "assets/images/products/95-limancy-uvlazhnyayuschiy-vozdushnyy-kushon-naturalnogo-cveta-002-cc-kushon-s-zapasnym-b.png",
+    "imageType": "source",
     "gallery": [
       {
-        "type": "premium_placeholder",
-        "src": "assets/images/products/placeholder.svg",
-        "alt": "LIMANCY Увлажняющий воздушный кушон (натурального цвета 002) CC- кушон с запасным блоком"
+        "type": "source",
+        "src": "assets/images/products/95-limancy-uvlazhnyayuschiy-vozdushnyy-kushon-naturalnogo-cveta-002-cc-kushon-s-zapasnym-b.png",
+        "alt": "LIMANCY Увлажняющий воздушный кушон (натурального цвета 002) CC- кушон с запасным блоком",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [
@@ -7257,13 +7270,14 @@
     "retailPrice": 520,
     "partnerPrice": 286,
     "pv": 0.2,
-    "image": "assets/images/products/famall-098-famallnetwork.jpg",
+    "image": "assets/images/products/98-limancy-uvlazhnyayuschiy-balzam-dlya-gub-s-aloe.png",
     "imageType": "source",
     "gallery": [
       {
         "type": "source",
-        "src": "assets/images/products/famall-098-famallnetwork.jpg",
-        "alt": "LIMANCY Увлажняющий бальзам для губ с Алоэ"
+        "src": "assets/images/products/98-limancy-uvlazhnyayuschiy-balzam-dlya-gub-s-aloe.png",
+        "alt": "LIMANCY Увлажняющий бальзам для губ с Алоэ",
+        "source": "project/local-file"
       }
     ],
     "characteristics": [

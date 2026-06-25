@@ -1,0 +1,64 @@
+sku,name,old_image,new_image,source,confidence,status
+FAMALL-002,BERCLEAN Моющее средство для мытья посуды с экстрактом лимона,assets/images/products/placeholder.svg,assets/images/products/2-berclean-moyuschee-sredstvo-dlya-mytya-posudy-s-ekstraktom-limona.jpg,project/local-file,0.950,updated
+FAMALL-003,BERCLEAN Моющее средство для мытья посуды с экстрактом апельсина,assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.941,needs-review
+FAMALL-004,BERCLEAN Жидкость для мытья посуды с экстрактом бамбука,assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.752,needs-review
+FAMALL-005,Многофункциональные одноразовые салфетки из бамбука,assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.680,needs-review
+FAMALL-006,Уплотненные пищевые пакеты для хранения продуктов р-р 25*35/,assets/images/products/famall-006-famallnetwork.jpg,,,0.000,not-found
+FAMALL-007,"Набор салфеток для мытья посуды и уборки р-р 25*25, 3 штуки",assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.826,needs-review
+FAMALL-008,OKFAD Набор для очищения,assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-009,Сжатое полотенце из хлопка 22 штуки в наборе,assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-011,MIAOROU Влажные салфетки для кухнир-р 20*25,assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.643,needs-review
+FAMALL-012,Очиститель барабана стиральной машины 3 шт *,assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.677,needs-review
+FAMALL-013,"BERCLEAN Шарики для защиты цвета, аромат природы",assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.596,needs-review
+FAMALL-014,"BERCLEAN Шарики для защиты цвета, аромат сакуры",assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.602,needs-review
+FAMALL-015,"BERCLEAN Шарики для защиты цвета, аромат цветов",assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.602,needs-review
+FAMALL-016,BERCLEAN Жидкость для стирки/ автомат,assets/images/products/famall-016-famallnetwork.jpg,assets/images/products/16-berclean-zhidkost-dlya-stirki-avtomat.jpg,project/local-file,0.950,updated
+FAMALL-017,BERCLEAN Жидкость для стирки/ ручная стирка/ машинная,assets/images/products/famall-017-famallnetwork.jpg,,project/local-file-fuzzy,0.727,needs-review
+FAMALL-018,Miubaby специальное средство для стирки детских вещей,assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-020,Быстродействующий гель для чистки унитазав(усиленный),assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-021,"Средство для чистки унитаза ""Утенок""",assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.664,needs-review
+FAMALL-022,YIJIAN COOL Холодная водорослевая зубная паста без фтора со вкусом Лунцзин и мяты,assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-029,"Miubaby ДЕТСКАЯ Уход за деснами, зубами, профилактическая зубная паста",assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.580,needs-review
+FAMALL-030,YIJIAN Травянная зубная паста,assets/images/products/famall-030-famallnetwork.jpg,assets/images/products/30-yijian-travyannaya-zubnaya-pasta.png,project/local-file,0.950,updated
+FAMALL-032,OKFAD Зубная щетка для глубокой чистки зубов 2 штуки в наборе,assets/images/products/placeholder.svg,assets/images/products/32-okfad-zubnaya-schetka-dlya-glubokoy-chistki-zubov-2-shtuki-v-nabore.png,project/local-file,0.950,updated
+FAMALL-033,LIMANCY Антисептическая массажная жидкость с китайской травами,assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-035,LIMANCY Крем для рук (фруктовый микс/спокойствие),assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.844,needs-review
+FAMALL-036,LIMANCY Антиперспирант шариковый,assets/images/products/famall-036-famallnetwork.jpg,assets/images/products/36-limancy-antiperspirant-sharikovyy.jpg,project/local-file,0.950,updated
+FAMALL-038,LIMANCY Эссенция для ухода за кожей,assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.660,needs-review
+FAMALL-040,PREDAWN пластыри для стоп с травами,assets/images/products/famall-040-famallnetwork.jpg,assets/images/products/40-predawn-plastyri-dlya-stop-s-travami.jpg,project/local-file,0.950,updated
+FAMALL-045,LIMANCY Разглаживающий шампунь против перхоти с женьшенем и оливковым маслом,assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-046,LIMANCY Шампунь от перхоти с желтым имбирем,assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.683,needs-review
+FAMALL-048,LIMANCY Шампунь Против Выпадения Волос,assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.727,needs-review
+FAMALL-052,LIMANCY Эфирное масло для ухода против сухости волос,assets/images/products/placeholder.svg,assets/images/products/52-limancy-efirnoe-maslo-dlya-uhoda-protiv-suhosti-volos.jpg,project/local-file,0.950,updated
+FAMALL-053,LIMANCY Освежающий солнцезащитный крем SPF50/50g,assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.588,needs-review
+FAMALL-054,LIMANCY Лосьон для тела с экстрактом полыни,assets/images/products/placeholder.svg,assets/images/products/54-limancy-loson-dlya-tela-s-ekstraktom-polyni.png,project/local-file,0.950,updated
+FAMALL-057,LIMANCY кондиционердля волос с полынью,assets/images/products/placeholder.svg,assets/images/products/57-limancy-kondicionerdlya-volos-s-polynyu.jpg,project/local-file,0.950,updated
+FAMALL-058,"LIMANCY Питательный и увлажняющий гель для душа из серии ""с шелком""",assets/images/products/placeholder.svg,assets/images/products/58-limancy-pitatelnyy-i-uvlazhnyayuschiy-gel-dlya-dusha-iz-serii-s-shelkom.png,project/local-file,0.950,updated
+FAMALL-061,LIMANCY Укрепляющая и осветляющая маска для лица с женьшенем,assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-064,LIMANCY Увлажняющая маска для лица с огуречным соком,assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.673,needs-review
+FAMALL-065,LIMANCY тоник с гиалуроновой кислотой №1,assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.597,needs-review
+FAMALL-066,LIMANCY гидрогель с гиалуроновой кислотой №2,assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.604,needs-review
+FAMALL-067,LIMANCY сыворотка с гиалуроновой кислотой №3,assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.594,needs-review
+FAMALL-070,BERCLEAN Жидкое мыло для рук с экстрактом ромашки,assets/images/products/famall-070-famallnetwork.jpg,,project/local-file-fuzzy,0.868,needs-review
+FAMALL-076,LIMANCY Увлажняющее очищающее средство с Алоэ,assets/images/products/placeholder.svg,assets/images/products/76-limancy-uvlazhnyayuschee-ochischayuschee-sredstvo-s-aloe.png,project/local-file,0.950,updated
+FAMALL-077,LIMANCY увлажняющий гель для душа с экстрактом молока,assets/images/products/placeholder.svg,assets/images/products/77-limancy-uvlazhnyayuschiy-gel-dlya-dusha-s-ekstraktom-moloka.png,project/local-file,0.950,updated
+FAMALL-078,LIMANCY Мужские духи 50 мл,assets/images/products/famall-078-famallnetwork.jpg,,,0.000,not-found
+FAMALL-079,LIMANCY №1 Духи/Parfum,assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-080,LIMANCY Женские духи/Diva Parfum,assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-081,BOCARE мужской спрей для задержки/ стойкость мужской силы,assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.620,needs-review
+FAMALL-083,SUTING Гигиенические прокладки - ночные+ удлиненные 360 мм. Ультра,assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.937,needs-review
+FAMALL-087,BOCARE Ухаживающие вкладыши для мужин,assets/images/products/famall-087-famallnetwork.jpg,,project/local-file-fuzzy,0.907,needs-review
+FAMALL-088,Miaorou Детские очищающие салфетки 180*200/,assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.667,needs-review
+FAMALL-090,Miubaby специальное средство для стирки детских вещей,assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-092,YIJIAN Мягкая детская зубная щётка с защитой зубов,assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.967,needs-review
+FAMALL-095,LIMANCY Увлажняющий воздушный кушон (натурального цвета 002) CC- кушон с запасным блоком,assets/images/products/placeholder.svg,assets/images/products/95-limancy-uvlazhnyayuschiy-vozdushnyy-kushon-naturalnogo-cveta-002-cc-kushon-s-zapasnym-b.png,project/local-file,0.950,updated
+FAMALL-096,LIMANCY Крем для тела и ненакрашенного лица ( выравнивает текстуру кожи),assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.653,needs-review
+FAMALL-097,LIMANCY Увлажняющий бальзам для губ с легким оттенком (светло-розовый）,assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.746,needs-review
+FAMALL-098,LIMANCY Увлажняющий бальзам для губ с Алоэ,assets/images/products/famall-098-famallnetwork.jpg,assets/images/products/98-limancy-uvlazhnyayuschiy-balzam-dlya-gub-s-aloe.png,project/local-file,0.950,updated
+FAMALL-099,MOREFUTURE пробиотический напиток с шиповником и овощами,assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-100,"MOREFUTURE Кофе с женьшенем, кордицепсом и ганодермой",assets/images/products/placeholder.svg,,,0.000,not-found
+FAMALL-101,MOREFUTURE Витаминый конфеты с вкусом апельсина/ шипучие,assets/images/products/famall-101-famallnetwork.jpg,,,0.000,not-found
+FAMALL-102,MOREFUTURE Чай из кукурузных рылец,assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.763,needs-review
+FAMALL-103,Miao Rou Бумага из бамбукового волокна натурального цвета в рулонах,assets/images/products/famall-103-famallnetwork.jpg,,,0.000,not-found
+FAMALL-104,Miao Rou Детские влажные салфетки80 шт. (180ммх200мм),assets/images/products/placeholder.svg,,project/local-file-fuzzy,0.783,needs-review
+FAMALL-105,Miao Rou Бамбуковые носовые платочки 10 х,assets/images/products/placeholder.svg,,global.wildberries.ru/brands/2683531-famall,0.612,needs-review
