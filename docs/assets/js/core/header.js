@@ -1,5 +1,8 @@
 import { getBasePath } from "../modules/store.js?v=20260619-2";
 
+export const FAMALL_WORLD_URL = "https://famallworld.com/web";
+export const FAMALL_LOGIN_URL = "https://famallworld.com/login";
+
 const NAV_ITEMS = [
   { id: "catalog", label: "Каталог", href: "pages/catalog/" },
   { id: "brands", label: "Бренды", href: "pages/about/", activeOn: ["about", "brands"] },
@@ -7,10 +10,20 @@ const NAV_ITEMS = [
   { id: "hits", label: "Хиты", href: "pages/hits/" },
   { id: "reviews", label: "Отзывы", href: "pages/reviews/" },
   { id: "partners", label: "Партнёрам", href: "pages/partners/" },
+  { id: "famall-world", label: "FAMALL World", href: FAMALL_WORLD_URL, external: true },
   { id: "contacts", label: "Контакты", href: "pages/contacts/" }
 ];
 
+const MOBILE_EXTERNAL_LINKS = [
+  { label: "Официальный сайт", href: FAMALL_WORLD_URL },
+  { label: "Вход дистрибьютора", href: FAMALL_LOGIN_URL }
+];
+
 function isNavActive(item, currentPage) {
+  if (item.external) {
+    return false;
+  }
+
   if (item.activeOn) {
     return item.activeOn.includes(currentPage);
   }
@@ -18,16 +31,26 @@ function isNavActive(item, currentPage) {
   return currentPage === item.id;
 }
 
-export function buildHeaderMarkup(basePath, currentPage = "home") {
-  const navMarkup = NAV_ITEMS.map((item) => {
-    const activeClass = isNavActive(item, currentPage) ? " is-active" : "";
-    return `<a class="site-header__link${activeClass}" href="${basePath}${item.href}">${item.label}</a>`;
-  }).join("");
+function navLinkMarkup(item, basePath, currentPage, className) {
+  const href = item.external ? item.href : `${basePath}${item.href}`;
+  const activeClass = isNavActive(item, currentPage) ? " is-active" : "";
+  const externalAttrs = item.external ? ' target="_blank" rel="noopener"' : "";
 
-  const mobileNavMarkup = NAV_ITEMS.map((item) => {
-    const activeClass = isNavActive(item, currentPage) ? " is-active" : "";
-    return `<a class="site-header__mobile-link${activeClass}" href="${basePath}${item.href}">${item.label}</a>`;
-  }).join("");
+  return `<a class="${className}${activeClass}" href="${href}"${externalAttrs}>${item.label}</a>`;
+}
+
+export function buildHeaderMarkup(basePath, currentPage = "home") {
+  const navMarkup = NAV_ITEMS
+    .map((item) => navLinkMarkup(item, basePath, currentPage, "site-header__link"))
+    .join("");
+
+  const mobileNavMarkup = NAV_ITEMS
+    .map((item) => navLinkMarkup(item, basePath, currentPage, "site-header__mobile-link"))
+    .join("");
+
+  const mobileExternalMarkup = MOBILE_EXTERNAL_LINKS.map((item) => `
+    <a class="site-header__mobile-link site-header__mobile-link--external" href="${item.href}" target="_blank" rel="noopener">${item.label}</a>
+  `).join("");
 
   return `
     <div class="site-header__inner">
@@ -51,6 +74,9 @@ export function buildHeaderMarkup(basePath, currentPage = "home") {
     </div>
     <nav class="site-header__mobile-panel" aria-label="Мобильная навигация">
       ${mobileNavMarkup}
+      <div class="site-header__mobile-external">
+        ${mobileExternalMarkup}
+      </div>
     </nav>
   `;
 }

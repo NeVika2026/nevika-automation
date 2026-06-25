@@ -171,9 +171,22 @@
   }
 
   .site-header.is-open .site-header__mobile-panel {
-    max-height: 460px;
+    max-height: 560px;
     padding: 14px var(--page-gutter) 18px;
     border-top-color: var(--color-line);
+  }
+
+  .site-header__mobile-external {
+    display: grid;
+    gap: 2px;
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px solid var(--color-line);
+  }
+
+  .site-header__mobile-link--external {
+    color: var(--color-brand-red);
+    font-weight: 800;
   }
 
   .site-header__mobile-link {

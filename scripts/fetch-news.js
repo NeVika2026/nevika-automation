@@ -94,6 +94,13 @@ const parser = new Parser({
   timeout: 15000,
   headers: {
     "User-Agent": "FAMALL-NewsBot/1.0 (+https://famall.online)"
+  },
+  customFields: {
+    item: [
+      ["media:content", "media:content", { keepArray: true }],
+      ["media:thumbnail", "media:thumbnail", { keepArray: true }],
+      ["content:encoded", "content:encoded"]
+    ]
   }
 });
 
@@ -107,6 +114,83 @@ function stripHtml(value = "") {
     .replace(/&#039;/g, "'")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function normalizeImageUrl(value = "") {
+  const url = String(value).trim().replace(/&amp;/g, "&");
+
+  if (!url || !/^https?:\/\//i.test(url)) {
+    return "";
+  }
+
+  return url;
+}
+
+function firstImageFromHtml(html = "") {
+  const match = String(html).match(/<img[^>]+src=["']([^"']+)["']/i);
+  return normalizeImageUrl(match?.[1] || "");
+}
+
+function readMediaUrl(mediaEntry) {
+  if (!mediaEntry) {
+    return "";
+  }
+
+  if (Array.isArray(mediaEntry)) {
+    for (const entry of mediaEntry) {
+      const url = normalizeImageUrl(entry?.$?.url || entry?.url);
+
+      if (url) {
+        return url;
+      }
+    }
+
+    return "";
+  }
+
+  return normalizeImageUrl(mediaEntry?.$?.url || mediaEntry?.url);
+}
+
+function extractImage(entry) {
+  const enclosureUrl = normalizeImageUrl(entry.enclosure?.url);
+
+  if (enclosureUrl) {
+    const enclosureType = String(entry.enclosure?.type || "");
+
+    if (!enclosureType || enclosureType.startsWith("image/")) {
+      return enclosureUrl;
+    }
+  }
+
+  const mediaContentUrl = readMediaUrl(entry["media:content"]);
+
+  if (mediaContentUrl) {
+    return mediaContentUrl;
+  }
+
+  const mediaThumbnailUrl = readMediaUrl(entry["media:thumbnail"]);
+
+  if (mediaThumbnailUrl) {
+    return mediaThumbnailUrl;
+  }
+
+  const htmlSources = [
+    entry["content:encoded"],
+    entry.content,
+    entry.description,
+    entry.summary,
+    entry.contentSnippet
+  ];
+
+  for (const html of htmlSources) {
+    const imageUrl = firstImageFromHtml(html);
+
+    if (imageUrl) {
+      return imageUrl;
+    }
+  }
+
+  return "";
 }
 
 function toDateString(value) {
@@ -167,6 +251,7 @@ async function fetchSource(source) {
       title: stripHtml(entry.title),
       summary: buildSummary(summarySource, stripHtml(entry.title)),
       url,
+      image: extractImage(entry),
       active: true
     });
   }
