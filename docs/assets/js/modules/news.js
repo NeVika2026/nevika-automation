@@ -1,6 +1,13 @@
 import { escapeHtml, fetchJson, getBasePath } from "./store.js?v=20260619-2";
 import { isRssNewsItem, rssNewsCardMarkup } from "./rss-news.js?v=20260619-2";
 
+const TOPIC_FILTER_GROUPS = {
+  economy: ["economy", "finance"],
+  realty: ["realestate", "mortgage"],
+  ai: ["ai"],
+  business: ["business", "marketing", "partners"]
+};
+
 function formatDate(value) {
   return new Intl.DateTimeFormat("ru-RU", {
     day: "numeric",
@@ -38,6 +45,28 @@ function siteNewsCardMarkup(item) {
   `;
 }
 
+function getTopicFilter() {
+  return new URLSearchParams(window.location.search).get("topic");
+}
+
+function matchesTopicFilter(item, topicFilter) {
+  if (!topicFilter) {
+    return true;
+  }
+
+  const topics = TOPIC_FILTER_GROUPS[topicFilter];
+
+  if (!topics) {
+    return true;
+  }
+
+  if (!isRssNewsItem(item)) {
+    return false;
+  }
+
+  return topics.includes(item.topic);
+}
+
 export async function initNewsPage() {
   const grid = document.querySelector("[data-news-grid]");
 
@@ -45,8 +74,15 @@ export async function initNewsPage() {
     return;
   }
 
+  const topicFilter = getTopicFilter();
   const news = (await fetchJson("data/news.json")).filter((item) => item.active !== false);
-  const sorted = [...news].sort((left, right) => right.date.localeCompare(left.date));
+  const filtered = news.filter((item) => matchesTopicFilter(item, topicFilter));
+  const sorted = [...filtered].sort((left, right) => right.date.localeCompare(left.date));
+
+  if (!sorted.length) {
+    grid.innerHTML = `<p class="news-grid__empty">Пока нет материалов по этой теме. Загляните позже или посмотрите <a href="./">все новости</a>.</p>`;
+    return;
+  }
 
   grid.innerHTML = sorted
     .map((item) => (isRssNewsItem(item) ? rssNewsCardMarkup(item) : siteNewsCardMarkup(item)))
