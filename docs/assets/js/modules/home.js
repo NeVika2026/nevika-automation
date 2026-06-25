@@ -1,4 +1,4 @@
-import { addToCart, escapeHtml, fetchJson, formatPrice, productImageMarkup } from "./store.js?v=20260619-2";
+import { addToCart, escapeHtml, fetchJson, formatPrice, productImageMarkup } from "./store.js?v=20260623-1";
 
 function hitCard(product) {
   const cardTitle = product.displayName || product.name;

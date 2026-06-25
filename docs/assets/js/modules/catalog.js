@@ -1,4 +1,4 @@
-import { addToCart, escapeHtml, fetchJson, formatPrice, productImageMarkup } from "./store.js?v=20260619-2";
+import { addToCart, escapeHtml, fetchJson, formatPrice, productImageMarkup } from "./store.js?v=20260623-1";
 
 function productCard(product) {
   const badges = (product.badges || [])

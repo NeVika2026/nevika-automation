@@ -1,12 +1,12 @@
-import { initCartPage } from "../modules/cart.js?v=20260619-2";
-import { initCatalogPage } from "../modules/catalog.js?v=20260619-2";
-import { initHomePage } from "../modules/home.js?v=20260619-2";
-import { initNewsPage } from "../modules/news.js?v=20260619-2";
-import { initProductPage } from "../modules/product.js?v=20260619-2";
-import { initPromoSlots } from "../modules/promos.js?v=20260619-2";
-import { FAMALL_REVIEWS_URL, formConsentMarkup, getBasePath, maxUrl, updateCartCount, whatsappUrl } from "../modules/store.js?v=20260619-2";
-import { bindHeaderMenu, buildHeaderMarkup, renderSiteHeader } from "./header.js?v=20260619-2";
-import { buildFooterMarkup, renderSiteFooter } from "./footer.js?v=20260619-2";
+import { initCartPage } from "../modules/cart.js?v=20260623-1";
+import { initCatalogPage } from "../modules/catalog.js?v=20260623-1";
+import { initHomePage } from "../modules/home.js?v=20260623-1";
+import { initNewsPage } from "../modules/news.js?v=20260623-1";
+import { initProductPage } from "../modules/product.js?v=20260623-1";
+import { initPromoSlots } from "../modules/promos.js?v=20260623-1";
+import { FAMALL_REVIEWS_URL, formConsentMarkup, getBasePath, maxUrl, updateCartCount, whatsappUrl } from "../modules/store.js?v=20260623-1";
+import { bindHeaderMenu, buildHeaderMarkup, renderSiteHeader } from "./header.js?v=20260623-1";
+import { buildFooterMarkup, renderSiteFooter } from "./footer.js?v=20260623-1";
 
 function applyLayoutFallback() {
   const basePath = getBasePath();

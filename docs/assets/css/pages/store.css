@@ -2231,8 +2231,10 @@
 }
 
 .contact-card__button.contact-whatsapp {
-  background: #16a34a;
-  color: #ffffff;
+  width: auto;
+  max-width: 100%;
+  background: #16a34a !important;
+  color: #ffffff !important;
   box-shadow: 0 8px 20px rgba(22, 163, 74, 0.24);
 }
 

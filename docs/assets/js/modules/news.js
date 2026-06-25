@@ -1,5 +1,5 @@
-import { escapeHtml, fetchJson, getBasePath } from "./store.js?v=20260619-2";
-import { isRssNewsItem, rssNewsCardMarkup } from "./rss-news.js?v=20260619-2";
+import { escapeHtml, fetchJson, getBasePath } from "./store.js?v=20260623-1";
+import { isRssNewsItem, rssNewsCardMarkup } from "./rss-news.js?v=20260623-1";
 
 const TOPIC_FILTER_GROUPS = {
   economy: ["economy", "finance"],

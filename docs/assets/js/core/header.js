@@ -1,4 +1,4 @@
-import { getBasePath } from "../modules/store.js?v=20260619-2";
+import { getBasePath } from "../modules/store.js?v=20260623-1";
 
 export const FAMALL_WORLD_URL = "https://famallworld.com/web";
 export const FAMALL_LOGIN_URL = "https://famallworld.com/login";

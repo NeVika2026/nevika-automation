@@ -10,7 +10,7 @@ import {
   removeFromCart,
   saveCart,
   updateCartQuantity
-} from "./store.js?v=20260619-2";
+} from "./store.js?v=20260623-1";
 
 function getRows(cart, products) {
   const productMap = new Map(products.map((product) => [product.id, product]));

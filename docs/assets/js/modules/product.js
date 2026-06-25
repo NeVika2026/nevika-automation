@@ -6,7 +6,7 @@ import {
   getBasePath,
   getProductGallery,
   productImageMarkup
-} from "./store.js?v=20260619-2";
+} from "./store.js?v=20260623-1";
 
 function imageMarkup(item, product) {
   return `<img src="${getBasePath()}${item.src}" alt="${escapeHtml(item.alt || product.name)}" loading="lazy">`;

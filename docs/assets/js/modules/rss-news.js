@@ -1,4 +1,4 @@
-import { escapeHtml } from "./store.js?v=20260619-2";
+import { escapeHtml } from "./store.js?v=20260623-1";
 
 function formatDate(value) {
   return new Intl.DateTimeFormat("ru-RU", {

@@ -12,7 +12,7 @@ export function getBasePath() {
 
 export async function fetchJson(path) {
   const separator = path.includes("?") ? "&" : "?";
-  const response = await fetch(`${getBasePath()}${path}${separator}v=20260619-2`);
+  const response = await fetch(`${getBasePath()}${path}${separator}v=20260623-1`);
 
   if (!response.ok) {
     throw new Error(`Cannot load ${path}`);

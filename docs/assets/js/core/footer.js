@@ -1,5 +1,5 @@
-import { getBasePath } from "../modules/store.js?v=20260619-2";
-import { FAMALL_LOGIN_URL, FAMALL_WORLD_URL } from "./header.js?v=20260619-2";
+import { getBasePath } from "../modules/store.js?v=20260623-1";
+import { FAMALL_LOGIN_URL, FAMALL_WORLD_URL } from "./header.js?v=20260623-1";
 
 const FOOTER_SECTIONS = [
   { label: "Каталог", href: "pages/catalog/" },

@@ -1,4 +1,4 @@
-import { getBasePath } from "./store.js?v=20260619-2";
+import { getBasePath } from "./store.js?v=20260623-1";
 
 const MASCOT_CONFIG = {
   enabled: true,
