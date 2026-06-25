@@ -2166,41 +2166,93 @@
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
+  align-items: stretch;
 }
 
 .contact-card {
-  display: grid;
-  gap: 8px;
-  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 100%;
+  padding: 24px;
   border: 1px solid var(--color-line);
-  border-radius: 8px;
+  border-radius: 20px;
   background: var(--color-white);
+  box-shadow: 0 8px 22px rgba(32, 33, 36, 0.06);
 }
 
-.contact-card span {
-  color: var(--color-soft-graphite);
-}
-
-.contact-card a {
+.contact-card__title {
+  margin: 0;
   color: var(--color-graphite);
   font-size: 22px;
   font-weight: 800;
+  line-height: 1.2;
 }
 
-.contact-card a.btn--max {
-  justify-self: start;
-  color: var(--color-white);
-  font-size: 16px;
+.contact-card__text {
+  flex: 1;
+  margin: 0;
+  color: var(--color-soft-graphite);
+  font-size: 15px;
+  line-height: 1.55;
 }
 
-.contact-card a:hover,
-.contact-card a:focus-visible {
-  color: var(--color-brand-red);
+.contact-card__button {
+  align-self: flex-start;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 14px 22px;
+  border: none;
+  border-radius: 999px;
+  font-size: 15px;
+  font-weight: 800;
+  line-height: 1;
+  text-align: center;
+  transition: transform 180ms ease, box-shadow 180ms ease, background 180ms ease, color 180ms ease;
 }
 
-.contact-card a.btn--max:hover,
-.contact-card a.btn--max:focus-visible {
-  color: var(--color-white);
+.contact-card__button:hover,
+.contact-card__button:focus-visible {
+  transform: translateY(-1px);
+}
+
+.contact-card__button.contact-max {
+  background: linear-gradient(135deg, #6c4dff, #4a7dff);
+  color: #ffffff;
+  box-shadow: 0 8px 20px rgba(93, 76, 255, 0.28);
+}
+
+.contact-card__button.contact-max:hover,
+.contact-card__button.contact-max:focus-visible {
+  color: #ffffff;
+  box-shadow: 0 10px 24px rgba(92, 92, 255, 0.32);
+}
+
+.contact-card__button.contact-whatsapp {
+  background: #16a34a;
+  color: #ffffff;
+  box-shadow: 0 8px 20px rgba(22, 163, 74, 0.24);
+}
+
+.contact-card__button.contact-whatsapp:hover,
+.contact-card__button.contact-whatsapp:focus-visible {
+  background: #12833c;
+  color: #ffffff;
+}
+
+.contact-card__button.contact-reviews {
+  border: 1px solid #ffd1da;
+  background: #fff0f3;
+  color: #ff3152;
+  box-shadow: 0 8px 20px rgba(255, 41, 66, 0.08);
+}
+
+.contact-card__button.contact-reviews:hover,
+.contact-card__button.contact-reviews:focus-visible {
+  background: #ffe2e8;
+  color: #e92849;
 }
 
 @media (max-width: 900px) {

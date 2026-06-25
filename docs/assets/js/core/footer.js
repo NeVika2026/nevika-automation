@@ -4,12 +4,12 @@ import { FAMALL_LOGIN_URL, FAMALL_WORLD_URL } from "./header.js?v=20260619-2";
 const FOOTER_SECTIONS = [
   { label: "Каталог", href: "pages/catalog/" },
   { label: "Акции", href: "pages/sale/" },
-  { label: "Новости", href: "index.html#news" },
-  { label: "Тетрадь", href: "pages/workbook/" },
+  { label: "Новости", href: "pages/news/" },
+  { label: "Купить тетрадь", href: "pages/workbook/" },
   { label: "ИИ-помощник", href: "pages/workbook/#ai-helper" },
   { label: "Партнёрам", href: "pages/partners/" },
-  { label: "FAMALL World", href: FAMALL_WORLD_URL, external: true },
-  { label: "Кабинет дистрибьютора", href: FAMALL_LOGIN_URL, external: true }
+  { label: "Официальный сайт", href: FAMALL_WORLD_URL, external: true },
+  { label: "Вход дистрибьютора", href: FAMALL_LOGIN_URL, external: true }
 ];
 
 function footerLinkMarkup(item, basePath) {

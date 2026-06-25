@@ -9,13 +9,14 @@ const NAV_ITEMS = [
   { id: "new", label: "Новинки", href: "pages/new/" },
   { id: "hits", label: "Хиты", href: "pages/hits/" },
   { id: "sale", label: "Акции", href: "pages/sale/" },
-  { id: "news", label: "Новости", href: "index.html#news" },
-  { id: "workbook", label: "Тетрадь", href: "pages/workbook/" },
+  { id: "workbook", label: "Купить тетрадь", href: "pages/workbook/" },
   { id: "ai-helper", label: "ИИ-помощник", href: "pages/workbook/#ai-helper" },
+  { id: "news", label: "Новости", href: "pages/news/" },
+  { id: "reviews", label: "Отзывы", href: "pages/reviews/" },
   { id: "partners", label: "Партнёрам", href: "pages/partners/" },
   { id: "contacts", label: "Контакты", href: "pages/contacts/" },
-  { id: "famall-world", label: "FAMALL World", href: FAMALL_WORLD_URL, external: true },
-  { id: "famall-login", label: "Кабинет дистрибьютора", href: FAMALL_LOGIN_URL, external: true }
+  { id: "famall-world", label: "Официальный сайт", href: FAMALL_WORLD_URL, external: true },
+  { id: "famall-login", label: "Вход дистрибьютора", href: FAMALL_LOGIN_URL, external: true }
 ];
 
 function isNavActive(item, currentPage) {
@@ -38,12 +39,13 @@ function resolveHref(item, basePath) {
   return `${basePath}${item.href}`;
 }
 
-function navLinkMarkup(item, basePath, currentPage, className) {
+function navLinkMarkup(item, basePath, currentPage, className, isMobile = false) {
   const href = resolveHref(item, basePath);
   const activeClass = isNavActive(item, currentPage) ? " is-active" : "";
+  const externalClass = item.external && isMobile ? " site-header__mobile-link--external" : "";
   const externalAttrs = item.external ? ' target="_blank" rel="noopener"' : "";
 
-  return `<a class="${className}${activeClass}" href="${href}"${externalAttrs}>${item.label}</a>`;
+  return `<a class="${className}${activeClass}${externalClass}" href="${href}"${externalAttrs}>${item.label}</a>`;
 }
 
 export function buildHeaderMarkup(basePath, currentPage = "home") {
@@ -52,7 +54,7 @@ export function buildHeaderMarkup(basePath, currentPage = "home") {
     .join("");
 
   const mobileNavMarkup = NAV_ITEMS
-    .map((item) => navLinkMarkup(item, basePath, currentPage, "site-header__mobile-link"))
+    .map((item) => navLinkMarkup(item, basePath, currentPage, "site-header__mobile-link", true))
     .join("");
 
   return `
