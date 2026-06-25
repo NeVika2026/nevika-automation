@@ -1,5 +1,5 @@
 import { getBasePath } from "../modules/store.js?v=20260623-1";
-import { FAMALL_LOGIN_URL, FAMALL_WORLD_URL } from "./header.js?v=20260623-1";
+import { FAMALL_LOGIN_URL, FAMALL_WORLD_URL, VK_BLOG_URL } from "./header.js?v=20260623-1";
 
 const FOOTER_SECTIONS = [
   { label: "Каталог", href: "pages/catalog/" },
@@ -38,6 +38,11 @@ export function buildFooterMarkup(basePath) {
         <strong>Разделы сайта</strong>
         ${sectionLinks}
       </nav>
+      <div class="site-footer__blog">
+        <strong>Личный блог Виктории</strong>
+        <p>FAMALL • ИИ • бизнес • недвижимость • маркетинг</p>
+        <a class="site-footer__vk-button" href="${VK_BLOG_URL}" target="_blank" rel="noopener">Подписаться ВКонтакте</a>
+      </div>
     </div>
     <nav class="site-footer__legal" aria-label="Юридическая информация">
       <strong class="site-footer__legal-title">Юридическая информация</strong>

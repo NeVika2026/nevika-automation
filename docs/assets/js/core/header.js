@@ -2,6 +2,7 @@ import { getBasePath } from "../modules/store.js?v=20260623-1";
 
 export const FAMALL_WORLD_URL = "https://famallworld.com/web";
 export const FAMALL_LOGIN_URL = "https://famallworld.com/login";
+export const VK_BLOG_URL = "https://vk.ru/famall2026";
 
 const NAV_ITEMS = [
   { id: "catalog", label: "Каталог", href: "pages/catalog/" },

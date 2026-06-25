@@ -352,6 +352,35 @@
   color: rgba(255, 255, 255, 0.82);
 }
 
+.workbook-vk-banner {
+  display: grid;
+  gap: 12px;
+  padding: 22px 24px;
+  border: 1px solid rgba(0, 119, 255, 0.14);
+  border-radius: 20px;
+  background:
+    linear-gradient(135deg, rgba(0, 119, 255, 0.06), transparent 55%),
+    #ffffff;
+  box-shadow: 0 10px 24px rgba(32, 33, 36, 0.06);
+}
+
+.workbook-vk-banner h2 {
+  margin: 0;
+  color: var(--color-graphite);
+  font-size: clamp(20px, 2.5vw, 26px);
+  line-height: 1.25;
+}
+
+.workbook-vk-banner p {
+  margin: 0;
+  color: var(--color-soft-graphite);
+  line-height: 1.55;
+}
+
+.workbook-vk-banner .button--vk {
+  justify-self: start;
+}
+
 @media (max-width: 1024px) {
   .workbook-benefits__grid,
   .workbook-contents-grid {
