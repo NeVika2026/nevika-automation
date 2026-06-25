@@ -5,22 +5,21 @@ export const FAMALL_LOGIN_URL = "https://famallworld.com/login";
 
 const NAV_ITEMS = [
   { id: "catalog", label: "Каталог", href: "pages/catalog/" },
-  { id: "brands", label: "Бренды", href: "pages/about/", activeOn: ["about", "brands"] },
+  { id: "brands", label: "Бренды", href: "pages/brands/" },
   { id: "new", label: "Новинки", href: "pages/new/" },
   { id: "hits", label: "Хиты", href: "pages/hits/" },
-  { id: "reviews", label: "Отзывы", href: "pages/reviews/" },
+  { id: "sale", label: "Акции", href: "pages/sale/" },
+  { id: "news", label: "Новости", href: "index.html#news" },
+  { id: "workbook", label: "Тетрадь", href: "pages/workbook/" },
+  { id: "ai-helper", label: "ИИ-помощник", href: "pages/workbook/#ai-helper" },
   { id: "partners", label: "Партнёрам", href: "pages/partners/" },
+  { id: "contacts", label: "Контакты", href: "pages/contacts/" },
   { id: "famall-world", label: "FAMALL World", href: FAMALL_WORLD_URL, external: true },
-  { id: "contacts", label: "Контакты", href: "pages/contacts/" }
-];
-
-const MOBILE_EXTERNAL_LINKS = [
-  { label: "Официальный сайт", href: FAMALL_WORLD_URL },
-  { label: "Вход дистрибьютора", href: FAMALL_LOGIN_URL }
+  { id: "famall-login", label: "Кабинет дистрибьютора", href: FAMALL_LOGIN_URL, external: true }
 ];
 
 function isNavActive(item, currentPage) {
-  if (item.external) {
+  if (item.external || item.href.includes("#")) {
     return false;
   }
 
@@ -31,8 +30,16 @@ function isNavActive(item, currentPage) {
   return currentPage === item.id;
 }
 
+function resolveHref(item, basePath) {
+  if (item.external) {
+    return item.href;
+  }
+
+  return `${basePath}${item.href}`;
+}
+
 function navLinkMarkup(item, basePath, currentPage, className) {
-  const href = item.external ? item.href : `${basePath}${item.href}`;
+  const href = resolveHref(item, basePath);
   const activeClass = isNavActive(item, currentPage) ? " is-active" : "";
   const externalAttrs = item.external ? ' target="_blank" rel="noopener"' : "";
 
@@ -47,10 +54,6 @@ export function buildHeaderMarkup(basePath, currentPage = "home") {
   const mobileNavMarkup = NAV_ITEMS
     .map((item) => navLinkMarkup(item, basePath, currentPage, "site-header__mobile-link"))
     .join("");
-
-  const mobileExternalMarkup = MOBILE_EXTERNAL_LINKS.map((item) => `
-    <a class="site-header__mobile-link site-header__mobile-link--external" href="${item.href}" target="_blank" rel="noopener">${item.label}</a>
-  `).join("");
 
   return `
     <div class="site-header__inner">
@@ -74,9 +77,6 @@ export function buildHeaderMarkup(basePath, currentPage = "home") {
     </div>
     <nav class="site-header__mobile-panel" aria-label="Мобильная навигация">
       ${mobileNavMarkup}
-      <div class="site-header__mobile-external">
-        ${mobileExternalMarkup}
-      </div>
     </nav>
   `;
 }

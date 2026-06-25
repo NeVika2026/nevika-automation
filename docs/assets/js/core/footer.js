@@ -1,10 +1,32 @@
 import { getBasePath } from "../modules/store.js?v=20260619-2";
+import { FAMALL_LOGIN_URL, FAMALL_WORLD_URL } from "./header.js?v=20260619-2";
+
+const FOOTER_SECTIONS = [
+  { label: "Каталог", href: "pages/catalog/" },
+  { label: "Акции", href: "pages/sale/" },
+  { label: "Новости", href: "index.html#news" },
+  { label: "Тетрадь", href: "pages/workbook/" },
+  { label: "ИИ-помощник", href: "pages/workbook/#ai-helper" },
+  { label: "Партнёрам", href: "pages/partners/" },
+  { label: "FAMALL World", href: FAMALL_WORLD_URL, external: true },
+  { label: "Кабинет дистрибьютора", href: FAMALL_LOGIN_URL, external: true }
+];
+
+function footerLinkMarkup(item, basePath) {
+  const href = item.external ? item.href : `${basePath}${item.href}`;
+  const externalAttrs = item.external ? ' target="_blank" rel="noopener"' : "";
+
+  return `<a href="${href}"${externalAttrs}>${item.label}</a>`;
+}
 
 export function buildFooterMarkup(basePath) {
   const year = new Date().getFullYear();
+  const sectionLinks = FOOTER_SECTIONS
+    .map((item) => footerLinkMarkup(item, basePath))
+    .join("");
 
   return `
-    <div class="site-footer__inner site-footer__inner--compact">
+    <div class="site-footer__inner">
       <div class="site-footer__brand">
         <img class="site-footer__logo" src="${basePath}assets/images/famall-logo.png?v=20260607" alt="FAMALL">
         <p>© ${year} FAMALL</p>
@@ -12,8 +34,13 @@ export function buildFooterMarkup(basePath) {
         <p>ИНН 861101191064</p>
         <p><a href="mailto:info@famall.online">info@famall.online</a></p>
       </div>
+      <nav class="site-footer__sections" aria-label="Разделы сайта">
+        <strong>Разделы сайта</strong>
+        ${sectionLinks}
+      </nav>
     </div>
     <nav class="site-footer__legal" aria-label="Юридическая информация">
+      <strong class="site-footer__legal-title">Юридическая информация</strong>
       <a href="${basePath}pages/oferta/">Публичная оферта</a>
       <a href="${basePath}pages/privacy/">Политика конфиденциальности</a>
       <a href="${basePath}pages/consent/">Согласие на обработку персональных данных</a>
