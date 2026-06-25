@@ -1,4 +1,5 @@
 import { escapeHtml, fetchJson, getBasePath } from "./store.js?v=20260619-2";
+import { isRssNewsItem, rssNewsCardMarkup } from "./rss-news.js?v=20260619-2";
 
 function formatDate(value) {
   return new Intl.DateTimeFormat("ru-RU", {
@@ -21,6 +22,22 @@ function coverMarkup(item) {
   `;
 }
 
+function siteNewsCardMarkup(item) {
+  const promoClass = item.id === "referral-promo-2026" ? " news-card--promo" : "";
+
+  return `
+    <article class="news-card${promoClass}" data-news-id="${escapeHtml(item.id)}">
+      <div class="news-card__image">${coverMarkup(item)}</div>
+      <div class="news-card__body">
+        <span class="news-card__date">${formatDate(item.date)}</span>
+        <h2 class="news-card__title">${escapeHtml(item.title)}</h2>
+        <p class="news-card__text">${escapeHtml(item.text)}</p>
+        <a class="button button--secondary" href="../contacts/">Подробнее</a>
+      </div>
+    </article>
+  `;
+}
+
 export async function initNewsPage() {
   const grid = document.querySelector("[data-news-grid]");
 
@@ -29,21 +46,9 @@ export async function initNewsPage() {
   }
 
   const news = (await fetchJson("data/news.json")).filter((item) => item.active !== false);
+  const sorted = [...news].sort((left, right) => right.date.localeCompare(left.date));
 
-  grid.innerHTML = news
-    .map((item) => {
-      const promoClass = item.id === "referral-promo-2026" ? " news-card--promo" : "";
-      return `
-        <article class="news-card${promoClass}" data-news-id="${escapeHtml(item.id)}">
-          <div class="news-card__image">${coverMarkup(item)}</div>
-          <div class="news-card__body">
-            <span class="news-card__date">${formatDate(item.date)}</span>
-            <h2 class="news-card__title">${escapeHtml(item.title)}</h2>
-            <p class="news-card__text">${escapeHtml(item.text)}</p>
-            <a class="button button--secondary" href="#">Читать</a>
-          </div>
-        </article>
-      `;
-    })
+  grid.innerHTML = sorted
+    .map((item) => (isRssNewsItem(item) ? rssNewsCardMarkup(item) : siteNewsCardMarkup(item)))
     .join("");
 }

@@ -276,6 +276,27 @@
   line-height: 1.55;
 }
 
+.news-card__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+}
+
+.news-card__topic,
+.news-card__source {
+  color: var(--color-brand-red);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.news-card__source {
+  color: var(--color-soft-graphite);
+}
+
+.news-card--rss {
+  grid-template-rows: 1fr;
+}
+
 .product-card__text {
   display: -webkit-box;
   overflow: hidden;
