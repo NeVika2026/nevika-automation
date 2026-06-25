@@ -2,6 +2,8 @@ import {
   escapeHtml,
   fetchJson,
   formatPrice,
+  formConsentMarkup,
+  getBasePath,
   getCart,
   orderMessengerUrl,
   productImageMarkup,
@@ -83,6 +85,7 @@ function renderCart(root, products) {
           <a class="button btn--max" href="${orderMessengerUrl(rows, total, "max")}" target="_blank" rel="noopener">Написать в MAX</a>
           <a class="button button--whatsapp" href="${orderMessengerUrl(rows, total, "whatsapp")}" target="_blank" rel="noopener">Написать в WhatsApp</a>
         </div>
+        ${formConsentMarkup(getBasePath())}
         <p class="cart-summary__note">Оплата, наличие и доставка согласуются с консультантом в выбранном мессенджере.</p>
       </aside>
     </div>

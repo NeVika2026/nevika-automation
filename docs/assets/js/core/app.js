@@ -4,7 +4,7 @@ import { initHomePage } from "../modules/home.js?v=20260619-2";
 import { initNewsPage } from "../modules/news.js?v=20260619-2";
 import { initProductPage } from "../modules/product.js?v=20260619-2";
 import { initPromoSlots } from "../modules/promos.js?v=20260619-2";
-import { FAMALL_REVIEWS_URL, maxUrl, updateCartCount, whatsappUrl } from "../modules/store.js?v=20260619-2";
+import { FAMALL_REVIEWS_URL, formConsentMarkup, getBasePath, maxUrl, updateCartCount, whatsappUrl } from "../modules/store.js?v=20260619-2";
 
 function getBasePath() {
   if (window.location.pathname.includes("/pages/")) {
@@ -129,9 +129,32 @@ function renderFooter() {
     <div class="site-footer__bottom">
       <span>© ${year} FAMALL</span>
       <span>Заказ оформляется через выбранный мессенджер.</span>
-      <a href="${basePath}pages/privacy-policy/">Политика конфиденциальности</a>
     </div>
+    <nav class="site-footer__legal" aria-label="Юридическая информация">
+      <a href="${basePath}pages/oferta/">Публичная оферта</a>
+      <a href="${basePath}pages/privacy/">Политика конфиденциальности</a>
+      <a href="${basePath}pages/consent/">Согласие на обработку персональных данных</a>
+      <a href="${basePath}pages/marketing-consent/">Согласие на информационные сообщения</a>
+      <a href="${basePath}pages/refund/">Возврат и отмена</a>
+      <a href="${basePath}pages/requisites/">Реквизиты</a>
+    </nav>
   `;
+}
+
+function injectFormConsent() {
+  const markup = formConsentMarkup(getBasePath());
+
+  document.querySelectorAll("[data-form-consent]").forEach((node) => {
+    node.innerHTML = markup;
+  });
+
+  document.querySelectorAll("form").forEach((form) => {
+    if (form.querySelector(".form-consent")) {
+      return;
+    }
+
+    form.insertAdjacentHTML("beforeend", markup);
+  });
 }
 
 function renderFloatingContact() {
@@ -154,6 +177,7 @@ function renderFloatingContact() {
 renderHeader();
 renderFooter();
 renderFloatingContact();
+injectFormConsent();
 updateCartCount();
 initCatalogPage();
 initHomePage();

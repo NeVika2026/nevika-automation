@@ -200,3 +200,15 @@ export function phoneUrl() {
 export function whatsappUrl() {
   return whatsappMessageUrl("Здравствуйте! Хочу уточнить информацию по FAMALL.");
 }
+
+export function formConsentMarkup(basePath = getBasePath()) {
+  return `
+    <p class="form-consent">
+      Нажимая кнопку отправки, я принимаю условия
+      <a href="${basePath}pages/oferta/">Публичной оферты</a>,
+      <a href="${basePath}pages/privacy/">Политики конфиденциальности</a>
+      и даю
+      <a href="${basePath}pages/consent/">согласие на обработку персональных данных</a>.
+    </p>
+  `;
+}

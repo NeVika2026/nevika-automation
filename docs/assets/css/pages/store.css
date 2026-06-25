@@ -509,6 +509,58 @@
   line-height: 1.65;
 }
 
+.legal-page {
+  display: grid;
+  gap: 20px;
+}
+
+.legal-page .product-info-block ul,
+.legal-page .product-info-block ol {
+  margin: 0;
+  padding-left: 20px;
+  color: var(--color-soft-graphite);
+  line-height: 1.65;
+}
+
+.legal-page .product-info-block li + li {
+  margin-top: 8px;
+}
+
+.form-consent {
+  margin: 0;
+  color: #676b76;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.form-consent a {
+  color: #ff2942;
+  font-weight: 700;
+}
+
+.workbook-legal-note {
+  display: block;
+  max-width: 640px;
+  margin: 0;
+  color: #676b76;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.workbook-legal-note a {
+  color: #ff2942;
+  font-weight: 700;
+}
+
+.workbook-legal-note--light {
+  color: rgba(255, 255, 255, 0.88);
+}
+
+.workbook-legal-note--light a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
 .product-specs {
   display: grid;
   gap: 1px;
