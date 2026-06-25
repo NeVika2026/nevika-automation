@@ -7,9 +7,6 @@ export const VK_BLOG_URL = "https://vk.ru/famall2026";
 const NAV_ITEMS = [
   { id: "catalog", label: "Каталог", href: "pages/catalog/" },
   { id: "brands", label: "Бренды", href: "pages/brands/" },
-  { id: "new", label: "Новинки", href: "pages/new/" },
-  { id: "hits", label: "Хиты", href: "pages/hits/" },
-  { id: "sale", label: "Акции", href: "pages/sale/" },
   { id: "workbook", label: "Купить тетрадь", href: "pages/workbook/" },
   { id: "ai-helper", label: "ИИ-помощник", href: "pages/workbook/#ai-helper" },
   { id: "news", label: "Новости", href: "pages/news/" },
@@ -17,7 +14,7 @@ const NAV_ITEMS = [
   { id: "partners", label: "Партнёрам", href: "pages/partners/" },
   { id: "contacts", label: "Контакты", href: "pages/contacts/" },
   { id: "famall-world", label: "Официальный сайт", href: FAMALL_WORLD_URL, external: true },
-  { id: "famall-login", label: "Вход дистрибьютора", href: FAMALL_LOGIN_URL, external: true }
+  { id: "famall-login", label: "Кабинет дистрибьютора", href: FAMALL_LOGIN_URL, external: true }
 ];
 
 function isNavActive(item, currentPage) {
